@@ -1,0 +1,69 @@
+id,description,lon,lat
+AP_ANTENNE2,Antenne 2,5.727524,45.192460
+AP_ANTENNE3,Antenne 3,5.707345,45.172551
+AP_ANTENNE4,Antenne 4,5.725943,45.177295
+AP_ANTENNE5,Antenne 5,5.742909,45.178072
+AP_ANTENNE6,Antenne 6 Patio Arlequin,5.732869,45.163912
+AP_APP_GAGNANT,Musée Stendhal Appartement Gagnon ,5.728058,45.191570
+AP_BIB_ABBAYE,Bibliothèque Abbaye,5.742074,45.179421
+AP_BIB_ALLIANCE,Bibliothèque Alliance,5.724550,45.173390
+AP_BIB_ARLEQUIN,Bibliothèque Arlequin,5.732911,45.164028
+AP_BIB_CENTRE_VILLE,Bibliothèque Centre Ville,5.729302,45.190363
+AP_BIB_CENTRE_VILLE2,Bibliothèque Centre Ville,5.729302,45.190363
+AP_BIB_EAUX_CLAIRES,Bibliothèque Eaux claires,5.709215,45.175540
+AP_BIB_ETUDES,Bibliothèque Etudes,5.730799,45.185368
+AP_BIB_ETUDES2,Bibliothèque Etudes,5.730799,45.185368
+AP_BIB_ETUDES3,Bibliothèque Etudes,5.730799,45.185368
+AP_BIB_ETUDES4,Bibliothèque Etudes,5.730799,45.185368
+AP_BIB_ETUDES_INA,Bibliothèque Etudes,5.730799,45.185368
+AP_BIB_GRANDPLACE_ESPACE_MUSIQUE,Bibliothèque Kateb Yacine Esapce musique ,5.733404,45.157117
+AP_BIB_GRAND_PLACE,Bibliothèque Kateb Yacine Accueil,5.733404,45.157117
+AP_BIB_GRAND_PLACE2,Bibliothèque Kateb Yacine Etage,5.733404,45.157117
+AP_BIB_GRAND_PLACE_AUDITORIUM,Bibliothèque Kateb Yacine Auditorium,5.733404,45.157117
+AP_BIB_STBRUNO,Bibliothèque Saint Bruno Accueil,5.713204,45.187832
+AP_BIB_TEISSEIRE,Bibliothèque Teisseire,5.740708,45.170755
+AP_CCAS_ARLEQUIN,CCAS Arlequin Accueil,5.731667,45.166059
+AP_CCAS_CHRS_HENRY_TARZE,CCAS Henry Tarze Accueil,5.711304,45.198373
+AP_CCAS_LES_ALPINS,CCAS Les Alpins Accueil,5.721147,45.169666
+AP_CCAS_LES_DELPHINELLES,CCAS Les Delphinelles Accueil,5.742451,45.172116
+AP_CCAS_LUCIE_PELLAT,Résidence Personnes Agées Lucie Pellat Montbonnot,5.797903,45.224363
+AP_CCAS_SCE_SOINS_INFIRMIERS,Services Soins Infirmiers NARVIK,5.728272,45.183228
+AP_CCAS_SCE_SOINS_INFIRMIERS2,Service Soins Montesquieu,5.729231,45.175772
+AP_CCAS_SIEGE1,CCAS Siege,5.731764,45.166196
+AP_CCAS_ST_BRUNO,Residence Saint Bruno,5.713512,45.186655
+AP_CCAS_ST_BRUNO2,Residence Saint Bruno,5.713512,45.186655
+AP_CONTROLE_STA1,Contrôle de stationnnement,5.733245,45.194831
+AP_DSIT_3EME,Batiment administratif 3ème étage ,5.721906,45.181718
+AP_DSIT_6EME,Batiment administratif 6ème étage,5.721906,45.181718
+AP_DSIT_AC_1ER_SS,Batiment administratif 1er étage,5.721869,45.181667
+AP_FOURRIERE1,Fourrière ,5.713776,45.200153
+AP_GEOMATIQUE,Batiment administratif 8-2 rue des alliés ,5.720026,45.173354
+AP_HDV_12EME,Hôtel de ville 12eme étage,5.736124,45.186410
+AP_HDV_1ER_HALL,Hôtel de ville Accueil,5.736263,45.186322
+AP_HDV_1ER_S2,Hôtel de ville Bureaux de l'opposition,5.736401,45.186626
+AP_HDV_1_BUREAUX_ELUS,Hôtel de ville Direction Générale,5.736576,45.186281
+AP_HDV_1_CABINET_MAIRE,Hôtel de ville Cabinet du Maire,5.736742,45.186345
+AP_HDV_1_HALL_HONNEUR,Hôtel de ville Hall d'honneur,5.736803,45.186334
+AP_HDV_1_SALLE3,Hôtel de ville salle 3A/3B,5.736644,45.186749
+AP_HDV_7EME_1,Hôtel de ville 7ème étage coté jean pain,5.736102,45.186485
+AP_HDV_7EME_2,Hôtel de ville 7ème étage coté parc,5.736286,45.186246
+AP_HDV_CONSEIL1,Hôtel de ville Salle du Conseil Municipal,5.736991,45.186473
+AP_HDV_CONSEIL2,Hôtel de ville Salle du Conseil Municipal,5.736991,45.186473
+AP_HDV_CONSEIL3,Hôtel de ville Salle du Conseil Municipal,5.736991,45.186473
+AP_HDV_CONSEIL4,Hôtel de ville Salle du Conseil Municipal,5.736991,45.186473
+AP_HDV_KIOSQUE,Hôtel de ville Accueil public,5.736263,45.186322
+AP_HDV_PALAIS_DES_SPORTS,Palais des Sports,5.740694,45.185341
+AP_HDV_PARC_MISTRAL,Hotel de ville coté Parc Paul Mistral,5.736612,45.186228
+AP_HDV_SALLE_RECEPTION,Hotel de ville Salle de réception ,5.736651,45.186652
+AP_JDV1,Jardin de ville AP switch 470Bis,5.727202,45.192828
+AP_JDV2,Jardin de ville Port2,5.727582,45.192664
+AP_MUSEUM_CHAUFFERIE,Museum Chaufferie,5.736514,45.187854
+AP_MUSEUM_IPAD,Museum Salle 1er étage ,5.735342,45.188049
+AP_MUSEUM_ORANGERAIE,Museum Batiment de l'Orangeraie,5.735846,45.188238
+AP_POLICE1,Police Municipale,5.727465,45.186590
+AP_THEATRE1,Théatre,5.727679,45.193326
+AP_THEATRE2,Théatre,5.727679,45.193326
+Place Saint André,"Place Saint André, 1er étage (neptune)",5.728702,45.192993
+Place Victor Hugo,"12 place Victor Hugo, 6eme étage (neptune)",5.724293,45.188326
+Place Grenette,"8 place Grenette, 1er étage (neptune)",5.727342,45.191064
+COS,14 rue Albert 1er de Belgique,5.732143,45.182819

@@ -1,0 +1,410 @@
+[
+ {
+   "id": "AP_ANTENNE2",
+   "tags": { "description": "Antenne 2" },
+   "lon": 5.727524,
+   "lat": 45.19246
+ },
+ {
+   "id": "AP_ANTENNE3",
+   "tags": { "description": "Antenne 3" },
+   "lon": 5.707345,
+   "lat": 45.172551
+ },
+ {
+   "id": "AP_ANTENNE4",
+   "tags": { "description": "Antenne 4" },
+   "lon": 5.725943,
+   "lat": 45.177295
+ },
+ {
+   "id": "AP_ANTENNE5",
+   "tags": { "description": "Antenne 5" },
+   "lon": 5.742909,
+   "lat": 45.178072
+ },
+ {
+   "id": "AP_ANTENNE6",
+   "tags": { "description": "Antenne 6 Patio Arlequin" },
+   "lon": 5.732869,
+   "lat": 45.163912
+ },
+ {
+   "id": "AP_APP_GAGNANT",
+   "tags": { "description": "Musée Stendhal Appartement Gagnon " },
+   "lon": 5.728058,
+   "lat": 45.19157
+ },
+ {
+   "id": "AP_BIB_ABBAYE",
+   "tags": { "description": "Bibliothèque Abbaye" },
+   "lon": 5.742074,
+   "lat": 45.179421
+ },
+ {
+   "id": "AP_BIB_ALLIANCE",
+   "tags": { "description": "Bibliothèque Alliance" },
+   "lon": 5.72455,
+   "lat": 45.17339
+ },
+ {
+   "id": "AP_BIB_ARLEQUIN",
+   "tags": { "description": "Bibliothèque Arlequin" },
+   "lon": 5.732911,
+   "lat": 45.164028
+ },
+ {
+   "id": "AP_BIB_CENTRE_VILLE",
+   "tags": { "description": "Bibliothèque Centre Ville" },
+   "lon": 5.729302,
+   "lat": 45.190363
+ },
+ {
+   "id": "AP_BIB_CENTRE_VILLE2",
+   "tags": { "description": "Bibliothèque Centre Ville" },
+   "lon": 5.729302,
+   "lat": 45.190363
+ },
+ {
+   "id": "AP_BIB_EAUX_CLAIRES",
+   "tags": { "description": "Bibliothèque Eaux claires" },
+   "lon": 5.709215,
+   "lat": 45.17554
+ },
+ {
+   "id": "AP_BIB_ETUDES",
+   "tags": { "description": "Bibliothèque Etudes" },
+   "lon": 5.730799,
+   "lat": 45.185368
+ },
+ {
+   "id": "AP_BIB_ETUDES2",
+   "tags": { "description": "Bibliothèque Etudes" },
+   "lon": 5.730799,
+   "lat": 45.185368
+ },
+ {
+   "id": "AP_BIB_ETUDES3",
+   "tags": { "description": "Bibliothèque Etudes" },
+   "lon": 5.730799,
+   "lat": 45.185368
+ },
+ {
+   "id": "AP_BIB_ETUDES4",
+   "tags": { "description": "Bibliothèque Etudes" },
+   "lon": 5.730799,
+   "lat": 45.185368
+ },
+ {
+   "id": "AP_BIB_ETUDES_INA",
+   "tags": { "description": "Bibliothèque Etudes" },
+   "lon": 5.730799,
+   "lat": 45.185368
+ },
+ {
+   "id": "AP_BIB_GRANDPLACE_ESPACE_MUSIQUE",
+   "tags": { "description": "Bibliothèque Kateb Yacine Esapce musique " },
+   "lon": 5.733404,
+   "lat": 45.157117
+ },
+ {
+   "id": "AP_BIB_GRAND_PLACE",
+   "tags": { "description": "Bibliothèque Kateb Yacine Accueil" },
+   "lon": 5.733404,
+   "lat": 45.157117
+ },
+ {
+   "id": "AP_BIB_GRAND_PLACE2",
+   "tags": { "description": "Bibliothèque Kateb Yacine Etage" },
+   "lon": 5.733404,
+   "lat": 45.157117
+ },
+ {
+   "id": "AP_BIB_GRAND_PLACE_AUDITORIUM",
+   "tags": { "description": "Bibliothèque Kateb Yacine Auditorium" },
+   "lon": 5.733404,
+   "lat": 45.157117
+ },
+ {
+   "id": "AP_BIB_STBRUNO",
+   "tags": { "description": "Bibliothèque Saint Bruno Accueil" },
+   "lon": 5.713204,
+   "lat": 45.187832
+ },
+ {
+   "id": "AP_BIB_TEISSEIRE",
+   "tags": { "description": "Bibliothèque Teisseire" },
+   "lon": 5.740708,
+   "lat": 45.170755
+ },
+ {
+   "id": "AP_CCAS_ARLEQUIN",
+   "tags": { "description": "CCAS Arlequin Accueil" },
+   "lon": 5.731667,
+   "lat": 45.166059
+ },
+ {
+   "id": "AP_CCAS_CHRS_HENRY_TARZE",
+   "tags": { "description": "CCAS Henry Tarze Accueil" },
+   "lon": 5.711304,
+   "lat": 45.198373
+ },
+ {
+   "id": "AP_CCAS_LES_ALPINS",
+   "tags": { "description": "CCAS Les Alpins Accueil" },
+   "lon": 5.721147,
+   "lat": 45.169666
+ },
+ {
+   "id": "AP_CCAS_LES_DELPHINELLES",
+   "tags": { "description": "CCAS Les Delphinelles Accueil" },
+   "lon": 5.742451,
+   "lat": 45.172116
+ },
+ {
+   "id": "AP_CCAS_LUCIE_PELLAT",
+   "tags": { "description": "Résidence Personnes Agées Lucie Pellat Montbonnot" },
+   "lon": 5.797903,
+   "lat": 45.224363
+ },
+ {
+   "id": "AP_CCAS_SCE_SOINS_INFIRMIERS",
+   "tags": { "description": "Services Soins Infirmiers NARVIK" },
+   "lon": 5.728272,
+   "lat": 45.183228
+ },
+ {
+   "id": "AP_CCAS_SCE_SOINS_INFIRMIERS2",
+   "tags": { "description": "Service Soins Montesquieu" },
+   "lon": 5.729231,
+   "lat": 45.175772
+ },
+ {
+   "id": "AP_CCAS_SIEGE1",
+   "tags": { "description": "CCAS Siege" },
+   "lon": 5.731764,
+   "lat": 45.166196
+ },
+ {
+   "id": "AP_CCAS_ST_BRUNO",
+   "tags": { "description": "Residence Saint Bruno" },
+   "lon": 5.713512,
+   "lat": 45.186655
+ },
+ {
+   "id": "AP_CCAS_ST_BRUNO2",
+   "tags": { "description": "Residence Saint Bruno" },
+   "lon": 5.713512,
+   "lat": 45.186655
+ },
+ {
+   "id": "AP_CONTROLE_STA1",
+   "tags": { "description": "Contrôle de stationnnement" },
+   "lon": 5.733245,
+   "lat": 45.194831
+ },
+ {
+   "id": "AP_DSIT_3EME",
+   "tags": { "description": "Batiment administratif 3ème étage " },
+   "lon": 5.721906,
+   "lat": 45.181718
+ },
+ {
+   "id": "AP_DSIT_6EME",
+   "tags": { "description": "Batiment administratif 6ème étage" },
+   "lon": 5.721906,
+   "lat": 45.181718
+ },
+ {
+   "id": "AP_DSIT_AC_1ER_SS",
+   "tags": { "description": "Batiment administratif 1er étage" },
+   "lon": 5.721869,
+   "lat": 45.181667
+ },
+ {
+   "id": "AP_FOURRIERE1",
+   "tags": { "description": "Fourrière " },
+   "lon": 5.713776,
+   "lat": 45.200153
+ },
+ {
+   "id": "AP_GEOMATIQUE",
+   "tags": { "description": "Batiment administratif 8-2 rue des alliés " },
+   "lon": 5.720026,
+   "lat": 45.173354
+ },
+ {
+   "id": "AP_HDV_12EME",
+   "tags": { "description": "Hôtel de ville 12eme étage" },
+   "lon": 5.736124,
+   "lat": 45.18641
+ },
+ {
+   "id": "AP_HDV_1ER_HALL",
+   "tags": { "description": "Hôtel de ville Accueil" },
+   "lon": 5.736263,
+   "lat": 45.186322
+ },
+ {
+   "id": "AP_HDV_1ER_S2",
+   "tags": { "description": "Hôtel de ville Bureaux de l'opposition" },
+   "lon": 5.736401,
+   "lat": 45.186626
+ },
+ {
+   "id": "AP_HDV_1_BUREAUX_ELUS",
+   "tags": { "description": "Hôtel de ville Direction Générale" },
+   "lon": 5.736576,
+   "lat": 45.186281
+ },
+ {
+   "id": "AP_HDV_1_CABINET_MAIRE",
+   "tags": { "description": "Hôtel de ville Cabinet du Maire" },
+   "lon": 5.736742,
+   "lat": 45.186345
+ },
+ {
+   "id": "AP_HDV_1_HALL_HONNEUR",
+   "tags": { "description": "Hôtel de ville Hall d'honneur" },
+   "lon": 5.736803,
+   "lat": 45.186334
+ },
+ {
+   "id": "AP_HDV_1_SALLE3",
+   "tags": { "description": "Hôtel de ville salle 3A/3B" },
+   "lon": 5.736644,
+   "lat": 45.186749
+ },
+ {
+   "id": "AP_HDV_7EME_1",
+   "tags": { "description": "Hôtel de ville 7ème étage coté jean pain" },
+   "lon": 5.736102,
+   "lat": 45.186485
+ },
+ {
+   "id": "AP_HDV_7EME_2",
+   "tags": { "description": "Hôtel de ville 7ème étage coté parc" },
+   "lon": 5.736286,
+   "lat": 45.186246
+ },
+ {
+   "id": "AP_HDV_CONSEIL1",
+   "tags": { "description": "Hôtel de ville Salle du Conseil Municipal" },
+   "lon": 5.736991,
+   "lat": 45.186473
+ },
+ {
+   "id": "AP_HDV_CONSEIL2",
+   "tags": { "description": "Hôtel de ville Salle du Conseil Municipal" },
+   "lon": 5.736991,
+   "lat": 45.186473
+ },
+ {
+   "id": "AP_HDV_CONSEIL3",
+   "tags": { "description": "Hôtel de ville Salle du Conseil Municipal" },
+   "lon": 5.736991,
+   "lat": 45.186473
+ },
+ {
+   "id": "AP_HDV_CONSEIL4",
+   "tags": { "description": "Hôtel de ville Salle du Conseil Municipal" },
+   "lon": 5.736991,
+   "lat": 45.186473
+ },
+ {
+   "id": "AP_HDV_KIOSQUE",
+   "tags": { "description": "Hôtel de ville Accueil public" },
+   "lon": 5.736263,
+   "lat": 45.186322
+ },
+ {
+   "id": "AP_HDV_PALAIS_DES_SPORTS",
+   "tags": { "description": "Palais des Sports" },
+   "lon": 5.740694,
+   "lat": 45.185341
+ },
+ {
+   "id": "AP_HDV_PARC_MISTRAL",
+   "tags": { "description": "Hotel de ville coté Parc Paul Mistral" },
+   "lon": 5.736612,
+   "lat": 45.186228
+ },
+ {
+   "id": "AP_HDV_SALLE_RECEPTION",
+   "tags": { "description": "Hotel de ville Salle de réception " },
+   "lon": 5.736651,
+   "lat": 45.186652
+ },
+ {
+   "id": "AP_JDV1",
+   "tags": { "description": "Jardin de ville AP switch 470Bis" },
+   "lon": 5.727202,
+   "lat": 45.192828
+ },
+ {
+   "id": "AP_JDV2",
+   "tags": { "description": "Jardin de ville Port2" },
+   "lon": 5.727582,
+   "lat": 45.192664
+ },
+ {
+   "id": "AP_MUSEUM_CHAUFFERIE",
+   "tags": { "description": "Museum Chaufferie" },
+   "lon": 5.736514,
+   "lat": 45.187854
+ },
+ {
+   "id": "AP_MUSEUM_IPAD",
+   "tags": { "description": "Museum Salle 1er étage " },
+   "lon": 5.735342,
+   "lat": 45.188049
+ },
+ {
+   "id": "AP_MUSEUM_ORANGERAIE",
+   "tags": { "description": "Museum Batiment de l'Orangeraie" },
+   "lon": 5.735846,
+   "lat": 45.188238
+ },
+ {
+   "id": "AP_POLICE1",
+   "tags": { "description": "Police Municipale" },
+   "lon": 5.727465,
+   "lat": 45.18659
+ },
+ {
+   "id": "AP_THEATRE1",
+   "tags": { "description": "Théatre" },
+   "lon": 5.727679,
+   "lat": 45.193326
+ },
+ {
+   "id": "AP_THEATRE2",
+   "tags": { "description": "Théatre" },
+   "lon": 5.727679,
+   "lat": 45.193326
+ },
+ {
+   "id": "Place Saint André",
+   "tags": { "description": "Place Saint André, 1er étage (neptune)" },
+   "lon": 5.728702,
+   "lat": 45.192993
+ },
+ {
+   "id": "Place Victor Hugo",
+   "tags": { "description": "12 place Victor Hugo, 6eme étage (neptune)" },
+   "lon": 5.724293,
+   "lat": 45.188326
+ },
+ {
+   "id": "Place Grenette",
+   "tags": { "description": "8 place Grenette, 1er étage (neptune)" },
+   "lon": 5.727342,
+   "lat": 45.191064
+ },
+ {
+   "id": "COS",
+   "tags": { "description": "14 rue Albert 1er de Belgique" },
+   "lon": 5.732143,
+   "lat": 45.182819
+ }
+]
