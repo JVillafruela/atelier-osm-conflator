@@ -69,3 +69,4 @@ Convertir les fichiers geojson en json.
 - [Bornes Wifi](http://data.metropolegrenoble.fr/ckan/dataset/bornes-wifi-gratuites-de-grenoble)
 - [Horodateurs](http://data.metropolegrenoble.fr/ckan/dataset/emplacement-des-horodateurs-sur-grenoble)
 - [Antennes GSM](http://data.metropolegrenoble.fr/ckan/dataset/l-ensemble-des-antennes-gsm)
+- [Panneaux d'affichage libre](http://data.beta.metropole-grenoble.fr/dataset/panneaux-d-affichage-libre)
