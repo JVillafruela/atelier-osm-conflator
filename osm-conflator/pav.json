@@ -25,9 +25,10 @@
     "tags.recycling:paper": "yes",
     "tags.recycling:scrap_metal": "yes",
     "tags.recycling_type": "container",
-    "tags_new.operator": "La Métro",
+    "tags_new.operator": "Grenoble Alpes Métropole",
+    "tags_new.operator:wikidata": "Q999238",
     "tags_new.recycling:glass": "yes",
-    "tags_new.ref:FR:METRO:PAV": "1071"
+    "tags_new.ref:FR:GrenobleAlpesMetropole:PAV": "1071"
    },
    "type": "Feature"
   },
@@ -52,9 +53,10 @@
     "ref_id": "14",
     "tags.amenity": "recycling",
     "tags.recycling:glass": "yes",
-    "tags_new.operator": "La Métro",
+    "tags_new.operator": "Grenoble Alpes Métropole",
+    "tags_new.operator:wikidata": "Q999238",
     "tags_new.recycling_type": "container",
-    "tags_new.ref:FR:METRO:PAV": "14"
+    "tags_new.ref:FR:GrenobleAlpesMetropole:PAV": "14"
    },
    "type": "Feature"
   },
@@ -83,9 +85,10 @@
     "tags.amenity": "recycling",
     "tags.name": "Déchèterie de Claix",
     "tags_changed.recycling_type": "centre -> container",
-    "tags_new.operator": "La Métro",
+    "tags_new.operator": "Grenoble Alpes Métropole",
+    "tags_new.operator:wikidata": "Q999238",
     "tags_new.recycling:glass": "yes",
-    "tags_new.ref:FR:METRO:PAV": "5"
+    "tags_new.ref:FR:GrenobleAlpesMetropole:PAV": "5"
    },
    "type": "Feature"
   },
@@ -111,9 +114,10 @@
     "tags.amenity": "recycling",
     "tags.recycling:glass_bottles": "yes",
     "tags.recycling_type": "container",
-    "tags_new.operator": "La Métro",
+    "tags_new.operator": "Grenoble Alpes Métropole",
+    "tags_new.operator:wikidata": "Q999238",
     "tags_new.recycling:glass": "yes",
-    "tags_new.ref:FR:METRO:PAV": "11"
+    "tags_new.ref:FR:GrenobleAlpesMetropole:PAV": "11"
    },
    "type": "Feature"
   },
@@ -132,10 +136,11 @@
     "osm_type": "node",
     "ref_id": "1",
     "tags.amenity": "recycling",
-    "tags.operator": "La Métro",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
     "tags.recycling:glass": "yes",
     "tags.recycling_type": "container",
-    "tags.ref:FR:METRO:PAV": "1"
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "1"
    },
    "type": "Feature"
   },
@@ -154,10 +159,11 @@
     "osm_type": "node",
     "ref_id": "10",
     "tags.amenity": "recycling",
-    "tags.operator": "La Métro",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
     "tags.recycling:glass": "yes",
     "tags.recycling_type": "container",
-    "tags.ref:FR:METRO:PAV": "10"
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "10"
    },
    "type": "Feature"
   },
@@ -176,10 +182,11 @@
     "osm_type": "node",
     "ref_id": "1064",
     "tags.amenity": "recycling",
-    "tags.operator": "La Métro",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
     "tags.recycling:glass": "yes",
     "tags.recycling_type": "container",
-    "tags.ref:FR:METRO:PAV": "1064"
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "1064"
    },
    "type": "Feature"
   },
@@ -198,10 +205,11 @@
     "osm_type": "node",
     "ref_id": "1072",
     "tags.amenity": "recycling",
-    "tags.operator": "La Métro",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
     "tags.recycling:glass": "yes",
     "tags.recycling_type": "container",
-    "tags.ref:FR:METRO:PAV": "1072"
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "1072"
    },
    "type": "Feature"
   },
@@ -220,10 +228,11 @@
     "osm_type": "node",
     "ref_id": "1267",
     "tags.amenity": "recycling",
-    "tags.operator": "La Métro",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
     "tags.recycling:glass": "yes",
     "tags.recycling_type": "container",
-    "tags.ref:FR:METRO:PAV": "1267"
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "1267"
    },
    "type": "Feature"
   },
@@ -242,18 +251,19 @@
     "osm_type": "node",
     "ref_id": "13",
     "tags.amenity": "recycling",
-    "tags.operator": "La Métro",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
     "tags.recycling:glass": "yes",
     "tags.recycling_type": "container",
-    "tags.ref:FR:METRO:PAV": "13"
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "13"
    },
    "type": "Feature"
   },
   {
    "geometry": {
     "coordinates": [
-     5.693242,
-     45.11881
+     5.69328,
+     45.118824
     ],
     "type": "Point"
    },
@@ -262,12 +272,13 @@
     "marker-color": "#11dd11",
     "osm_id": -11,
     "osm_type": "node",
-    "ref_id": "4",
+    "ref_id": "3",
     "tags.amenity": "recycling",
-    "tags.operator": "La Métro",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
     "tags.recycling:glass": "yes",
     "tags.recycling_type": "container",
-    "tags.ref:FR:METRO:PAV": "4"
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "3"
    },
    "type": "Feature"
   },
@@ -286,10 +297,11 @@
     "osm_type": "node",
     "ref_id": "8",
     "tags.amenity": "recycling",
-    "tags.operator": "La Métro",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
     "tags.recycling:glass": "yes",
     "tags.recycling_type": "container",
-    "tags.ref:FR:METRO:PAV": "8"
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "8"
    },
    "type": "Feature"
   }

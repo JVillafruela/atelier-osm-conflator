@@ -6,11 +6,11 @@
 # Champ  "source" du changeset
 source = 'Grenoble-Alpes Métropole'
 # Identifiants opendata copiés dans le tag "ref:FR:METRO:PAV"  
-dataset_id = 'FR:METRO:PAV'
+dataset_id = 'FR:GrenobleAlpesMetropole:PAV'
 # Requête Overpass API : [amenity="recycling"] (limitée à la bbox du jeu de données)
 query = [('amenity', 'recycling')]
 # Les valeurs de ces tags remplacent les valeurs des objets OSM.
-master_tags = ('ref','operator','recycling_type','recycling:glass','recycling:waste','start_date','location')
+master_tags = ('ref','operator','recycling_type','recycling:glass','recycling:waste','location')
 # Regarder au maximum 20 mètres autour d'un point du jeu de données.
 max_distance = 20
 
@@ -38,15 +38,16 @@ def dataset(fileobj):
                 #'ref' : gid,
                 'amenity': 'recycling',
                 'recycling_type': 'container',
-                'operator': 'La Métro'                
+                'operator': 'Grenoble Alpes Métropole' ,
+                'operator:wikidata' : 'Q999238'             
             } 
-            if col[7]=='': #'type_dechet_code'
+            if col[8]=='' or col[8]=='verre': #'type_dechet_code'
                 tags['recycling:glass']='yes' 
-            if col[7]=='OMR': #ordures ménagères
+            if col[8]=='OMR': #ordures ménagères
                 tags['recycling:waste']='yes'  
-            if col[7]=='CS': #collecte sélective
-                continue # ???               
-            if col[10]=='enterré': #'type_conteneur']
+            if col[8]=='CS': #collecte sélective
+                tags['fixme']='Collecte sélective à détailler'               
+            if col[10]!='aérien': #'type_conteneur']
                 tags['location']='underground'  
             try:
                 lat = float(lat)
