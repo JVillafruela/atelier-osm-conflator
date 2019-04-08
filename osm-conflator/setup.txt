@@ -1,0 +1,9 @@
+apt install csvtool #https://colin.maudry.com/csvtool-manual-page/
+
+#python 2.7
+#apt install python-pip
+"pip install osm_conflate
+
+#python 3
+apt install python3-pip
+pip3 install osm_conflate
