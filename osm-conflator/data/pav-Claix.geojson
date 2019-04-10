@@ -1,0 +1,310 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     5.6809923,
+     45.1256164
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2282421127,
+    "osm_type": "node",
+    "ref_coords": [
+     5.681017,
+     45.12565
+    ],
+    "ref_distance": 4.2,
+    "ref_id": "1071",
+    "tags.amenity": "recycling",
+    "tags.recycling:cans": "yes",
+    "tags.recycling:glass_bottles": "yes",
+    "tags.recycling:paper": "yes",
+    "tags.recycling:scrap_metal": "yes",
+    "tags.recycling_type": "container",
+    "tags_new.operator": "Grenoble Alpes Métropole",
+    "tags_new.operator:wikidata": "Q999238",
+    "tags_new.recycling:glass": "yes",
+    "tags_new.ref:FR:GrenobleAlpesMetropole:PAV": "1071"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.6669379,
+     45.1330117
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3169369581,
+    "osm_type": "node",
+    "ref_coords": [
+     5.666895,
+     45.132934
+    ],
+    "ref_distance": 9.3,
+    "ref_id": "14",
+    "tags.amenity": "recycling",
+    "tags.recycling:glass": "yes",
+    "tags_new.operator": "Grenoble Alpes Métropole",
+    "tags_new.operator:wikidata": "Q999238",
+    "tags_new.recycling_type": "container",
+    "tags_new.ref:FR:GrenobleAlpesMetropole:PAV": "14"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.6716775,
+     45.1130041
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3366534037,
+    "osm_type": "node",
+    "ref_coords": [
+     5.671816,
+     45.113039
+    ],
+    "ref_distance": 11.6,
+    "ref_id": "5",
+    "tags.addr:city": "Claix",
+    "tags.addr:postcode": "38640",
+    "tags.addr:street": "Chemin de Risset",
+    "tags.amenity": "recycling",
+    "tags.name": "Déchèterie de Claix",
+    "tags_changed.recycling_type": "centre -> container",
+    "tags_new.operator": "Grenoble Alpes Métropole",
+    "tags_new.operator:wikidata": "Q999238",
+    "tags_new.recycling:glass": "yes",
+    "tags_new.ref:FR:GrenobleAlpesMetropole:PAV": "5"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.6586629,
+     45.117267
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2537317728,
+    "osm_type": "node",
+    "ref_coords": [
+     5.658668,
+     45.11716
+    ],
+    "ref_distance": 11.9,
+    "ref_id": "11",
+    "tags.amenity": "recycling",
+    "tags.recycling:glass_bottles": "yes",
+    "tags.recycling_type": "container",
+    "tags_new.operator": "Grenoble Alpes Métropole",
+    "tags_new.operator:wikidata": "Q999238",
+    "tags_new.recycling:glass": "yes",
+    "tags_new.ref:FR:GrenobleAlpesMetropole:PAV": "11"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.691679,
+     45.12236
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -5,
+    "osm_type": "node",
+    "ref_id": "1",
+    "tags.amenity": "recycling",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
+    "tags.recycling:glass": "yes",
+    "tags.recycling_type": "container",
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.681624,
+     45.112223
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -6,
+    "osm_type": "node",
+    "ref_id": "1064",
+    "tags.amenity": "recycling",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
+    "tags.recycling:glass": "yes",
+    "tags.recycling_type": "container",
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "1064"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.688895,
+     45.118476
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -7,
+    "osm_type": "node",
+    "ref_id": "1072",
+    "tags.amenity": "recycling",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
+    "tags.recycling:glass": "yes",
+    "tags.recycling_type": "container",
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "1072"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.665879,
+     45.109544
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -8,
+    "osm_type": "node",
+    "ref_id": "1267",
+    "tags.amenity": "recycling",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
+    "tags.recycling:glass": "yes",
+    "tags.recycling_type": "container",
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "1267"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.670659,
+     45.118902
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -9,
+    "osm_type": "node",
+    "ref_id": "13",
+    "tags.amenity": "recycling",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
+    "tags.recycling:glass": "yes",
+    "tags.recycling_type": "container",
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "13"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.693242,
+     45.11881
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -10,
+    "osm_type": "node",
+    "ref_id": "4",
+    "tags.amenity": "recycling",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
+    "tags.recycling:glass": "yes",
+    "tags.recycling_type": "container",
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "4"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.692435,
+     45.116008
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -11,
+    "osm_type": "node",
+    "ref_id": "8",
+    "tags.amenity": "recycling",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
+    "tags.recycling:glass": "yes",
+    "tags.recycling_type": "container",
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.671979,
+     45.111603
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -12,
+    "osm_type": "node",
+    "ref_id": "9",
+    "tags.amenity": "recycling",
+    "tags.operator": "Grenoble Alpes Métropole",
+    "tags.operator:wikidata": "Q999238",
+    "tags.recycling:glass": "yes",
+    "tags.recycling_type": "container",
+    "tags.ref:FR:GrenobleAlpesMetropole:PAV": "9"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}
