@@ -13,6 +13,8 @@ query = [('amenity', 'recycling')]
 master_tags = ('ref','operator','recycling_type','recycling:glass','recycling:waste','location')
 # Regarder au maximum 20 mètres autour d'un point du jeu de données.
 max_distance = 20
+# pour permettre les PAV groupés
+duplicate_distance = 0 
 
 # A list of SourcePoint objects. Initialize with (id, lat, lon, {tags}).
 def dataset(fileobj):
