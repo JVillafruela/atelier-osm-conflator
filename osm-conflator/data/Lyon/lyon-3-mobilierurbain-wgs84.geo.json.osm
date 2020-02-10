@@ -1,0 +1,1699 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='geojson2osm'>
+	<node id='-10001' visible='true' lat='45.755063' lon='4.870410'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00246' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10002' visible='true' lat='45.753815' lon='4.867587'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00284' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10003' visible='true' lat='45.753076' lon='4.855089'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00288' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10004' visible='true' lat='45.753115' lon='4.854460'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00352' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10005' visible='true' lat='45.761910' lon='4.850190'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00078' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10006' visible='true' lat='45.760463' lon='4.848484'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00018' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10007' visible='true' lat='45.739980' lon='4.873979'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00317' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10008' visible='true' lat='45.763148' lon='4.844959'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00075' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10009' visible='true' lat='45.756595' lon='4.846513'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00046' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10010' visible='true' lat='45.754240' lon='4.846242'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00228' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10011' visible='true' lat='45.759493' lon='4.869766'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00329' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10012' visible='true' lat='45.753117' lon='4.868833'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00304' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10013' visible='true' lat='45.754556' lon='4.866126'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00337' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10014' visible='true' lat='45.760470' lon='4.848211'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00020' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10015' visible='true' lat='45.761226' lon='4.841261'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00148' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10016' visible='true' lat='45.760283' lon='4.848609'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00195' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10017' visible='true' lat='45.760539' lon='4.849298'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00308' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10018' visible='true' lat='45.755565' lon='4.841777'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00137' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10019' visible='true' lat='45.755265' lon='4.843266'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00187' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10020' visible='true' lat='45.749898' lon='4.864209'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00318' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10021' visible='true' lat='45.757327' lon='4.840679'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00102' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10022' visible='true' lat='45.746158' lon='4.869692'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00121' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10023' visible='true' lat='45.749808' lon='4.859340'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00150' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10024' visible='true' lat='45.760278' lon='4.845750'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00153' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10025' visible='true' lat='45.752058' lon='4.852117'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00191' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10026' visible='true' lat='45.743686' lon='4.876873'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00227' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10027' visible='true' lat='45.762192' lon='4.853170'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00100' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10028' visible='true' lat='45.762056' lon='4.852240'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00120' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10029' visible='true' lat='45.757400' lon='4.855438'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00331' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10030' visible='true' lat='45.760753' lon='4.852686'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00325' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10031' visible='true' lat='45.745693' lon='4.871208'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00007' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10032' visible='true' lat='45.752684' lon='4.850747'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00010' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10033' visible='true' lat='45.755004' lon='4.846612'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00011' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10034' visible='true' lat='45.756835' lon='4.862859'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05039' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10035' visible='true' lat='45.756748' lon='4.846306'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00077' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10036' visible='true' lat='45.759781' lon='4.845847'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00047' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10037' visible='true' lat='45.759133' lon='4.845794'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00076' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10038' visible='true' lat='45.758876' lon='4.867814'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00888' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10039' visible='true' lat='45.754011' lon='4.862711'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01354' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10040' visible='true' lat='45.748246' lon='4.879686'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05037' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10041' visible='true' lat='45.754189' lon='4.884166'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01215' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10042' visible='true' lat='45.743808' lon='4.876515'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01227' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10043' visible='true' lat='45.744623' lon='4.874691'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00198' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10044' visible='true' lat='45.760646' lon='4.851379'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00319' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10045' visible='true' lat='45.748482' lon='4.879371'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05038' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10046' visible='true' lat='45.749557' lon='4.876074'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00314' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10047' visible='true' lat='45.755722' lon='4.842056'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00012' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10048' visible='true' lat='45.756326' lon='4.876185'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00504' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10049' visible='true' lat='45.751821' lon='4.853283'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00257' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10050' visible='true' lat='45.754045' lon='4.859135'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00236' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10051' visible='true' lat='45.750158' lon='4.875147'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05036' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10052' visible='true' lat='45.759575' lon='4.873581'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00282' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10053' visible='true' lat='45.759697' lon='4.872901'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00271' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10054' visible='true' lat='45.751199' lon='4.872756'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00297' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10055' visible='true' lat='45.752974' lon='4.849923'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00122' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10056' visible='true' lat='45.755009' lon='4.871019'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00045' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10057' visible='true' lat='45.750941' lon='4.865191'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00312' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10058' visible='true' lat='45.762817' lon='4.861598'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00052' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10059' visible='true' lat='45.762869' lon='4.862208'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00306' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10060' visible='true' lat='45.754428' lon='4.866901'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00230' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10061' visible='true' lat='45.754516' lon='4.867104'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00330' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10062' visible='true' lat='45.754513' lon='4.865850'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00070' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10063' visible='true' lat='45.747503' lon='4.865814'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00008' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10064' visible='true' lat='45.752819' lon='4.894517'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00224' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10065' visible='true' lat='45.751449' lon='4.890289'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00160' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10066' visible='true' lat='45.749398' lon='4.888871'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05008' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10067' visible='true' lat='45.744617' lon='4.891719'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05035' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10068' visible='true' lat='45.743349' lon='4.878982'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00021' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10069' visible='true' lat='45.759264' lon='4.867946'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00328' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10070' visible='true' lat='45.744979' lon='4.873149'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00039' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10071' visible='true' lat='45.759627' lon='4.872370'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00333' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10072' visible='true' lat='45.751693' lon='4.853688'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00009' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10073' visible='true' lat='45.751014' lon='4.855122'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00118' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10074' visible='true' lat='45.755840' lon='4.839835'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00238' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10075' visible='true' lat='45.755804' lon='4.841083'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00049' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10076' visible='true' lat='45.761597' lon='4.846021'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00279' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10077' visible='true' lat='45.760529' lon='4.841043'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00035' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10078' visible='true' lat='45.761462' lon='4.842201'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00189' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10079' visible='true' lat='45.763437' lon='4.841580'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00147' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10080' visible='true' lat='45.759844' lon='4.840888'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00095' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10081' visible='true' lat='45.753651' lon='4.847954'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00231' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10082' visible='true' lat='45.758258' lon='4.846206'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00225' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10083' visible='true' lat='45.758800' lon='4.845816'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00291' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10084' visible='true' lat='45.752984' lon='4.869111'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00001' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10085' visible='true' lat='45.761959' lon='4.848727'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00309' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10086' visible='true' lat='45.759442' lon='4.868678'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00010' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10087' visible='true' lat='45.761924' lon='4.850668'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00213' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10088' visible='true' lat='45.759087' lon='4.867741'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00180' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10089' visible='true' lat='45.744535' lon='4.891620'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00302' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10090' visible='true' lat='45.750393' lon='4.887026'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00254' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10091' visible='true' lat='45.744326' lon='4.885673'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00242' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10092' visible='true' lat='45.749442' lon='4.884122'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05526' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10093' visible='true' lat='45.741679' lon='4.884365'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00084' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10094' visible='true' lat='45.742586' lon='4.880156'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00112' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10095' visible='true' lat='45.748058' lon='4.880754'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00003' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10096' visible='true' lat='45.748254' lon='4.880833'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00240' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10097' visible='true' lat='45.747367' lon='4.882476'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00055' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10098' visible='true' lat='45.745287' lon='4.889151'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00310' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10099' visible='true' lat='45.748799' lon='4.896694'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00162' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10100' visible='true' lat='45.763267' lon='4.841355'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00258' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10101' visible='true' lat='45.759729' lon='4.840927'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00356' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10102' visible='true' lat='45.755941' lon='4.842995'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00085' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10103' visible='true' lat='45.753647' lon='4.858741'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00286' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10104' visible='true' lat='45.743342' lon='4.879283'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01016' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10105' visible='true' lat='45.756775' lon='4.868387'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01356' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10106' visible='true' lat='45.760681' lon='4.861557'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05363' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10107' visible='true' lat='45.747585' lon='4.872416'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00130' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10108' visible='true' lat='45.757666' lon='4.876437'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00356' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10109' visible='true' lat='45.754311' lon='4.863912'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00424' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10110' visible='true' lat='45.740432' lon='4.888262'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00469' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10111' visible='true' lat='45.757160' lon='4.856401'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00056' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10112' visible='true' lat='45.748113' lon='4.863911'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00093' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10113' visible='true' lat='45.753547' lon='4.858984'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00287' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10114' visible='true' lat='45.755369' lon='4.843074'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00444' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10115' visible='true' lat='45.745549' lon='4.871545'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00136' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10116' visible='true' lat='45.757621' lon='4.842771'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00188' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10117' visible='true' lat='45.760060' lon='4.840817'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00149' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10118' visible='true' lat='45.756919' lon='4.857501'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00193' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10119' visible='true' lat='45.755594' lon='4.858976'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00136' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10120' visible='true' lat='45.763152' lon='4.857359'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00068' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10121' visible='true' lat='45.752606' lon='4.869109'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01144' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10122' visible='true' lat='45.752736' lon='4.868957'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01143' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10123' visible='true' lat='45.759380' lon='4.869301'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00405' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10124' visible='true' lat='45.748377' lon='4.863492'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00218' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10125' visible='true' lat='45.759142' lon='4.862729'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00165' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10126' visible='true' lat='45.754110' lon='4.862568'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00381' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10127' visible='true' lat='45.753990' lon='4.859461'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01229' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10128' visible='true' lat='45.763271' lon='4.857494'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00340' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10129' visible='true' lat='45.753098' lon='4.849573'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00426' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10130' visible='true' lat='45.756940' lon='4.852946'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00305' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10131' visible='true' lat='45.756967' lon='4.857697'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00399' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10132' visible='true' lat='45.750827' lon='4.892742'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00170' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10133' visible='true' lat='45.760722' lon='4.861561'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05291' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10134' visible='true' lat='45.746109' lon='4.885835'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01508' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10135' visible='true' lat='45.759380' lon='4.846902'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00277' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10136' visible='true' lat='45.757111' lon='4.853944'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00383' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10137' visible='true' lat='45.759845' lon='4.852081'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00468' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10138' visible='true' lat='45.761698' lon='4.841172'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00028' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10139' visible='true' lat='45.751064' lon='4.865110'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00335' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10140' visible='true' lat='45.756642' lon='4.862953'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00342' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10141' visible='true' lat='45.745736' lon='4.887784'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00372' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10142' visible='true' lat='45.754445' lon='4.846960'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05411' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10143' visible='true' lat='45.754476' lon='4.846954'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00243' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10144' visible='true' lat='45.756067' lon='4.846656'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00012' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10145' visible='true' lat='45.753011' lon='4.853489'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00232' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10146' visible='true' lat='45.748583' lon='4.862662'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00239' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10147' visible='true' lat='45.759432' lon='4.867759'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00417' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10148' visible='true' lat='45.762597' lon='4.858080'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00440' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10149' visible='true' lat='45.749526' lon='4.860235'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00373' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10150' visible='true' lat='45.757262' lon='4.861467'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00418' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10151' visible='true' lat='45.758865' lon='4.861582'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00478' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10152' visible='true' lat='45.749993' lon='4.864718'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00418' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10153' visible='true' lat='45.756184' lon='4.863661'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00445' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10154' visible='true' lat='45.758195' lon='4.866011'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00359' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10155' visible='true' lat='45.744509' lon='4.874503'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00029' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10156' visible='true' lat='45.755091' lon='4.871690'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00053' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10157' visible='true' lat='45.759767' lon='4.870817'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00212' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10158' visible='true' lat='45.759519' lon='4.871119'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00440' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10159' visible='true' lat='45.754684' lon='4.874633'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01321' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10160' visible='true' lat='45.758063' lon='4.858326'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01365' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10161' visible='true' lat='45.763272' lon='4.868640'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05447' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10162' visible='true' lat='45.741818' lon='4.885313'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00245' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10163' visible='true' lat='45.747328' lon='4.875290'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01455' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10164' visible='true' lat='45.748348' lon='4.872687'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01495' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10165' visible='true' lat='45.752112' lon='4.896255'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05424' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10166' visible='true' lat='45.754065' lon='4.862134'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00439' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10167' visible='true' lat='45.749834' lon='4.861142'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01681' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10168' visible='true' lat='45.743080' lon='4.878935'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01688' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10169' visible='true' lat='45.742948' lon='4.879101'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01687' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10170' visible='true' lat='45.742804' lon='4.878839'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01686' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10171' visible='true' lat='45.742925' lon='4.878605'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01690' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10172' visible='true' lat='45.743077' lon='4.878669'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01689' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10173' visible='true' lat='45.759845' lon='4.852298'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00015' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10174' visible='true' lat='45.743962' lon='4.885450'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01556' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10175' visible='true' lat='45.759061' lon='4.863452'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00493' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10176' visible='true' lat='45.755681' lon='4.875464'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01597' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10177' visible='true' lat='45.745426' lon='4.888333'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01616' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10178' visible='true' lat='45.745552' lon='4.888363'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01617' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10179' visible='true' lat='45.757978' lon='4.852613'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00192' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10180' visible='true' lat='45.755112' lon='4.853206'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00686' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10181' visible='true' lat='45.749857' lon='4.859053'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00206' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10182' visible='true' lat='45.763535' lon='4.848410'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00312' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10183' visible='true' lat='45.763546' lon='4.846475'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00154' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10184' visible='true' lat='45.763553' lon='4.847426'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00027' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10185' visible='true' lat='45.763551' lon='4.850578'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00016' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10186' visible='true' lat='45.757151' lon='4.855033'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00197' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10187' visible='true' lat='45.743770' lon='4.894377'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01593' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10188' visible='true' lat='45.743602' lon='4.894174'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='SV00382' />
+		<tag k='advertising' v='board' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10189' visible='true' lat='45.763656' lon='4.866328'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00156' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10190' visible='true' lat='45.763563' lon='4.852397'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00275' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10191' visible='true' lat='45.763590' lon='4.854301'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00453' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10192' visible='true' lat='45.763591' lon='4.855558'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00019' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10193' visible='true' lat='45.763615' lon='4.857662'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00487' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10194' visible='true' lat='45.760905' lon='4.857938'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01230' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10195' visible='true' lat='45.760873' lon='4.857943'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00420' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10196' visible='true' lat='45.760810' lon='4.857951'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00421' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10197' visible='true' lat='45.760844' lon='4.857946'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB00167' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10198' visible='true' lat='45.763604' lon='4.845618'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01715' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10199' visible='true' lat='45.763642' lon='4.850763'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01716' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10200' visible='true' lat='45.763711' lon='4.863469'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01719' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10201' visible='true' lat='45.763731' lon='4.867552'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01720' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10202' visible='true' lat='45.763768' lon='4.862347'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01718' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10203' visible='true' lat='45.762726' lon='4.852097'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00451' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10204' visible='true' lat='45.747617' lon='4.896560'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05347' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10205' visible='true' lat='45.747663' lon='4.896660'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05554' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10206' visible='true' lat='45.743680' lon='4.894299'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05500' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10207' visible='true' lat='45.746568' lon='4.887469'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB01706' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10208' visible='true' lat='45.749897' lon='4.873526'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05178' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10209' visible='true' lat='45.757254' lon='4.852745'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05009' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10210' visible='true' lat='45.757716' lon='4.858792'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB03002' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10211' visible='true' lat='45.747975' lon='4.884455'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='AB05528' />
+		<tag k='advertising' v='billboard' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+	<node id='-10212' visible='true' lat='45.757976' lon='4.846043'>
+		<tag k='source' v='Métropole de Lyon' />
+		<tag k='ref:FR:Lyon:Advertising' v='MU00013' />
+		<tag k='advertising' v='poster_box' />
+		<tag k="source_ref" v="https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/ressources" />
+		<tag k="operator" v="Métropole de Lyon" />
+		<tag k="operator:wikidata" v="Q16665897" />
+	</node>
+</osm>

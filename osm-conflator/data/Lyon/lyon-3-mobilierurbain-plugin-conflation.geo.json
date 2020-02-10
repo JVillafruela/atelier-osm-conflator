@@ -1,0 +1,4040 @@
+{
+	"type": "FeatureCollection",
+	"name": "pvo_patrimoine_voirie.pvomobilierurbain",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00246",
+				"nom_abri": "Carry",
+				"adresse": "187 ter,  Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.870409508094412,
+					45.75506312807795
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00284",
+				"nom_abri": "Rouget de L'Isle",
+				"adresse": "38, Avenue Laccasagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.867586508183807,
+					45.75381472257639
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00288",
+				"nom_abri": "Bir Hakeim",
+				"adresse": "Face 59, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.855089485653392,
+					45.753076220751278
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00352",
+				"nom_abri": "Bir Hakeim",
+				"adresse": "55, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.85446046546296,
+					45.75311479976001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00078",
+				"nom_abri": "Moncey - Bonnel",
+				"adresse": "66, Rue de Bonnel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.850189650718535,
+					45.76191027823826
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00018",
+				"nom_abri": "Palais justice - Mairie 3e",
+				"adresse": "67, Rue Servient",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.848484014759461,
+					45.76046274326861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00317",
+				"nom_abri": "",
+				"adresse": "40, Boulevard Jean XXIII",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.873979176771082,
+					45.73998023459066
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00075",
+				"nom_abri": "Saxe Lafayette",
+				"adresse": "60, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "28"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.844959156868806,
+					45.76314805928026
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00046",
+				"nom_abri": "Saxe - Paul Bert",
+				"adresse": "133, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "31"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846512956310123,
+					45.756595285686668
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00228",
+				"nom_abri": "Saxe-Gambetta",
+				"adresse": "39, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846242234055517,
+					45.75424017438448
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00329",
+				"nom_abri": "",
+				"adresse": "Face 1, Place de la Ferrandière",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "35"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.869765798643233,
+					45.75949296913066
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00304",
+				"nom_abri": "",
+				"adresse": "44, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "36"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.868833175869645,
+					45.75311661920714
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00337",
+				"nom_abri": "",
+				"adresse": "155, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "37"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.86612553632735,
+					45.75455586839388
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00020",
+				"nom_abri": "",
+				"adresse": "67, Rue Servient",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri taxi publicitaire",
+				"gid": "55"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.84821103039254,
+					45.76047046421006
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00148",
+				"nom_abri": "",
+				"adresse": "7 , Quai Victor Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "134"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.841261073387606,
+					45.76122591677454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00195",
+				"nom_abri": "",
+				"adresse": "Face 67, Rue Servient",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "136"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.848609315876775,
+					45.76028310391965
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00308",
+				"nom_abri": "",
+				"adresse": "Face 86, Rue Servient",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "137"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.849297830192747,
+					45.76053874633885
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00137",
+				"nom_abri": "",
+				"adresse": "10, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "139"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.841776809694688,
+					45.755565346168939
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00187",
+				"nom_abri": "",
+				"adresse": "15, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "141"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.843266298497392,
+					45.75526458094148
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00318",
+				"nom_abri": "",
+				"adresse": "8 , Rue du Dauphiné",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "142"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.864209339175272,
+					45.74989810611497
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00102",
+				"nom_abri": "",
+				"adresse": "Face 28, Quai Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "166"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.840678794008295,
+					45.757326924436728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00121",
+				"nom_abri": "",
+				"adresse": "87, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "167"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.869692309211698,
+					45.74615797238342
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00150",
+				"nom_abri": "",
+				"adresse": "141, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "169"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.859340316375233,
+					45.74980844550323
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00153",
+				"nom_abri": "",
+				"adresse": "91, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "171"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.845750095198594,
+					45.76027811772463
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00191",
+				"nom_abri": "",
+				"adresse": "88b, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "174"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.852117064990667,
+					45.75205766790171
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00227",
+				"nom_abri": "",
+				"adresse": "151, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "175"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.876872700589192,
+					45.743685507439398
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00100",
+				"nom_abri": "Part-Dieu Auditorium",
+				"adresse": "84, Rue de Bonnel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "219"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.853170492457368,
+					45.76219194157255
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00120",
+				"nom_abri": "",
+				"adresse": "Rue de bonnel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "220"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.852239875967895,
+					45.762056086028817
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00331",
+				"nom_abri": "Part Dieu Sud",
+				"adresse": "Face 1, Rue Desaix",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "222"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.85543772349222,
+					45.75740007807012
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00325",
+				"nom_abri": "",
+				"adresse": "127, Rue Servient",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "244"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.852686340167707,
+					45.76075314491066
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00007",
+				"nom_abri": "",
+				"adresse": "Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "245"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.871208446853294,
+					45.74569339363464
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00010",
+				"nom_abri": "",
+				"adresse": "59, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "246"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.850746723774849,
+					45.75268379888742
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00011",
+				"nom_abri": "",
+				"adresse": "144, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "247"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.84661157189333,
+					45.755004137237907
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05039",
+				"nom_abri": "La Villette",
+				"adresse": "1, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "260"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862858772387436,
+					45.756834904549808
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00077",
+				"nom_abri": "Saxe - Paul Bert",
+				"adresse": "126, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "327"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846305503456464,
+					45.756748337391
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00047",
+				"nom_abri": "Saxe - Préfecture",
+				"adresse": "99, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "328"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.845847493903872,
+					45.75978088410968
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00076",
+				"nom_abri": "Saxe - Préfecture",
+				"adresse": "100, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "329"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.845793752466762,
+					45.75913307165662
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00888",
+				"nom_abri": "Sacré Coeur",
+				"adresse": "93, Rue Baraban",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "413"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.86781352653733,
+					45.7588759007965
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01354",
+				"nom_abri": "Archives départementales",
+				"adresse": "Face 130, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "414"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862711155821999,
+					45.7540105242348
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05037",
+				"nom_abri": "Place Henri",
+				"adresse": "100, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "442"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.879686434212254,
+					45.74824592940792
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01215",
+				"nom_abri": "Reconnaissance - Balzac",
+				"adresse": "90, Rue de Genas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "448"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.884165588319754,
+					45.75418946415749
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01227",
+				"nom_abri": "A. Thomas - INSERM",
+				"adresse": "151, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "450"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.876514796168776,
+					45.743807743115599
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00198",
+				"nom_abri": "Feuillat - Albert Thomas",
+				"adresse": "63, Rue Feuillat",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "453"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.874690917413083,
+					45.74462293441149
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00319",
+				"nom_abri": "Part Dieu Servient",
+				"adresse": "119, Rue Servient",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "460"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.851378789184552,
+					45.76064572370353
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05038",
+				"nom_abri": "Place Henri",
+				"adresse": "147,  Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "503"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.879371385851655,
+					45.74848193699423
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00314",
+				"nom_abri": "Feuillat - Lacassagne",
+				"adresse": "78, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "505"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.876074252679021,
+					45.74955683589232
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00012",
+				"nom_abri": "Guillotière - Gabriel Péri",
+				"adresse": "7, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "525"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.842056152264173,
+					45.75572207761755
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00504",
+				"nom_abri": "Maisons Neuves",
+				"adresse": "22, Rue Frédéric Mistral",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "537"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.876184682394878,
+					45.75632576772195
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00257",
+				"nom_abri": "Garibaldi - Gambetta",
+				"adresse": "77, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "584"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.853282988027931,
+					45.75182097679271
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00236",
+				"nom_abri": "Félix Faure - Vivier Merle",
+				"adresse": "96, Boulevard Marius Vivier-Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "605"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.859135426448005,
+					45.75404480405141
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05036",
+				"nom_abri": "Feuillat - Lacassagne",
+				"adresse": "103, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "730"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.875146897202209,
+					45.75015809276926
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00282",
+				"nom_abri": "Ferrandière",
+				"adresse": "9, Rue François Gillet",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "731"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.873580849843522,
+					45.759574873661488
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00271",
+				"nom_abri": "Ferrandiere",
+				"adresse": "8, Rue François Gillet",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "734"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.872901026998389,
+					45.75969654046841
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00297",
+				"nom_abri": "Domrémy - Lacassagne",
+				"adresse": "64, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "742"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.872755684213822,
+					45.75119854406518
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00122",
+				"nom_abri": "Abondance",
+				"adresse": "7, Place Aristide Briand",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "744"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.849922507133017,
+					45.75297355272133
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00045",
+				"nom_abri": "Carry",
+				"adresse": "198, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "806"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.87101949126274,
+					45.75500948537819
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00312",
+				"nom_abri": "St Philippe",
+				"adresse": "24, Rue du Dauphiné",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "807"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.865190607195852,
+					45.75094065119667
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00052",
+				"nom_abri": "",
+				"adresse": "Face 215, Rue de Bonnel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "808"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.861598045351443,
+					45.76281653558504
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00306",
+				"nom_abri": "",
+				"adresse": "6, Rue St Antoine",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "809"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862208017136167,
+					45.762868534846479
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00230",
+				"nom_abri": "Rouget de L'Isle",
+				"adresse": "Face 32, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "810"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.866900872604112,
+					45.754427664214528
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00330",
+				"nom_abri": "Rouget de L'Isle",
+				"adresse": "Face 165,  Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "811"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.867103924415193,
+					45.75451597718534
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00070",
+				"nom_abri": "Rouget de l'Isle",
+				"adresse": "155, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "816"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.865850169393737,
+					45.75451283043268
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00008",
+				"nom_abri": "",
+				"adresse": "57, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "819"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.865814186610436,
+					45.747502905556277
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00224",
+				"nom_abri": "Montchat Pinel",
+				"adresse": "175, Cours du Docteur Long",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "820"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.894516832092999,
+					45.75281932561334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00160",
+				"nom_abri": "Aubepins",
+				"adresse": "129, Cours du Docteur Long",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "831"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.890288606241444,
+					45.75144885208052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05008",
+				"nom_abri": "Charles Richard",
+				"adresse": "Face 63, Rue Ferdinand Buisson",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "838"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.888870644436686,
+					45.74939802959493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05035",
+				"nom_abri": "Clinique Trarieux",
+				"adresse": "239, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "839"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.891718979627528,
+					45.744616876710598
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00021",
+				"nom_abri": "Grange Blanche",
+				"adresse": "1, Place d'Arsonval",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "875"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.878981524692123,
+					45.743349473052649
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00328",
+				"nom_abri": "",
+				"adresse": "44, Avenue Gorges Pompidou",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "878"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.867946385692025,
+					45.75926369926343
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00039",
+				"nom_abri": "",
+				"adresse": "115, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "881"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.873148508881255,
+					45.74497932972882
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00333",
+				"nom_abri": "",
+				"adresse": "Face 21, Place de la Ferrandière",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "884"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.87237042577616,
+					45.75962667273469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00009",
+				"nom_abri": "",
+				"adresse": "83, cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "926"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.853687965993167,
+					45.75169309874901
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00118",
+				"nom_abri": "",
+				"adresse": "118, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "927"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.855122061508911,
+					45.75101437322106
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00238",
+				"nom_abri": "",
+				"adresse": "Quai Claude Bernard",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "932"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.839835158411685,
+					45.75583999010007
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00049",
+				"nom_abri": "",
+				"adresse": "2, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "933"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.84108328391104,
+					45.75580432001898
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00279",
+				"nom_abri": "Saxe - Bonnel",
+				"adresse": "28, Rue de Bonnel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "935"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846020523118015,
+					45.76159723182171
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00035",
+				"nom_abri": "",
+				"adresse": "Face 10, Quai Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "978"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.841043286880474,
+					45.76052888682982
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00189",
+				"nom_abri": "",
+				"adresse": "27, Cours de la Liberté",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "979"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.842200535088121,
+					45.761461749365199
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00147",
+				"nom_abri": "",
+				"adresse": "Face 1, Quai Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "980"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.841580446062098,
+					45.763437063529668
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00095",
+				"nom_abri": "",
+				"adresse": "Face 10, Quai Victor Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "981"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.840887981135886,
+					45.75984356374207
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00231",
+				"nom_abri": "",
+				"adresse": "3, Place Victor Basch",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "982"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.847953904961921,
+					45.75365092802867
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00225",
+				"nom_abri": "",
+				"adresse": "115, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "983"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846206041019495,
+					45.7582581376467
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00291",
+				"nom_abri": "",
+				"adresse": "104, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "984"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.845815900049886,
+					45.75879981991051
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00001",
+				"nom_abri": "Dauphiné - Lacassagne",
+				"adresse": "Face 49, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "985"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.86911085463263,
+					45.75298397649633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00309",
+				"nom_abri": "",
+				"adresse": "Face 62, Rue de Bonnel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "986"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.848726508740592,
+					45.761959111835789
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00010",
+				"nom_abri": "Sacré Coeur",
+				"adresse": "49, Avenue Georges Pompidou",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "987"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.868678138081664,
+					45.75944188099141
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00213",
+				"nom_abri": "",
+				"adresse": "72, Rue de Bonnel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "989"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.85066838544929,
+					45.76192387303503
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00180",
+				"nom_abri": "Sacré Coeur",
+				"adresse": "96, Rue Baraban",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "991"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.867741190549938,
+					45.75908692018881
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00302",
+				"nom_abri": "Clinique Trarieux",
+				"adresse": "184, Avenue  Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1036"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.891620056746249,
+					45.74453487619288
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00254",
+				"nom_abri": "Charles Richard",
+				"adresse": "83, Cours  Docteur Long",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1082"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.887026006368869,
+					45.750392746488
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00242",
+				"nom_abri": "Grange Blanche - Viala",
+				"adresse": "29, Rue Viala",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1084"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.885673181736493,
+					45.74432604603844
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05526",
+				"nom_abri": "Bonnand",
+				"adresse": "49, Cours Docteur Long",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "1092"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.884122261109137,
+					45.749442482675949
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00084",
+				"nom_abri": "Ambroise Paré",
+				"adresse": "27, Avenue Rockefeller",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1093"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.884365089077241,
+					45.74167900585997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00112",
+				"nom_abri": "",
+				"adresse": "Face 8, Avenue Rockfeller",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1128"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.880155797033124,
+					45.74258554959521
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00003",
+				"nom_abri": "",
+				"adresse": "Face 106, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1129"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.880754177743625,
+					45.748058365838968
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00240",
+				"nom_abri": "",
+				"adresse": "Face 6, Place Henri",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1130"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.8808333146631,
+					45.74825442109116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00055",
+				"nom_abri": "",
+				"adresse": "118, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1131"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.882476321687538,
+					45.747367442685689
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00310",
+				"nom_abri": "",
+				"adresse": "162, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1132"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.889151167281891,
+					45.7452869541628
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00162",
+				"nom_abri": "",
+				"adresse": "Boulevard Pinel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1135"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.896693580475664,
+					45.748799497108269
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00258",
+				"nom_abri": "Square Jussieu",
+				"adresse": "Quai Victor Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1136"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.841354673897436,
+					45.763267279877968
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00356",
+				"nom_abri": "Augagneur Servient",
+				"adresse": "Face 15, Quai Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1138"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.840926857957634,
+					45.75972859142406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00085",
+				"nom_abri": "Guillotière - Gabriel Péri",
+				"adresse": "81, Cours de la Liberté",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1150"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.842994797543541,
+					45.75594120213643
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00286",
+				"nom_abri": "Félix Faure - Vivier Merle",
+				"adresse": "99, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1164"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.858740507923915,
+					45.75364681060723
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01016",
+				"nom_abri": "abri taxi",
+				"adresse": "2, Place d'Arsonval",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri taxi publicitaire",
+				"gid": "1185"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.87928285528057,
+					45.743341790776998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01356",
+				"nom_abri": "Paul-Bert Turbil",
+				"adresse": "18, Rue Turbil",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1186"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.868387305379144,
+					45.75677549557884
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05363",
+				"nom_abri": "abri taxi",
+				"adresse": "40b, Rue de la Villette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri taxi non publicitaire",
+				"gid": "1187"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.861557022243572,
+					45.76068135832557
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00130",
+				"nom_abri": "",
+				"adresse": "25, Rue Docteur Rebatel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1188"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.872415852605448,
+					45.74758500787075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00356",
+				"nom_abri": "",
+				"adresse": "6, Rue Frédéric Mistral",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1189"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.876436972437104,
+					45.7576657592721
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00424",
+				"nom_abri": "",
+				"adresse": "139, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1197"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.863912292771277,
+					45.75431061113277
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00469",
+				"nom_abri": "",
+				"adresse": "Face 60, Avenue Rockeffeller",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m² + dispo Vélo’V",
+				"gid": "1198"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.888261961822296,
+					45.74043153125081
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00056",
+				"nom_abri": "",
+				"adresse": "151, Rue Paul Bert",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1224"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.856400620321673,
+					45.757160058018389
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00093",
+				"nom_abri": "",
+				"adresse": "33, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1244"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.863911227139449,
+					45.748113298752077
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00287",
+				"nom_abri": "Félix Faure - Vivier Merle",
+				"adresse": "88, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1257"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.858984087767792,
+					45.753546976579787
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00444",
+				"nom_abri": "",
+				"adresse": "3, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1436"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.843073569026966,
+					45.75536864831979
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00136",
+				"nom_abri": "abri taxi",
+				"adresse": "105, Cours Albert thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri taxi publicitaire",
+				"gid": "1293"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.871544930502864,
+					45.74554920316884
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00188",
+				"nom_abri": "",
+				"adresse": "59, Cours de la Liberté",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1334"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.842771200168073,
+					45.757620985576327
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00149",
+				"nom_abri": "",
+				"adresse": "Face 13, Quai Victor Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1335"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.840817177156421,
+					45.760059810053999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00193",
+				"nom_abri": "",
+				"adresse": "2, Rue Lavoisier",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1346"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.857500884119821,
+					45.756919343916568
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00136",
+				"nom_abri": "",
+				"adresse": "Face 79, Boulevard Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1347"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.858975876478381,
+					45.755593633316887
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00068",
+				"nom_abri": "",
+				"adresse": "6, Boulevard Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1348"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.85735860299648,
+					45.76315168538798
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01144",
+				"nom_abri": "Dauphiné - Lacassagne",
+				"adresse": "80, Rue du Dauphiné",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1388"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.869108929227172,
+					45.75260555732976
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01143",
+				"nom_abri": "Dauphiné - Lacassagne",
+				"adresse": "Face 80, Rue du Dauphiné",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1389"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.868957206448753,
+					45.752736377331228
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00405",
+				"nom_abri": "Sacre Coeur",
+				"adresse": "52, Avenue Georges Pompidou",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1390"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.869301084649408,
+					45.75938016555913
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00218",
+				"nom_abri": "Sans Souci",
+				"adresse": "12, Rue St Théodore",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1412"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.863492003899098,
+					45.74837719784204
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00165",
+				"nom_abri": "Georges Pompidou",
+				"adresse": "17, Avenue Georges Pompidou",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1413"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862728978653679,
+					45.759141698031488
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00381",
+				"nom_abri": "Archives départementales",
+				"adresse": " Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1417"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862568186658744,
+					45.754109938585738
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01229",
+				"nom_abri": "Félix Faure - Vivier Merle",
+				"adresse": "101, Boulevard Marius Vivier-Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1432"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.859461192395425,
+					45.75398970361504
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00340",
+				"nom_abri": "",
+				"adresse": "Face 2, Boulevard Marius Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1471"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.85749447231326,
+					45.76327122996839
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00426",
+				"nom_abri": "",
+				"adresse": "Place Aristide Briand",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1494"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.849572771022983,
+					45.75309758840311
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00305",
+				"nom_abri": "",
+				"adresse": "Face 230, Rue Garibaldi",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1495"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.852945820719974,
+					45.75694014783466
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00399",
+				"nom_abri": "",
+				"adresse": "162, Rue Paul Bert",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1496"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.857696925756941,
+					45.756966985323177
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00170",
+				"nom_abri": "Aubepins",
+				"adresse": "98,Rue Ferdinand Buisson",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1531"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.8927422195993019,
+					45.750827299396949
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05291",
+				"nom_abri": "abri taxi",
+				"adresse": "40b, Rue de la Villette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri taxi non publicitaire",
+				"gid": "1533"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.86156101335699,
+					45.760721702434647
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01508",
+				"nom_abri": "Viala - Lacassagne",
+				"adresse": "Face 28, Rue Viala",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1587"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.885835260328061,
+					45.74610907476602
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00277",
+				"nom_abri": "",
+				"adresse": "Face 228, Rue Vendôme",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1590"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.84690214376573,
+					45.75938034113889
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00383",
+				"nom_abri": "",
+				"adresse": "111, Rue Paul Bert",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1597"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.853943619351939,
+					45.75711058661123
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00468",
+				"nom_abri": "",
+				"adresse": "194b, Rue Garibaldi",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m² + dispo Vélo’V",
+				"gid": "1598"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.85208108084794,
+					45.75984524085978
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00028",
+				"nom_abri": "",
+				"adresse": "Face 4, Quai Victor Augagneur",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1605"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.84117180945803,
+					45.761698312951839
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00335",
+				"nom_abri": "St Philippe",
+				"adresse": "21, Rue du Dauphiné",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1657"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.865109851691586,
+					45.75106377622667
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00342",
+				"nom_abri": "La Villette",
+				"adresse": "2, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1661"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862953374876712,
+					45.756641880805677
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00372",
+				"nom_abri": "",
+				"adresse": "152, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1679"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.887783615941842,
+					45.74573559033224
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05411",
+				"nom_abri": "Saxe Gambetta",
+				"adresse": "161, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "1752"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846960142126269,
+					45.75444493604024
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00243",
+				"nom_abri": "Saxe Gambetta",
+				"adresse": "161, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1753"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846953586164647,
+					45.75447613110112
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00012",
+				"nom_abri": "",
+				"adresse": "139, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1851"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846656356878537,
+					45.75606675929855
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00232",
+				"nom_abri": "",
+				"adresse": "263, Rue Garibaldi",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1853"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.853488942518963,
+					45.75301106687268
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00239",
+				"nom_abri": "",
+				"adresse": "25, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1854"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862661685426058,
+					45.74858252910455
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00417",
+				"nom_abri": "",
+				"adresse": "88, Rue Baraban",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1935"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.867758533072841,
+					45.75943234103016
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00440",
+				"nom_abri": "",
+				"adresse": "Rue de Bonnel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1936"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.858080012865907,
+					45.76259737614127
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00373",
+				"nom_abri": "",
+				"adresse": "2, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1937"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.860235136100348,
+					45.74952629284451
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00418",
+				"nom_abri": "",
+				"adresse": "82, Rue de la Villette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1938"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.861466591854656,
+					45.75726241886501
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00478",
+				"nom_abri": "",
+				"adresse": "66, Rue de la Villette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m² + dispo Vélo’V",
+				"gid": "1939"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.861581509812184,
+					45.758865073764869
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00418",
+				"nom_abri": "",
+				"adresse": "12, Rue du Dauphiné",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1940"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.864718491826575,
+					45.74999312439362
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00445",
+				"nom_abri": "",
+				"adresse": "12, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "1941"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.86366080775208,
+					45.75618441371127
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00359",
+				"nom_abri": "",
+				"adresse": "Face 41, Rue Antoine Charrial",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1942"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.866010732847492,
+					45.7581952207384
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00029",
+				"nom_abri": "",
+				"adresse": "125, Cours Albert Thomas",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1943"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.874503342255438,
+					45.7445086294087
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00053",
+				"nom_abri": "",
+				"adresse": "204, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1944"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.871690278302034,
+					45.75509102976689
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00212",
+				"nom_abri": "",
+				"adresse": "5b, Place de la Ferrandière",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1945"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.870816901352075,
+					45.75976736578535
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00440",
+				"nom_abri": "",
+				"adresse": "Face 10, Rue de Nazareth",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "1946"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.871119447606265,
+					45.75951936431878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01321",
+				"nom_abri": "Villebois Mareuil",
+				"adresse": "136, Rue du Dauphiné",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "1952"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.874632928736684,
+					45.75468364468348
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01365",
+				"nom_abri": "Gare Part-Dieu",
+				"adresse": "Face 57, Boulevard Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2003"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.858325642775724,
+					45.75806342102407
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05447",
+				"nom_abri": "Alsace",
+				"adresse": "28, Rue Baraban",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "2012"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.868640025054948,
+					45.763271869547569
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00245",
+				"nom_abri": "Ambroise Paré",
+				"adresse": "Rue Viala",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2109"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.88531307640587,
+					45.74181750268236
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01455",
+				"nom_abri": "Harmonie",
+				"adresse": "49, Rue Feuillat",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2151"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.87529037607579,
+					45.74732806262498
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01495",
+				"nom_abri": "Harmonie",
+				"adresse": "26, Rue Docteur Rebatel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2159"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.872686806247753,
+					45.7483480793427
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05424",
+				"nom_abri": "Montchat Pinel",
+				"adresse": "126, rue Ferdinand Buisson",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "2160"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.896254944026399,
+					45.752112368046727
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00439",
+				"nom_abri": "",
+				"adresse": "128, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "2255"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862134174540082,
+					45.75406547409168
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01681",
+				"nom_abri": "Manufacture Montluc",
+				"adresse": "2, Rue du Dauphiné",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2301"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.861142466077209,
+					45.7498336895939
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01688",
+				"nom_abri": "Grange Blanche",
+				"adresse": "Place d'Arsonval",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2304"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.878934503552664,
+					45.743079890689589
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01687",
+				"nom_abri": "Grange Blanche",
+				"adresse": "Place d'Arsonval",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2305"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.87910090378812,
+					45.742947714100527
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01686",
+				"nom_abri": "Grange Blanche",
+				"adresse": "Place d'Arsonval",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2306"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.878839134496926,
+					45.74280446835889
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01690",
+				"nom_abri": "Grange Blanche",
+				"adresse": "Place d'Arsonval",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2307"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.878605181476505,
+					45.742925058216489
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01689",
+				"nom_abri": "Grange Blanche",
+				"adresse": "Place d'Arsonval",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2308"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.878669399017985,
+					45.743076640409359
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00015",
+				"nom_abri": "",
+				"adresse": "165, Avenue Garibaldi",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2319"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.852297627472404,
+					45.75984531644655
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01556",
+				"nom_abri": "Grange Blanche - Viala",
+				"adresse": "Face 29b, Rue Viala",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2344"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.885450278351708,
+					45.74396179183145
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00493",
+				"nom_abri": "Georges Pompidou",
+				"adresse": "16, Avenue Georges Pompidou",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2399"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.863452416331211,
+					45.7590610149451
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01597",
+				"nom_abri": "Maisons Neuves",
+				"adresse": "237, Avenue Félix Faure",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2403"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.875464420055398,
+					45.755680684417487
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01616",
+				"nom_abri": "Constant",
+				"adresse": "87, Rue Trarieux",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2429"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.888332673748554,
+					45.74542644116423
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01617",
+				"nom_abri": "Constant",
+				"adresse": "156, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2430"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.888363322841156,
+					45.74555153857258
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00192",
+				"nom_abri": "",
+				"adresse": "Face 214, Rue Garibaldi",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2437"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.852613455701522,
+					45.757977807515548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00686",
+				"nom_abri": "Rancy",
+				"adresse": "Face 252, Rue Garibaldi",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2438"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.853206193994486,
+					45.755111708506749
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00206",
+				"nom_abri": "Manufacture Montluc",
+				"adresse": "141, Cours Gambetta",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2440"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.859052685624062,
+					45.749857005980178
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00312",
+				"nom_abri": "",
+				"adresse": "Face 77, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "2445"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.848409655884635,
+					45.76353474852723
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00154",
+				"nom_abri": "",
+				"adresse": "56, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2455"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846475045952658,
+					45.76354630241674
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00027",
+				"nom_abri": "",
+				"adresse": "68, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2456"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.847425679057754,
+					45.76355296095121
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00016",
+				"nom_abri": "",
+				"adresse": "102, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2457"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.850578373545956,
+					45.763550894672
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00197",
+				"nom_abri": "",
+				"adresse": "Face 126, Rue Paul Bert",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2463"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.855032832610289,
+					45.75715109341776
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01593",
+				"nom_abri": "Hôp. Desgenettes Vinatier",
+				"adresse": "259, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2481"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.894377228367905,
+					45.743770442224839
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "SV00382",
+				"nom_abri": "",
+				"adresse": "Face 257, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 8m²",
+				"gid": "2484"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.894174250558449,
+					45.74360236573485
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00156",
+				"nom_abri": "",
+				"adresse": "272, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2503"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.866328481078851,
+					45.7636559089186
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00275",
+				"nom_abri": "",
+				"adresse": "128, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2508"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.85239674145809,
+					45.76356299818615
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00453",
+				"nom_abri": "",
+				"adresse": "140, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2509"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.854301077545585,
+					45.7635896821549
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00019",
+				"nom_abri": "",
+				"adresse": "156, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2510"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.855558480389135,
+					45.763590812833928
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00487",
+				"nom_abri": "",
+				"adresse": "Face 183, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2511"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.857661805226734,
+					45.76361487560562
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01230",
+				"nom_abri": "Gare Part-Dieu - Vivier Merle",
+				"adresse": "Face 30, Boulevard Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2519"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.857938448401315,
+					45.76090502728152
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00420",
+				"nom_abri": "Gare Part-Dieu - Vivier Merle",
+				"adresse": "Face 30, Boulevard Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2521"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.857943445799298,
+					45.76087287144389
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00421",
+				"nom_abri": "Gare Part-Dieu - Vivier Merle",
+				"adresse": "Face 30, Boulevard Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2522"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.857950666719238,
+					45.76081040331836
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB00167",
+				"nom_abri": "Gare Part-Dieu - Vivier Merle",
+				"adresse": "Face 30, Boulevard Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2523"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.857945651445426,
+					45.76084410569332
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01715",
+				"nom_abri": "Saxe Lafayette",
+				"adresse": "32, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2525"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.845618435664093,
+					45.763603648654228
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01716",
+				"nom_abri": "Halles Paul Bocuse",
+				"adresse": "116, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2526"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.850763061151183,
+					45.763642228401987
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01719",
+				"nom_abri": "Thiers - Lafayette",
+				"adresse": "240, cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2537"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.863469347598709,
+					45.76371142698241
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01720",
+				"nom_abri": "Charmettes",
+				"adresse": "292, cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2538"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.867551737631572,
+					45.76373104363085
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01718",
+				"nom_abri": "Thiers - Lafayette",
+				"adresse": "235, Cours Lafayette",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2550"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.862346864094087,
+					45.763768051435707
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00451",
+				"nom_abri": "",
+				"adresse": "4, Boulevard Eugène Deruelle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m² + dispo Vélo’V",
+				"gid": "2551"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.852096729872918,
+					45.76272624252684
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05347",
+				"nom_abri": "Parc Chambovet",
+				"adresse": "50, Boulevard Pinel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "2552"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.896559960903558,
+					45.747617275785369
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05554",
+				"nom_abri": "Parc Chambovet",
+				"adresse": "Face 50, Boulevard Pinel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "2553"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.896659919016612,
+					45.74766263060429
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05500",
+				"nom_abri": "Hôpital Desgenettes Vinatier",
+				"adresse": "Face 259, Avenue Lacassagne",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "2560"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.894299112229231,
+					45.7436797387856
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB01706",
+				"nom_abri": "Lacassagne - Eugénie",
+				"adresse": "48, Cours Eugénie",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2628"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.887469482546813,
+					45.74656775964264
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05178",
+				"nom_abri": "Docteur Rebatel",
+				"adresse": "12, Rue Docteur Rebatel",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "2643"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.873525749032696,
+					45.749896956799208
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05009",
+				"nom_abri": "Garibaldi - Paul Bert",
+				"adresse": "215, Rue Garibaldi",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "2645"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.852745264123551,
+					45.75725416949394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB03002",
+				"nom_abri": "Gemellyon",
+				"adresse": "59, Boulevard Marius Vivier Merle",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri publicitaire",
+				"gid": "2663"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.858792038739574,
+					45.75771626214786
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "AB05528",
+				"nom_abri": "Bonnand",
+				"adresse": "Face 23, Rue Ferdinand Buisson",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "Abri non publicitaire",
+				"gid": "2665"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.884454995022906,
+					45.747975316148458
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ref:FR:Lyon:Pub": "MU00013",
+				"nom_abri": "",
+				"adresse": "Face 119, Avenue Maréchal de Saxe",
+				"commune": "Lyon 3 ème",
+				"code_insee": "69383",
+				"famillemobilier": "MU 2m²",
+				"gid": "2704"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.846042543492392,
+					45.7579759928363
+				]
+			}
+		}
+	]
+}
