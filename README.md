@@ -2,8 +2,10 @@
 
 Atelier OSM conflator 
 
-Groupe local OpenstreetMap Grenoble 28/05/2018
+Groupe local OpenstreetMap Lyon 11/02/2020
 
 - Presentation : slides
 
 - osm-conflator : exemple
+
+- plugin-confaltion : exemple de fichiers pour le plugin Josm conflation
