@@ -1,0 +1,13 @@
+%% https://mermaid.live
+flowchart LR
+    A[(OSM bdd)] -->|Overpass| C(OSM Conflator)
+    B[arceaux.geojson\nOpendata] --> C
+    C --> D[modifs.osmc]
+    D  -.-> J(Josm)
+    C --> E[visu.geojson]
+    E -->|jq| F[ajouts.geojson]
+    F --> G(fa:fa-mobile OsmAnd )
+    F --> H(fa:fa-mobile Vespucci)
+
+
+%% https://mermaid.live/edit#pako:eNpd0FFrwjAQB_CvcgQEC7a-92Hgqm6TSWHC9tDs4WyuGmmSrknchvrdF1sdc8lLkvvdn3AHVhpBLGWDAWyda2w6HitqFUqR1HJPXFe1-Sy32Dp4fuEawpoUw3y1hLUQ0TvE8d0x31PboLVHyLpKZkIXOtNGfcN9gW1J6L-SDZmdNZpznTekBTrsEiDrYdZdpoUyQlY2MVaV731lChAnobYYLsJr9JfPir20_hp98bPuY7uPI8wL3Bnv7D8w7_MehhWmFcbKrGVNkFs10QKiXxPI4y1ZvcESG3trnm7NK9nGl6UM5rwB2IhdphpGfTi_cOa2pIizNBwFVehrxxnXp0B9EyZDMyHDCFmIrS2NGHpnVt-6ZKlrPV3RVOKmRXVRpx8O9pI-

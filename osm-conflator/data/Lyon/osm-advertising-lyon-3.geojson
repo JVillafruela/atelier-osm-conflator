@@ -1,0 +1,2001 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-02-10T09:50:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/778739023",
+        "advertising": "billboard",
+        "operator": "FIFinternational",
+        "support": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8761719,
+          45.7494109
+        ]
+      },
+      "id": "node/778739023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1611055630",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8659773,
+          45.7489986
+        ]
+      },
+      "id": "node/1611055630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1611055632",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8536892,
+          45.7516805
+        ]
+      },
+      "id": "node/1611055632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1611055635",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8534998,
+          45.751692
+        ]
+      },
+      "id": "node/1611055635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1611055636",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8523276,
+          45.7521412
+        ]
+      },
+      "id": "node/1611055636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1611055644",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.850475,
+          45.752785
+        ]
+      },
+      "id": "node/1611055644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1611055662",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8431539,
+          45.7554298
+        ]
+      },
+      "id": "node/1611055662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2211606957",
+        "advertising": "billboard",
+        "mapillary": "jOisQTnVm0W9YEptebBIGA",
+        "support": "poles",
+        "survey:date": "2018-08-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8548246,
+          45.7569364
+        ]
+      },
+      "id": "node/2211606957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212516077",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8539439,
+          45.7571125
+        ]
+      },
+      "id": "node/2212516077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356938236",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.862822,
+          45.75916
+        ]
+      },
+      "id": "node/2356938236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3660073306",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8530051,
+          45.7546514
+        ]
+      },
+      "id": "node/3660073306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3660102668",
+        "advertising": "billboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8543955,
+          45.7592737
+        ]
+      },
+      "id": "node/3660102668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4300667065",
+        "advertising": "event",
+        "name": "Panneau Affichage Libre",
+        "note": "Position réelle (en accord avec la liste de la ville publiée en 26/6/2014)",
+        "operator": "Ville de Lyon, Direction Cadre de vie",
+        "source": "knowledge + orthophoto 2015 data.grandlyon 8cm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8470555,
+          45.7587795
+        ]
+      },
+      "id": "node/4300667065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4300667066",
+        "advertising": "event",
+        "name": "Panneau Affichage Libre",
+        "note": "Position réelle (en accord avec la liste de la ville publiée en 26/6/2014)",
+        "operator": "Ville de Lyon, Direction Cadre de vie",
+        "source": "knowledge + orthophoto 2015 data.grandlyon 8cm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8470649,
+          45.7587805
+        ]
+      },
+      "id": "node/4300667066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4417828667",
+        "advertising": "event",
+        "name": "Panneau Affichage Libre",
+        "note": "Position réelle (conforme à mention sur site communal)",
+        "operator": "Commune de Lyon-3e",
+        "source": "knowledge + orthophoto 2015 data.grandlyon 10cm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8684439,
+          45.7517665
+        ]
+      },
+      "id": "node/4417828667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891999521",
+        "advertising": "board",
+        "message": "political",
+        "permanent": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8465478,
+          45.7595827
+        ]
+      },
+      "id": "node/4891999521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5100932746",
+        "advertising": "event",
+        "name": "Panneau Affichage Libre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8634498,
+          45.7490547
+        ]
+      },
+      "id": "node/5100932746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478820",
+        "advertising": "totem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8751435,
+          45.7443417
+        ]
+      },
+      "id": "node/6499478820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478821",
+        "advertising": "poster_box",
+        "operator": "JCDecaux",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.873154,
+          45.7449683
+        ]
+      },
+      "id": "node/6499478821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478822",
+        "advertising": "poster_box",
+        "operator": "JCDecaux",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8744857,
+          45.7445073
+        ]
+      },
+      "id": "node/6499478822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478823",
+        "advertising": "billboard",
+        "operator": "Exterion",
+        "support": "trunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8767844,
+          45.7438098
+        ]
+      },
+      "id": "node/6499478823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478824",
+        "advertising": "poster_box",
+        "operator": "JCDecaux",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8768803,
+          45.7436848
+        ]
+      },
+      "id": "node/6499478824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478826",
+        "advertising": "billboard",
+        "operator": "FIFinternational",
+        "support": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8761921,
+          45.7494373
+        ]
+      },
+      "id": "node/6499478826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478827",
+        "advertising": "billboard",
+        "operator": "ClearChannel",
+        "support": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8775842,
+          45.7489002
+        ]
+      },
+      "id": "node/6499478827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478829",
+        "advertising": "billboard",
+        "operator": "Exterion",
+        "support": "trunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8758225,
+          45.7495586
+        ]
+      },
+      "id": "node/6499478829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499478830",
+        "advertising": "board",
+        "operator": "Ville de Lyon",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8758312,
+          45.7495804
+        ]
+      },
+      "id": "node/6499478830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515170442",
+        "advertising": "board",
+        "message": "non-profit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8758763,
+          45.7495771
+        ]
+      },
+      "id": "node/6515170442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6524571490",
+        "advertising": "board",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8537882,
+          45.7636069
+        ]
+      },
+      "id": "node/6524571490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6558652593",
+        "advertising": "poster_box",
+        "operator": "JCDecaux",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8711806,
+          45.7456926
+        ]
+      },
+      "id": "node/6558652593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573033985",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "land_property": "Private",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Public ethnik",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "50*70",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.845905,
+          45.7562572
+        ]
+      },
+      "id": "node/6573033985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573033986",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "land_property": "Private",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Unknown",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "1*0.6",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8450676,
+          45.7565433
+        ]
+      },
+      "id": "node/6573033986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573042485",
+        "access": "no",
+        "advertising": "billboard",
+        "animated": "screen",
+        "level": "0",
+        "message": "commercial",
+        "operator": "Unknown",
+        "sides": "1",
+        "size": "2*1",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8449119,
+          45.7566122
+        ]
+      },
+      "id": "node/6573042485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573042486",
+        "access": "no",
+        "advertising": "board",
+        "faces": "1",
+        "land_property": "Private",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "Insert",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.5*0.7",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8445402,
+          45.7565773
+        ]
+      },
+      "id": "node/6573042486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573048885",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Insert",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.5*0.7",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8443985,
+          45.7564279
+        ]
+      },
+      "id": "node/6573048885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573051085",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Unknown",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.5*.07",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8442606,
+          45.756383
+        ]
+      },
+      "id": "node/6573051085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573051088",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Insert",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.5*07",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8439573,
+          45.7566276
+        ]
+      },
+      "id": "node/6573051088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573051089",
+        "advertising": "billboard",
+        "inscription": "Club du Rhône",
+        "message": "Commercial",
+        "size": "1*4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8436274,
+          45.7567268
+        ]
+      },
+      "id": "node/6573051089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573053185",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Public Ethnik",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.5*0.7",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8442305,
+          45.7562451
+        ]
+      },
+      "id": "node/6573053185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573053187",
+        "advertising": "billboard",
+        "inscription": "Club du Rhône",
+        "message": "Commercial",
+        "size": "0.5*2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8438781,
+          45.7570955
+        ]
+      },
+      "id": "node/6573053187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573061386",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "land_property": "Private",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Insert",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.5*0.7",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.843099,
+          45.7568335
+        ]
+      },
+      "id": "node/6573061386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573086985",
+        "access": "no",
+        "advertising": "billboard",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "6",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "No",
+        "message": "commercial",
+        "operator": "JC Decaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "2*1",
+        "support": "street_furniture:transit_shelter",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8463289,
+          45.7568161
+        ]
+      },
+      "id": "node/6573086985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573090285",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "land_property": "Private",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Insert",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.5*0.7",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8466442,
+          45.7564234
+        ]
+      },
+      "id": "node/6573090285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573091186",
+        "access": "no",
+        "advertising": "billboard",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "2",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "No",
+        "message": "commercial",
+        "operator": "JC Decaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "2*1",
+        "support": "street_furniture:transit_shelter",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8465104,
+          45.7565525
+        ]
+      },
+      "id": "node/6573091186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573091187",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Insert",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.7*1.5",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8466152,
+          45.7565408
+        ]
+      },
+      "id": "node/6573091187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573091188",
+        "access": "no",
+        "advertising": "billboard",
+        "animated": "no",
+        "display_surface": "2",
+        "faces": "2",
+        "land_property": "Public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JC Decaux",
+        "orientation": "front",
+        "size": "1*2",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8461893,
+          45.7574913
+        ]
+      },
+      "id": "node/6573091188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573091486",
+        "access": "no",
+        "advertising": "billboard",
+        "display_surface": "0.7*1.5",
+        "faces": "4",
+        "land_property": "Public",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JC Decaux",
+        "orientation": "parallel",
+        "sides": "1",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8463748,
+          45.7581296
+        ]
+      },
+      "id": "node/6573091486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573097085",
+        "access": "no",
+        "advertising": "billboard",
+        "animated": "no",
+        "display_surface": "2",
+        "faces": "2",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JC Decaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "1*2",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8461281,
+          45.758265
+        ]
+      },
+      "id": "node/6573097085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573105786",
+        "access": "no",
+        "advertising": "screen",
+        "animated": "screen",
+        "level": "0",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "La forêt",
+        "sides": "1",
+        "size": "0.5*1",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8461332,
+          45.7588365
+        ]
+      },
+      "id": "node/6573105786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573117585",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "no",
+        "display_surface": "2",
+        "faces": "2",
+        "land_property": "Public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JC Decaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "1*2",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8459303,
+          45.7587927
+        ]
+      },
+      "id": "node/6573117585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573120585",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "no",
+        "display_surface": "2",
+        "faces": "2",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "No",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JC Decaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "1*2",
+        "support": "street_furniture:transit_shelter",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8458411,
+          45.7591051
+        ]
+      },
+      "id": "node/6573120585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6600833605",
+        "access": "no",
+        "advertising": "billboard",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "2",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "1*2",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8459953,
+          45.7582437
+        ]
+      },
+      "id": "node/6600833605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6600944987",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "2",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "2*1",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8459175,
+          45.7587715
+        ]
+      },
+      "id": "node/6600944987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6600954087",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "2",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDécaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "2*1",
+        "support": "street_furniture:transit_shelter",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8458719,
+          45.759084
+        ]
+      },
+      "id": "node/6600954087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6600954386",
+        "access": "no",
+        "advertising": "billboard",
+        "faces": "1",
+        "land_property": "private",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "Française des Jeux",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "1,5*0,7",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8463306,
+          45.7580734
+        ]
+      },
+      "id": "node/6600954386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6600954387",
+        "access": "no",
+        "advertising": "screen",
+        "animated": "screen",
+        "land_property": "private",
+        "level": "0",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "Laforet",
+        "sides": "1",
+        "size": "1,2*0,7",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8461106,
+          45.7589081
+        ]
+      },
+      "id": "node/6600954387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6610937340",
+        "advertising": "poster_box",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8724003,
+          45.7475667
+        ]
+      },
+      "id": "node/6610937340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6610937347",
+        "advertising": "poster_box",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8690536,
+          45.7529555
+        ]
+      },
+      "id": "node/6610937347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6610937348",
+        "advertising": "billboard",
+        "support": "trunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8688048,
+          45.7531539
+        ]
+      },
+      "id": "node/6610937348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6655913445",
+        "advertising": "billboard",
+        "operator": "Espace Urbain",
+        "support": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876947,
+          45.7526458
+        ]
+      },
+      "id": "node/6655913445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6742384190",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "no",
+        "direction": "0;180",
+        "display_surface": "0.91",
+        "faces": "2",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "front",
+        "sides": "2",
+        "size": "1,20*1,76",
+        "support": "street_furniture:transit_shelter",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8413537,
+          45.7633541
+        ]
+      },
+      "id": "node/6742384190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6742417485",
+        "access": "no",
+        "advertising": "board",
+        "faces": "6",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "Unknown",
+        "orientation": "parallel",
+        "sides": "6",
+        "support": "kiosque presse",
+        "visibility": "Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8415898,
+          45.7633878
+        ]
+      },
+      "id": "node/6742417485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6742422385",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "2",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "front",
+        "sides": "5",
+        "size": "1,20*1,60",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8415039,
+          45.7634851
+        ]
+      },
+      "id": "node/6742422385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6742427185",
+        "access": "no",
+        "advertising": "screen",
+        "animated": "screen",
+        "direction": "W",
+        "land_property": "private",
+        "level": "0",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "Phoenix Gitana",
+        "sides": "1",
+        "support": "wall",
+        "visibility": "Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8419814,
+          45.7634047
+        ]
+      },
+      "id": "node/6742427185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6742427186",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "2",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "front",
+        "sides": "5",
+        "size": "1.20*1.60",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8432581,
+          45.7625514
+        ]
+      },
+      "id": "node/6742427186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6742427187",
+        "access": "no",
+        "advertising": "billboard",
+        "animated": "yes",
+        "display_surface": "7.68",
+        "faces": "4",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "Unknown",
+        "orientation": "front",
+        "sides": "1",
+        "size": "3.20*2.40",
+        "support": "wall",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8413725,
+          45.7598999
+        ]
+      },
+      "id": "node/6742427187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6742442585",
+        "access": "no",
+        "advertising": "board",
+        "faces": "1",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "Tabac Weyner",
+        "orientation": "parallel",
+        "sides": "1",
+        "size": "0.5*0.7",
+        "support": "wall",
+        "visibility": "Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8421852,
+          45.7596173
+        ]
+      },
+      "id": "node/6742442585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6787667085",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "2",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "orientation": "front",
+        "size": "0.76*1.20",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8615468,
+          45.758894
+        ]
+      },
+      "id": "node/6787667085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6787667092",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "no",
+        "display_surface": "0.91",
+        "faces": "2",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "orientation": "front",
+        "size": "0.76*1.20",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8564962,
+          45.7506634
+        ]
+      },
+      "id": "node/6787667092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6787692086",
+        "access": "no",
+        "advertising": "billboard",
+        "animated": "no",
+        "display_surface": "7.68",
+        "faces": "1",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "Unknown",
+        "orientation": "front",
+        "sides": "1",
+        "size": "3.20*2.40",
+        "support": "wall",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8570567,
+          45.7505941
+        ]
+      },
+      "id": "node/6787692086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6815707460",
+        "advertising": "billboard",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "support": "trunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8845369,
+          45.7466866
+        ]
+      },
+      "id": "node/6815707460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6815707464",
+        "advertising": "billboard",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "support": "trunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8858648,
+          45.7462823
+        ]
+      },
+      "id": "node/6815707464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6815707468",
+        "advertising": "billboard",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "support": "trunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8879113,
+          45.7456835
+        ]
+      },
+      "id": "node/6815707468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6815707473",
+        "advertising": "billboard",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "support": "trunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8891553,
+          45.7452832
+        ]
+      },
+      "id": "node/6815707473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6835179214",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "direction": "90;270",
+        "display_surface": "0.91",
+        "faces": "2",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "front",
+        "size": "0.76*1.20",
+        "support": "pedestal",
+        "visibility": "multi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8575134,
+          45.763571
+        ]
+      },
+      "id": "node/6835179214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854322786",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "no",
+        "direction": "0;180",
+        "display_surface": "0.91",
+        "faces": "2",
+        "land_property": "public",
+        "level": "0",
+        "lit": "no",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Front",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8408562,
+          45.7593235
+        ]
+      },
+      "id": "node/6854322786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854333785",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "direction": "0;180",
+        "display_surface": "0.91",
+        "faces": "3",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Front",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8406971,
+          45.7573179
+        ]
+      },
+      "id": "node/6854333785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854333786",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "direction": "10;190",
+        "display_surface": "0.91",
+        "faces": "3",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Front",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8410386,
+          45.7605473
+        ]
+      },
+      "id": "node/6854333786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854335485",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "direction": "0;180",
+        "display": "0.91",
+        "faces": "3",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Frontal",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "street_furniture:transit_shelter",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8409474,
+          45.7597333
+        ]
+      },
+      "id": "node/6854335485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854339485",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "direction": "45;225",
+        "display_surface": "0.91",
+        "faces": "3",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Front",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "pedestal",
+        "visibility": "multi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8408866,
+          45.7598936
+        ]
+      },
+      "id": "node/6854339485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854340785",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "direction": "90;270",
+        "display_surface": "0.91",
+        "faces": "3",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Front",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8408156,
+          45.7600825
+        ]
+      },
+      "id": "node/6854340785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854340786",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "direction": "10;190",
+        "display_surface": "0.91",
+        "faces": "3",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Front",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8412183,
+          45.761773
+        ]
+      },
+      "id": "node/6854340786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854343885",
+        "access": "yes",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "direction": "0;180",
+        "display_surface": "0.91",
+        "faces": "3",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Front",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "pedestal",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8412531,
+          45.761227
+        ]
+      },
+      "id": "node/6854343885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6968530986",
+        "access": "no",
+        "advertising": "poster_box",
+        "animated": "yes",
+        "display_surface": "0.91",
+        "faces": "3",
+        "land_property": "public",
+        "level": "0",
+        "lit": "yes",
+        "luminous": "no",
+        "man_made": "advertising",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "orientation": "Front",
+        "sides": "2",
+        "size": "1.76*1.20",
+        "support": "pedestal",
+        "visibility": "multi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8434043,
+          45.7552034
+        ]
+      },
+      "id": "node/6968530986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6970950511",
+        "advertising": "poster_box",
+        "land_property": "public",
+        "message": "commercial",
+        "operator": "JCDecaux",
+        "sides": "2",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8882475,
+          45.7404221
+        ]
+      },
+      "id": "node/6970950511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6970950514",
+        "advertising": "poster_box",
+        "land_property": "public",
+        "message": "commercial",
+        "sides": "2",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8800736,
+          45.7426055
+        ]
+      },
+      "id": "node/6970950514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7009855867",
+        "advertising": "yes",
+        "bench": "yes",
+        "bus": "yes",
+        "covered": "no",
+        "highway": "bus_stop",
+        "name": "Moncey - Bonnel",
+        "network": "TCL",
+        "public_transport": "platform",
+        "ref:FR:TCL": "2012",
+        "route_ref": "C9A:A",
+        "shelter": "yes",
+        "source": "SYTRAL 12/2016",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8501602,
+          45.7619111
+        ]
+      },
+      "id": "node/7009855867"
+    }
+  ]
+}
