@@ -88,7 +88,7 @@
   <p class="author">
 Groupe local OSM Grenoble - Jérôme Villafruela
   </p>
-  <p class="date">21/02/20222</p>
+  <p class="date">21/02/2022 - 20/02/2023</p>
 </div>
 <div id="objectif" class="slide section level1">
 <h1>Objectif</h1>
@@ -129,10 +129,11 @@ précis</h2>
 <li>Doc : <a href="https://wiki.openstreetmap.org/wiki/OSM_Conflator" class="uri">https://wiki.openstreetmap.org/wiki/OSM_Conflator</a></li>
 <li>Installation</li>
 </ul>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> <span class="at">-m</span> venv osm-conflator</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> osm-conflator <span class="kw">&amp;&amp;</span> <span class="bu">source</span> bin/activate</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co">#pip3 install osm_conflate</span></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="ex">pip3</span> install <span class="at">-r</span> ./requirements.txt</span></code></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> osm-conflator</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> <span class="at">-m</span> venv venv</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="bu">source</span> bin/activate</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="ex">pip3</span> install osm_conflate</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="co">#pip3 install -r ./requirements.txt</span></span></code></pre></div>
 </div>
 <div id="osm-conflator---utilisation" class="slide section level1">
 <h1>OSM Conflator - utilisation</h1>
@@ -143,11 +144,14 @@ précis</h2>
 <p>Visualiser le fichier visu.json dans <a href="http://geojson.io" class="uri">http://geojson.io</a></p>
 <p>Filtrer les créations :</p>
 <div class="sourceCode" id="cb4"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">jq</span> <span class="st">&#39;.features |= map(select(.properties.action == &quot;create&quot;))&#39;</span> visu.geojson <span class="op">&gt;</span>arceaux-create.geojson</span></code></pre></div>
+<p>Filtrer les modifications :</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">jq</span> <span class="st">&#39;.features |= map(select(.properties.action == &quot;modify&quot;))&#39;</span> visu.geojson <span class="op">&gt;</span>arceaux-modify.geojson</span></code></pre></div>
 </div>
 <div id="atelier" class="slide section level1">
 <h1>Atelier</h1>
 <p><a href="https://github.com/JVillafruela/atelier-osm-conflator" class="uri">https://github.com/JVillafruela/atelier-osm-conflator</a></p>
-<p>Fichiers dans atelier-osm-conflator/osm-conflator/data/</p>
+<p>Fichiers dans atelier-osm-conflator/osm-conflator/data/ résultats
+dans output/</p>
 </div>
 </body>
 </html>

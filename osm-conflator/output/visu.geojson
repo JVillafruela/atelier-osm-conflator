@@ -3,6 +3,33 @@
   {
    "geometry": {
     "coordinates": [
+     5.7089696,
+     45.1849825
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7326001587,
+    "osm_type": "node",
+    "ref_coords": [
+     5.70896989512113,
+     45.1849808399429
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "364",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2020-03-24",
+    "tags_changed.capacity": "8 -> 4"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.729683,
      45.1884816
     ],
@@ -87,33 +114,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.7191614,
-     45.181618
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 4642121993,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71916858902824,
-     45.1816193109558
-    ],
-    "ref_distance": 0.6,
-    "ref_id": "325",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.survey:date": "2020-05-28",
-    "tags_changed.capacity": "12 -> 14"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.7246227,
      45.1733428
     ],
@@ -132,34 +132,9 @@
     "ref_id": "589",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-06-12",
     "tags.covered": "no",
     "tags_changed.capacity": "6 -> 4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7285306,
-     45.1720268
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 5177577241,
-    "osm_type": "node",
-    "ref_coords": [
-     5.7285370859655,
-     45.1720307964638
-    ],
-    "ref_distance": 0.7,
-    "ref_id": "612",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "4 -> 8"
    },
    "type": "Feature"
   },
@@ -188,6 +163,63 @@
     "tags.covered": "no",
     "tags.source": "survey",
     "tags_changed.capacity": "12 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7256923,
+     45.1889712
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7047115085,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72568812564171,
+     45.1889775365025
+    ],
+    "ref_distance": 0.8,
+    "ref_id": "1110",
+    "tags.access": "yes",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.fee": "no",
+    "tags.survey:date": "2022-04-22",
+    "tags_changed.capacity": "6 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7233229,
+     45.185089
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7007912699,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72332195105928,
+     45.1850964497892
+    ],
+    "ref_distance": 0.8,
+    "ref_id": "138",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-02-03",
+    "tags.covered": "no",
+    "tags.survey:date": "2022-04-22",
+    "tags_changed.capacity": "10 -> 24"
    },
    "type": "Feature"
   },
@@ -373,7 +405,7 @@
     "tags.covered": "no",
     "tags.fee": "yes",
     "tags.survey:date": "2020-02-14",
-    "tags_changed.capacity": "20 -> 10"
+    "tags_changed.capacity": "6 -> 10"
    },
    "type": "Feature"
   },
@@ -407,27 +439,27 @@
   {
    "geometry": {
     "coordinates": [
-     5.719307,
-     45.1807246
+     5.7116362,
+     45.1951084
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 4508602497,
+    "osm_id": 9711241517,
     "osm_type": "node",
     "ref_coords": [
-     5.71932266408771,
-     45.1807195619317
+     5.71164371683986,
+     45.1950980123252
     ],
-    "ref_distance": 1.4,
-    "ref_id": "377",
+    "ref_distance": 1.3,
+    "ref_id": "1041",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
-    "tags.check_date:capacity": "2020-11-21",
     "tags.covered": "no",
-    "tags_changed.capacity": "5 -> 6"
+    "tags.survey:date": "2022-05-03",
+    "tags_changed.capacity": "38 -> 20"
    },
    "type": "Feature"
   },
@@ -478,6 +510,7 @@
     "ref_id": "881",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-02-28",
     "tags.covered": "no",
     "tags_changed.capacity": "6 -> 4"
    },
@@ -504,8 +537,8 @@
     "ref_id": "763",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
-    "tags.check_date:capacity": "2021-07-25",
     "tags.covered": "no",
+    "tags.survey:date": "2022-10-05",
     "tags_changed.capacity": "4 -> 8"
    },
    "type": "Feature"
@@ -639,8 +672,8 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags.survey:date": "2020-01-14",
-    "tags_changed.capacity": "6 -> 10"
+    "tags.survey:date": "2022-10-05",
+    "tags_changed.capacity": "14 -> 10"
    },
    "type": "Feature"
   },
@@ -691,6 +724,7 @@
     "ref_id": "992",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-12-19",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-18",
     "tags_changed.capacity": "6 -> 4"
@@ -853,6 +887,7 @@
     "ref_id": "616",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-04-22",
     "tags.covered": "yes",
     "tags_changed.capacity": "26 -> 8"
    },
@@ -879,6 +914,7 @@
     "ref_id": "980",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-01-13",
     "tags_changed.capacity": "12 -> 10"
@@ -909,34 +945,6 @@
     "tags.check_date:capacity": "2021-02-20",
     "tags.covered": "no",
     "tags_changed.capacity": "4 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7420656,
-     45.198304
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 7211887431,
-    "osm_type": "node",
-    "ref_coords": [
-     5.74206216320529,
-     45.1982878666087
-    ],
-    "ref_distance": 1.8,
-    "ref_id": "1084",
-    "tags.access": "yes",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.fee": "no",
-    "tags_changed.capacity": "15 -> 6"
    },
    "type": "Feature"
   },
@@ -990,6 +998,61 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags_changed.capacity": "8 -> 10"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7291123,
+     45.190649
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 666939334,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72913669874112,
+     45.190648022067
+    ],
+    "ref_distance": 1.9,
+    "ref_id": "87",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2020-10-17",
+    "tags_changed.capacity": "8 -> 10"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7150633,
+     45.1771628
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9534909884,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71507616345625,
+     45.1771776682138
+    ],
+    "ref_distance": 1.9,
+    "ref_id": "499",
+    "tags.access": "yes",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.fee": "no",
+    "tags_changed.capacity": "4 -> 2"
    },
    "type": "Feature"
   },
@@ -1253,7 +1316,7 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags.survey:date": "2020-09-24",
-    "tags_changed.capacity": "46 -> 12"
+    "tags_changed.capacity": "48 -> 12"
    },
    "type": "Feature"
   },
@@ -1446,6 +1509,32 @@
   {
    "geometry": {
     "coordinates": [
+     5.7244258,
+     45.1884214
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3381943715,
+    "osm_type": "node",
+    "ref_coords": [
+     5.7244500844956,
+     45.1884312856004
+    ],
+    "ref_distance": 2.2,
+    "ref_id": "119",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "2 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7174098,
      45.1874667
     ],
@@ -1625,7 +1714,7 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-18",
-    "tags_changed.capacity": "6 -> 16"
+    "tags_changed.capacity": "10 -> 16"
    },
    "type": "Feature"
   },
@@ -1706,7 +1795,7 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags.survey:date": "2019-12-22",
-    "tags_changed.capacity": "52 -> 10"
+    "tags_changed.capacity": "8 -> 10"
    },
    "type": "Feature"
   },
@@ -1740,6 +1829,32 @@
   {
    "geometry": {
     "coordinates": [
+     5.7121387,
+     45.1925293
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3835458981,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71215745047115,
+     45.1925117796757
+    ],
+    "ref_distance": 2.4,
+    "ref_id": "1044",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "2 -> 4"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7352388,
      45.1881075
     ],
@@ -1759,7 +1874,32 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_changed.capacity": "12 -> 6"
+    "tags_changed.capacity": "10 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7384165,
+     45.1621519
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10012345580,
+    "osm_type": "node",
+    "ref_coords": [
+     5.73844320500765,
+     45.1621397644577
+    ],
+    "ref_distance": 2.5,
+    "ref_id": "835",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags_changed.capacity": "4 -> 6"
    },
    "type": "Feature"
   },
@@ -1871,6 +2011,34 @@
   {
    "geometry": {
     "coordinates": [
+     5.7065552,
+     45.1886128
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10297075511,
+    "osm_type": "node",
+    "ref_coords": [
+     5.70655900089295,
+     45.1885892548825
+    ],
+    "ref_distance": 2.6,
+    "ref_id": "422",
+    "tags.access": "yes",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.fee": "no",
+    "tags_changed.capacity": "10 -> 12"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7363714,
      45.1973257
     ],
@@ -1890,7 +2058,8 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_changed.capacity": "4 -> 2"
+    "tags.survey:date": "2022-05-09",
+    "tags_changed.capacity": "8 -> 2"
    },
    "type": "Feature"
   },
@@ -1976,32 +2145,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.7162225,
-     45.1899778
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 5859251385,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71621496585368,
-     45.1899538518274
-    ],
-    "ref_distance": 2.7,
-    "ref_id": "218",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "3 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.7216698,
      45.1726368
     ],
@@ -2020,6 +2163,7 @@
     "ref_id": "459",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-04-25",
     "tags.covered": "yes",
     "tags_changed.capacity": "35 -> 2"
    },
@@ -2151,6 +2295,7 @@
     "ref_id": "423",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-09-23",
     "tags.covered": "no",
     "tags_changed.capacity": "12 -> 4"
    },
@@ -2229,37 +2374,9 @@
     "ref_id": "136",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2023-01-14",
     "tags.covered": "no",
     "tags_changed.capacity": "10 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7257021,
-     45.1889537
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 7047115085,
-    "osm_type": "node",
-    "ref_coords": [
-     5.72568812564171,
-     45.1889775365025
-    ],
-    "ref_distance": 2.9,
-    "ref_id": "1110",
-    "tags.access": "yes",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.fee": "no",
-    "tags.survey:date": "2020-10-17",
-    "tags_changed.capacity": "6 -> 8"
    },
    "type": "Feature"
   },
@@ -2497,6 +2614,7 @@
     "ref_id": "561",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-08",
     "tags.covered": "no",
     "tags.survey:date": "2020-09-24",
     "tags_changed.capacity": "8 -> 4"
@@ -2611,6 +2729,33 @@
   {
    "geometry": {
     "coordinates": [
+     5.7189076,
+     45.1872108
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9797112717,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71894771269041,
+     45.1872124249327
+    ],
+    "ref_distance": 3.2,
+    "ref_id": "159",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2022-06-05",
+    "tags_changed.capacity": "6 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7238252,
      45.1843219
     ],
@@ -2629,36 +2774,10 @@
     "ref_id": "1067",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-02-28",
     "tags.covered": "no",
     "tags.survey:date": "2018-02-15",
     "tags_changed.capacity": "2 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7138425,
-     45.1787035
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 4583319593,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71381633009435,
-     45.178681771692
-    ],
-    "ref_distance": 3.2,
-    "ref_id": "481",
-    "tags.access": "yes",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "10 -> 16"
    },
    "type": "Feature"
   },
@@ -2771,6 +2890,32 @@
   {
    "geometry": {
     "coordinates": [
+     5.7255787,
+     45.1831124
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 8116813017,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72561748910652,
+     45.1831010524443
+    ],
+    "ref_distance": 3.3,
+    "ref_id": "968",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "4 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7035359,
      45.1834805
     ],
@@ -2850,6 +2995,61 @@
   {
    "geometry": {
     "coordinates": [
+     5.7156653,
+     45.1813702
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9552096517,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71562326550035,
+     45.181376124248
+    ],
+    "ref_distance": 3.4,
+    "ref_id": "1039",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2022-02-20",
+    "tags_changed.capacity": "4 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7252639,
+     45.1847222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4492679090,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72525852786821,
+     45.1846918107052
+    ],
+    "ref_distance": 3.4,
+    "ref_id": "930",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.mapillary": "945002489586784",
+    "tags.survey:date": "2018-08-17",
+    "tags_changed.capacity": "22 -> 24"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7247864,
      45.1858006
     ],
@@ -2868,10 +3068,11 @@
     "ref_id": "43",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-22",
     "tags.covered": "no",
     "tags.source": "survey",
     "tags.survey:date": "2020-08-10",
-    "tags_changed.capacity": "18 -> 6"
+    "tags_changed.capacity": "24 -> 6"
    },
    "type": "Feature"
   },
@@ -2897,7 +3098,34 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "yes",
-    "tags_changed.capacity": "20 -> 24"
+    "tags_changed.capacity": "16 -> 24"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7187081,
+     45.1806825
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4508725791,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71875233077541,
+     45.1806810743988
+    ],
+    "ref_distance": 3.5,
+    "ref_id": "376",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-12-28",
+    "tags.covered": "no",
+    "tags_changed.capacity": "6 -> 8"
    },
    "type": "Feature"
   },
@@ -2979,6 +3207,7 @@
     "ref_id": "1025",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-09-18",
     "tags.covered": "no",
     "tags.survey:date": "2020-01-14",
     "tags_changed.capacity": "6 -> 4"
@@ -3035,7 +3264,7 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags.source": "survey",
-    "tags_changed.capacity": "null -> 6"
+    "tags_changed.capacity": "4 -> 6"
    },
    "type": "Feature"
   },
@@ -3140,6 +3369,7 @@
     "ref_id": "107",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-11-19",
     "tags.covered": "no",
     "tags.survey:date": "2019-10-19",
     "tags_changed.capacity": "8 -> 6"
@@ -3193,6 +3423,7 @@
     "ref_id": "588",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-06-12",
     "tags.covered": "no",
     "tags_changed.capacity": "4 -> 6"
    },
@@ -3255,6 +3486,33 @@
   {
    "geometry": {
     "coordinates": [
+     5.7448991,
+     45.179437
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10121462617,
+    "osm_type": "node",
+    "ref_coords": [
+     5.74491339377589,
+     45.1794053320254
+    ],
+    "ref_distance": 3.7,
+    "ref_id": "780",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2022-10-22",
+    "tags_changed.capacity": "4 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7160586,
      45.1787278
     ],
@@ -3282,26 +3540,28 @@
   {
    "geometry": {
     "coordinates": [
-     5.7094728,
-     45.1723672
+     5.7105929,
+     45.1839812
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 6163941852,
+    "osm_id": 5696811235,
     "osm_type": "node",
     "ref_coords": [
-     5.70943005224818,
-     45.1723526118188
+     5.71060980954745,
+     45.1840122540986
     ],
     "ref_distance": 3.7,
-    "ref_id": "490",
+    "ref_id": "828",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2021-11-15",
     "tags.covered": "no",
-    "tags_changed.capacity": "4 -> 6"
+    "tags.survey:date": "2022-07-21",
+    "tags_changed.capacity": "8 -> 6"
    },
    "type": "Feature"
   },
@@ -3352,6 +3612,7 @@
     "ref_id": "262",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-09-16",
     "tags.covered": "no",
     "tags_changed.capacity": "10 -> 4"
    },
@@ -3512,9 +3773,36 @@
     "ref_id": "1071",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-18",
     "tags_changed.capacity": "2 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7115763,
+     45.1872938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5868979242,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71157583445233,
+     45.1873293584292
+    ],
+    "ref_distance": 4.0,
+    "ref_id": "1030",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "8 -> 10"
    },
    "type": "Feature"
   },
@@ -3567,6 +3855,33 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags_changed.capacity": "10 -> 12"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7387616,
+     45.1888002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9634362848,
+    "osm_type": "node",
+    "ref_coords": [
+     5.73874186521934,
+     45.1887665607138
+    ],
+    "ref_distance": 4.1,
+    "ref_id": "770",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "yes",
+    "tags.level": "0",
+    "tags_changed.capacity": "12 -> 14"
    },
    "type": "Feature"
   },
@@ -3679,6 +3994,32 @@
   {
    "geometry": {
     "coordinates": [
+     5.7268341,
+     45.1815219
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4528055495,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72678627029373,
+     45.1815061302146
+    ],
+    "ref_distance": 4.1,
+    "ref_id": "558",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "2 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7416191,
      45.174656
     ],
@@ -3724,9 +4065,37 @@
     "ref_id": "158",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-18",
     "tags_changed.capacity": "4 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7380571,
+     45.170124
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9588105056,
+    "osm_type": "node",
+    "ref_coords": [
+     5.73800929874954,
+     45.1701073435172
+    ],
+    "ref_distance": 4.2,
+    "ref_id": "600",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-03-16",
+    "tags.covered": "no",
+    "tags_changed.capacity": "4 -> 8"
    },
    "type": "Feature"
   },
@@ -3858,6 +4227,7 @@
     "ref_id": "157",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-18",
     "tags_changed.capacity": "4 -> 6"
@@ -4002,6 +4372,32 @@
   {
    "geometry": {
     "coordinates": [
+     5.7236355,
+     45.179916
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10207586339,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72359826650921,
+     45.1799460615946
+    ],
+    "ref_distance": 4.4,
+    "ref_id": "556",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "8 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7250135,
      45.1937509
     ],
@@ -4047,6 +4443,7 @@
     "ref_id": "1002",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-17",
     "tags_changed.capacity": "6 -> 10"
@@ -4077,6 +4474,32 @@
     "tags.check_date:capacity": "2021-06-03",
     "tags.covered": "no",
     "tags_changed.capacity": "8 -> 10"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7144419,
+     45.1772469
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9552096519,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71429159093589,
+     45.1773258885647
+    ],
+    "ref_distance": 14.7,
+    "ref_id": "918",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.survey:date": "2022-02-20",
+    "tags_changed.capacity": "8 -> 4"
    },
    "type": "Feature"
   },
@@ -4128,6 +4551,7 @@
     "ref_id": "896",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-05-22",
     "tags.covered": "no",
     "tags_changed.capacity": "10 -> 8"
    },
@@ -4233,9 +4657,36 @@
     "ref_id": "97",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-17",
     "tags_changed.capacity": "10 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7284012,
+     45.1656839
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9904013927,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72834420897601,
+     45.1656936828999
+    ],
+    "ref_distance": 4.6,
+    "ref_id": "747",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "12 -> 6"
    },
    "type": "Feature"
   },
@@ -4260,6 +4711,7 @@
     "ref_id": "651",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-09-16",
     "tags.covered": "no",
     "tags_changed.capacity": "12 -> 6"
    },
@@ -4340,6 +4792,7 @@
     "ref_id": "571",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-05-11",
     "tags.covered": "no",
     "tags_changed.capacity": "10 -> 4"
    },
@@ -4366,37 +4819,10 @@
     "ref_id": "500",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-04-22",
     "tags.covered": "no",
     "tags.source": "survey",
     "tags_changed.capacity": "8 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7232682,
-     45.1850775
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 7007912699,
-    "osm_type": "node",
-    "ref_coords": [
-     5.72332195105928,
-     45.1850964497892
-    ],
-    "ref_distance": 4.7,
-    "ref_id": "138",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.check_date:capacity": "2022-02-03",
-    "tags.covered": "no",
-    "tags.survey:date": "2019-11-24",
-    "tags_changed.capacity": "10 -> 24"
    },
    "type": "Feature"
   },
@@ -4430,26 +4856,28 @@
   {
    "geometry": {
     "coordinates": [
-     5.7176697,
-     45.1898572
+     5.7420371,
+     45.1796634
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 5859245090,
+    "osm_id": 3838799882,
     "osm_type": "node",
     "ref_coords": [
-     5.71768184622404,
-     45.1898149476198
+     5.74198110333555,
+     45.1796803495961
     ],
     "ref_distance": 4.8,
-    "ref_id": "215",
+    "ref_id": "1096",
+    "tags.access": "yes",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_changed.capacity": "8 -> 6"
+    "tags.fee": "no",
+    "tags_changed.capacity": "8 -> 4"
    },
    "type": "Feature"
   },
@@ -4476,7 +4904,7 @@
     "tags.bicycle_parking": "stands",
     "tags.check_date:capacity": "2021-12-04",
     "tags.covered": "no",
-    "tags.mapillary": "14eDVX6VT3hqVB1UqzhXog",
+    "tags.mapillary": "828702114394912",
     "tags.survey:date": "2018-06-23",
     "tags_changed.capacity": "2 -> 8"
    },
@@ -4636,7 +5064,7 @@
     "tags.bicycle_parking": "stands",
     "tags.check_date:capacity": "2022-02-03",
     "tags.covered": "no",
-    "tags.mapillary": "kiPb_maLpsT4O0tNrWFyiA",
+    "tags.mapillary": "1806762249508971",
     "tags.survey:date": "2018-08-17",
     "tags_changed.capacity": "6 -> 10"
    },
@@ -4717,6 +5145,7 @@
     "ref_id": "1029",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-07-21",
     "tags.covered": "no",
     "tags_changed.capacity": "10 -> 6"
    },
@@ -4903,6 +5332,7 @@
     "ref_id": "515",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-06-16",
     "tags.covered": "no",
     "tags.survey:date": "2020-06-06",
     "tags_changed.capacity": "8 -> 6"
@@ -4959,34 +5389,6 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags_changed.capacity": "14 -> 10"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7154822,
-     45.1805428
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 1939339900,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71541856212985,
-     45.1805324489463
-    ],
-    "ref_distance": 5.1,
-    "ref_id": "403",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.mapillary": "4yddwPAePGayhodee7xp-Q",
-    "tags.survey:date": "2018-08-17",
-    "tags_changed.capacity": "4 -> 6"
    },
    "type": "Feature"
   },
@@ -5064,6 +5466,7 @@
     "ref_id": "482",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-04-22",
     "tags.covered": "no",
     "tags_changed.capacity": "4 -> 8"
    },
@@ -5090,63 +5493,10 @@
     "ref_id": "813",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-06-16",
     "tags.covered": "no",
     "tags.survey:date": "2020-06-06",
     "tags_changed.capacity": "28 -> 10"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7228768,
-     45.1815292
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 2871158015,
-    "osm_type": "node",
-    "ref_coords": [
-     5.72281569801622,
-     45.1815482195044
-    ],
-    "ref_distance": 5.2,
-    "ref_id": "852",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.survey:date": "2019-10-19",
-    "tags_changed.capacity": "4 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.732786,
-     45.1909489
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 7212024489,
-    "osm_type": "node",
-    "ref_coords": [
-     5.73272249505379,
-     45.1909339163294
-    ],
-    "ref_distance": 5.3,
-    "ref_id": "72",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.survey:date": "2020-02-14",
-    "tags_changed.capacity": "12 -> 6"
    },
    "type": "Feature"
   },
@@ -5173,7 +5523,7 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags.survey:date": "2018-09-22",
-    "tags_changed.capacity": "24 -> 12"
+    "tags_changed.capacity": "8 -> 12"
    },
    "type": "Feature"
   },
@@ -5200,32 +5550,6 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags_changed.capacity": "18 -> 2"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7189191,
-     45.1872568
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 4605757598,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71894771269041,
-     45.1872124249327
-    ],
-    "ref_distance": 5.4,
-    "ref_id": "159",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "4 -> 8"
    },
    "type": "Feature"
   },
@@ -5284,32 +5608,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.7228108,
-     45.1859275
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 5866017588,
-    "osm_type": "node",
-    "ref_coords": [
-     5.72285110031892,
-     45.1859676849877
-    ],
-    "ref_distance": 5.5,
-    "ref_id": "134",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "12 -> 4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.7320183,
      45.1859441
     ],
@@ -5357,7 +5655,7 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_new.capacity": "12"
+    "tags_changed.capacity": "8 -> 12"
    },
    "type": "Feature"
   },
@@ -5382,6 +5680,7 @@
     "ref_id": "822",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-30",
     "tags.covered": "yes",
     "tags_changed.capacity": "4 -> 6"
    },
@@ -5409,7 +5708,7 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_changed.capacity": "8 -> 6"
+    "tags_changed.capacity": "12 -> 6"
    },
    "type": "Feature"
   },
@@ -5442,32 +5741,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.7365591,
-     45.1829792
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 667878198,
-    "osm_type": "node",
-    "ref_coords": [
-     5.73649285190722,
-     45.1829583745653
-    ],
-    "ref_distance": 5.7,
-    "ref_id": "838",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "16 -> 30"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.7155309,
      45.1780317
     ],
@@ -5487,6 +5760,7 @@
     "tags.access": "yes",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-06-22",
     "tags.covered": "no",
     "tags_changed.capacity": "8 -> 6"
    },
@@ -5540,35 +5814,9 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags.mapillary": "d017lPqxaloEFuWwouROag",
+    "tags.mapillary": "479848126598880",
     "tags.survey:date": "2017-09-13",
-    "tags_changed.capacity": "16 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7259731,
-     45.1825163
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 8116813418,
-    "osm_type": "node",
-    "ref_coords": [
-     5.72600680621236,
-     45.1824686896119
-    ],
-    "ref_distance": 5.9,
-    "ref_id": "969",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "10 -> 4"
+    "tags_changed.capacity": "8 -> 6"
    },
    "type": "Feature"
   },
@@ -5673,6 +5921,7 @@
     "ref_id": "564",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-27",
     "tags.covered": "no",
     "tags_changed.capacity": "4 -> 6"
    },
@@ -5728,7 +5977,6 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags.name": "Parking vélo",
     "tags_changed.capacity": "4 -> 6"
    },
    "type": "Feature"
@@ -5789,61 +6037,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.7153535,
-     45.1804369
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 1939339897,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71527460720652,
-     45.1804445007638
-    ],
-    "ref_distance": 6.2,
-    "ref_id": "404",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.mapillary": "ylMxj_KbwV6-MNKc3NoXeg",
-    "tags.survey:date": "2018-08-17",
-    "tags_changed.capacity": "10 -> 4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7115719,
-     45.1913803
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 1797992450,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71161403855021,
-     45.1914290717763
-    ],
-    "ref_distance": 6.4,
-    "ref_id": "277",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.check_date:capacity": "2021-10-22",
-    "tags.covered": "no",
-    "tags_changed.capacity": "20 -> 8"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.7053261,
      45.1850566
     ],
@@ -5888,6 +6081,7 @@
     "ref_id": "146",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-05-02",
     "tags.covered": "no",
     "tags.survey:date": "2020-02-15",
     "tags_changed.capacity": "8 -> 4"
@@ -6022,6 +6216,7 @@
     "ref_id": "221",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2019-12-27",
     "tags_changed.capacity": "4 -> 6"
@@ -6051,6 +6246,31 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "yes",
     "tags_changed.capacity": "8 -> 64"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7254382,
+     45.1664292
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10226223221,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72535395795917,
+     45.166420791369
+    ],
+    "ref_distance": 6.7,
+    "ref_id": "741",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags_changed.capacity": "6 -> 2"
    },
    "type": "Feature"
   },
@@ -6103,6 +6323,7 @@
     "ref_id": "967",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-12-02",
     "tags.covered": "no",
     "tags_changed.capacity": "4 -> 6"
    },
@@ -6351,26 +6572,61 @@
   {
    "geometry": {
     "coordinates": [
-     5.7127851,
-     45.1918406
+     5.7329474,
+     45.1909414
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 3835458979,
+    "osm_id": 9654526295,
+    "osm_type": "node",
+    "ref_coords": [
+     5.73272249505379,
+     45.1909339163294
+    ],
+    "ref_distance": 17.7,
+    "ref_id": "72",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "10 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7128661,
+     45.1918871
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9631580717,
     "osm_type": "node",
     "ref_coords": [
      5.71295659734019,
      45.1917830969708
     ],
-    "ref_distance": 14.9,
+    "ref_distance": 13.6,
     "ref_id": "270",
+    "tags.addr:housenumber": "2",
+    "tags.addr:street": "Avenue du Doyen Louis Weil",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "4 -> 6"
+    "tags.capacity:cargo_bike": "1",
+    "tags.covered": "yes",
+    "tags.fee": "yes",
+    "tags.lit": "yes",
+    "tags.name": "Park Gare Europole",
+    "tags.operator": "Mvélo+",
+    "tags.owner": "SMMAG",
+    "tags.supervised": "yes",
+    "tags_changed.capacity": "70 -> 6"
    },
    "type": "Feature"
   },
@@ -6455,6 +6711,86 @@
   {
    "geometry": {
     "coordinates": [
+     5.7429764,
+     45.1853599
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 8817820887,
+    "osm_type": "node",
+    "ref_coords": [
+     5.74296020214835,
+     45.1854263219082
+    ],
+    "ref_distance": 7.5,
+    "ref_id": "641",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "8 -> 4"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7043495,
+     45.1866584
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 440315182,
+    "osm_type": "way",
+    "ref_coords": [
+     5.70426974927654,
+     45.1866973209869
+    ],
+    "ref_distance": 7.6,
+    "ref_id": "328",
+    "tags.access": "yes",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.fee": "no",
+    "tags_changed.capacity": "66 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.710654,
+     45.1851021
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9592260079,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71074934479779,
+     45.185088587843
+    ],
+    "ref_distance": 7.6,
+    "ref_id": "817",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "8 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7145895,
      45.1848447
     ],
@@ -6528,7 +6864,7 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "yes",
-    "tags.mapillary": "J3uZtVG4XyLMNo4X7wxN3g",
+    "tags.mapillary": "940769786703374",
     "tags.survey:date": "2017-09-13",
     "tags_changed.capacity": "52 -> 30"
    },
@@ -6557,34 +6893,6 @@
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags_changed.capacity": "8 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7043549,
-     45.1866584
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 440315182,
-    "osm_type": "way",
-    "ref_coords": [
-     5.70426974927654,
-     45.1866973209869
-    ],
-    "ref_distance": 8.0,
-    "ref_id": "328",
-    "tags.access": "yes",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.fee": "no",
-    "tags_changed.capacity": "66 -> 8"
    },
    "type": "Feature"
   },
@@ -6690,6 +6998,7 @@
     "ref_id": "559",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-06-11",
     "tags.covered": "no",
     "tags_changed.capacity": "2 -> 6"
    },
@@ -6716,6 +7025,7 @@
     "ref_id": "203",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-11-10",
     "tags.covered": "no",
     "tags.survey:date": "2019-12-10",
     "tags_changed.capacity": "8 -> 4"
@@ -6752,53 +7062,27 @@
   {
    "geometry": {
     "coordinates": [
-     5.7105822,
-     45.1839393
+     5.709361,
+     45.1753527
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 5696811235,
+    "osm_id": 1903697604,
     "osm_type": "node",
     "ref_coords": [
-     5.71060980954745,
-     45.1840122540986
+     5.70937315334205,
+     45.1754279145728
     ],
     "ref_distance": 8.4,
-    "ref_id": "828",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.check_date:capacity": "2021-11-15",
-    "tags.covered": "no",
-    "tags_changed.capacity": "8 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7240878,
-     45.1871405
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 4471765464,
-    "osm_type": "node",
-    "ref_coords": [
-     5.72413196437656,
-     45.1870714036498
-    ],
-    "ref_distance": 8.4,
-    "ref_id": "130",
+    "ref_id": "779",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_changed.capacity": "10 -> 14"
+    "tags.survey:date": "2023-01-14",
+    "tags_changed.capacity": "18 -> 8"
    },
    "type": "Feature"
   },
@@ -6849,6 +7133,7 @@
     "ref_id": "513",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-04-26",
     "tags.covered": "no",
     "tags.survey:date": "2020-04-18",
     "tags_changed.capacity": "10 -> 4"
@@ -6876,6 +7161,7 @@
     "ref_id": "527",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-06-29",
     "tags.covered": "no",
     "tags.survey:date": "2020-01-30",
     "tags_changed.capacity": "10 -> 4"
@@ -6905,7 +7191,7 @@
     "tags.bicycle_parking": "stands",
     "tags.check_date:capacity": "2021-06-13",
     "tags.covered": "no",
-    "tags.survey:date": "2018-11-12",
+    "tags.survey:date": "2022-06-02",
     "tags_changed.capacity": "8 -> 10"
    },
    "type": "Feature"
@@ -6931,6 +7217,7 @@
     "ref_id": "1035",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-07-21",
     "tags.covered": "no",
     "tags.survey:date": "2020-01-14",
     "tags_changed.capacity": "4 -> 6"
@@ -7045,6 +7332,41 @@
   {
    "geometry": {
     "coordinates": [
+     5.7375522,
+     45.1615705
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9631642717,
+    "osm_type": "node",
+    "ref_coords": [
+     5.73747511338971,
+     45.1615118140862
+    ],
+    "ref_distance": 8.9,
+    "ref_id": "712",
+    "tags.addr:housenumber": "10",
+    "tags.addr:street": "Place des Géants",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.capacity:cargo_bike": "1",
+    "tags.covered": "yes",
+    "tags.fee": "yes",
+    "tags.lit": "yes",
+    "tags.name": "Park Géants",
+    "tags.operator": "Mvélo+",
+    "tags.owner": "SMMAG",
+    "tags.supervised": "yes",
+    "tags_changed.capacity": "52 -> 4"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7252882,
      45.1914525
     ],
@@ -7151,6 +7473,34 @@
   {
    "geometry": {
     "coordinates": [
+     5.7137474,
+     45.1787486
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4583319593,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71381633009435,
+     45.178681771692
+    ],
+    "ref_distance": 9.2,
+    "ref_id": "481",
+    "tags.access": "yes",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2022-04-18",
+    "tags_changed.capacity": "10 -> 16"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7139088,
      45.1811801
     ],
@@ -7197,9 +7547,34 @@
     "tags.bicycle_parking": "stands",
     "tags.check_date:capacity": "2021-06-22",
     "tags.covered": "no",
-    "tags.mapillary": "fASXRARjMxErfNcI5yJo2A",
+    "tags.mapillary": "131949288883698",
     "tags.survey:date": "2018-08-17",
     "tags_changed.capacity": "10 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7255027,
+     45.1655066
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10226228296,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72539413496068,
+     45.165470540998
+    ],
+    "ref_distance": 9.4,
+    "ref_id": "729",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags_changed.capacity": "8 -> 4"
    },
    "type": "Feature"
   },
@@ -7233,6 +7608,32 @@
   {
    "geometry": {
     "coordinates": [
+     5.7193342,
+     45.1879605
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10174363734,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71923468153204,
+     45.1879085367982
+    ],
+    "ref_distance": 9.7,
+    "ref_id": "815",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "4 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7184648,
      45.1854194
     ],
@@ -7260,32 +7661,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.7107918,
-     45.185006
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 5863936887,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71074934479779,
-     45.185088587843
-    ],
-    "ref_distance": 9.8,
-    "ref_id": "817",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags_changed.capacity": "14 -> 6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.741071,
      45.1848702
     ],
@@ -7305,7 +7680,7 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags.survey:date": "2018-11-12",
+    "tags.survey:date": "2022-06-02",
     "tags_changed.capacity": "16 -> 12"
    },
    "type": "Feature"
@@ -7441,7 +7816,7 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags.mapillary": "ye0_e1RS1WUYsQFrh34Swg",
+    "tags.mapillary": "454345625867206",
     "tags.survey:date": "2020-10-18",
     "tags_changed.capacity": "8 -> 10"
    },
@@ -7477,27 +7852,27 @@
   {
    "geometry": {
     "coordinates": [
-     5.7408108,
-     45.1847471
+     5.722767,
+     45.1809838
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 4119601763,
+    "osm_id": 4528015398,
     "osm_type": "node",
     "ref_coords": [
-     5.74086866577524,
-     45.1846645882623
+     5.72263787354528,
+     45.1809701973399
     ],
     "ref_distance": 10.2,
-    "ref_id": "628",
+    "ref_id": "871",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2023-02-05",
     "tags.covered": "no",
-    "tags.survey:date": "2018-11-12",
-    "tags_changed.capacity": "18 -> 12"
+    "tags_changed.capacity": "10 -> 6"
    },
    "type": "Feature"
   },
@@ -7556,33 +7931,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.7057809,
-     45.185816
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 2463584711,
-    "osm_type": "node",
-    "ref_coords": [
-     5.70585235407789,
-     45.185737567316
-    ],
-    "ref_distance": 10.4,
-    "ref_id": "1103",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.check_date:capacity": "2021-09-20",
-    "tags.covered": "no",
-    "tags_changed.capacity": "8 -> 4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.7129594,
      45.190361
     ],
@@ -7604,6 +7952,32 @@
     "tags.covered": "yes",
     "tags.source": "survey",
     "tags_changed.capacity": "32 -> 70"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7193719,
+     45.188469
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10174369304,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71935161639598,
+     45.1883760196622
+    ],
+    "ref_distance": 10.5,
+    "ref_id": "156",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "8 -> 6"
    },
    "type": "Feature"
   },
@@ -7655,6 +8029,7 @@
     "ref_id": "982",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-07-17",
     "tags_changed.capacity": "10 -> 8"
@@ -7710,8 +8085,9 @@
     "ref_id": "1004",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-07-06",
     "tags.covered": "no",
-    "tags.mapillary": "pp88zDk8tw8gMwO_5AScaw",
+    "tags.mapillary": "298129265290630",
     "tags.survey:date": "2018-08-17",
     "tags_changed.capacity": "10 -> 4"
    },
@@ -7765,8 +8141,61 @@
     "ref_id": "1034",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-09-18",
     "tags.covered": "no",
     "tags_changed.capacity": "8 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7058117,
+     45.1858321
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2463584711,
+    "osm_type": "node",
+    "ref_coords": [
+     5.70585235407789,
+     45.185737567316
+    ],
+    "ref_distance": 11.0,
+    "ref_id": "1103",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2021-09-20",
+    "tags.covered": "no",
+    "tags_changed.capacity": "8 -> 4"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7346433,
+     45.1736685
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 10665277706,
+    "osm_type": "node",
+    "ref_coords": [
+     5.73461490149428,
+     45.1737668242383
+    ],
+    "ref_distance": 11.2,
+    "ref_id": "613",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags_changed.capacity": "20 -> 12"
    },
    "type": "Feature"
   },
@@ -7791,6 +8220,7 @@
     "ref_id": "86",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-17",
     "tags_changed.capacity": "6 -> 8"
@@ -7854,6 +8284,32 @@
   {
    "geometry": {
     "coordinates": [
+     5.7046744,
+     45.1710716
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 8003110487,
+    "osm_type": "node",
+    "ref_coords": [
+     5.7046152072472,
+     45.1711644894444
+    ],
+    "ref_distance": 11.3,
+    "ref_id": "528",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "10 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7146694,
      45.1922653
     ],
@@ -7881,33 +8337,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.7191712,
-     45.1878151
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 4605739192,
-    "osm_type": "node",
-    "ref_coords": [
-     5.71923468153204,
-     45.1879085367982
-    ],
-    "ref_distance": 11.5,
-    "ref_id": "815",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.check_date:capacity": "2021-03-28",
-    "tags.covered": "no",
-    "tags_changed.capacity": "12 -> 8"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.7175261,
      45.1897726
     ],
@@ -7927,7 +8356,7 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_changed.capacity": "6 -> 4"
+    "tags_changed.capacity": "8 -> 4"
    },
    "type": "Feature"
   },
@@ -8059,6 +8488,7 @@
     "ref_id": "1042",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-05-03",
     "tags.covered": "no",
     "tags.survey:date": "2019-10-22",
     "tags_changed.capacity": "40 -> 20"
@@ -8245,6 +8675,7 @@
     "ref_id": "155",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-11-10",
     "tags.covered": "no",
     "tags.survey:date": "2020-02-15",
     "tags_changed.capacity": "12 -> 6"
@@ -8301,7 +8732,7 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags.mapillary": "6jU0GJOw_7n0n4KTuegkKA",
+    "tags.mapillary": "137696538334320",
     "tags.survey:date": "2018-08-17",
     "tags_changed.capacity": "29 -> 26"
    },
@@ -8328,6 +8759,7 @@
     "ref_id": "1069",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-18",
     "tags_changed.capacity": "6 -> 4"
@@ -8417,6 +8849,33 @@
   {
    "geometry": {
     "coordinates": [
+     5.7223404,
+     45.176535
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2409211747,
+    "osm_type": "node",
+    "ref_coords": [
+     5.7225287090434,
+     45.1765562350079
+    ],
+    "ref_distance": 15.0,
+    "ref_id": "539",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2021-03-29",
+    "tags.covered": "no",
+    "tags_changed.capacity": "16 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7247591,
      45.187787
     ],
@@ -8435,6 +8894,7 @@
     "ref_id": "122",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2022-10-31",
     "tags.covered": "no",
     "tags.survey:date": "2020-10-18",
     "tags_changed.capacity": "6 -> 16"
@@ -8471,26 +8931,26 @@
   {
    "geometry": {
     "coordinates": [
-     5.7179522,
-     45.1830883
+     5.7167381,
+     45.1817938
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 5842235985,
+    "osm_id": 9639594691,
     "osm_type": "node",
     "ref_coords": [
-     5.71811418029413,
-     45.1830098924967
+     5.71668765187051,
+     45.181661848753
     ],
-    "ref_distance": 15.4,
-    "ref_id": "166",
+    "ref_distance": 15.2,
+    "ref_id": "357",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_changed.capacity": "6 -> 4"
+    "tags_changed.capacity": "10 -> 4"
    },
    "type": "Feature"
   },
@@ -8518,6 +8978,60 @@
     "tags.covered": "no",
     "tags.survey:date": "2019-10-22",
     "tags_changed.capacity": "10 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7191712,
+     45.1878151
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4605739192,
+    "osm_type": "node",
+    "ref_coords": [
+     5.71908509605219,
+     45.1876861950274
+    ],
+    "ref_distance": 15.9,
+    "ref_id": "635",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.check_date:capacity": "2021-03-28",
+    "tags.covered": "no",
+    "tags_changed.capacity": "12 -> 6"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7290462,
+     45.1932147
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6658678839,
+    "osm_type": "node",
+    "ref_coords": [
+     5.72907782972853,
+     45.1930739062173
+    ],
+    "ref_distance": 15.9,
+    "ref_id": "192",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2020-10-17",
+    "tags_changed.capacity": "14 -> 18"
    },
    "type": "Feature"
   },
@@ -8631,6 +9145,60 @@
   {
    "geometry": {
     "coordinates": [
+     5.7407,
+     45.1847571
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4119601763,
+    "osm_type": "node",
+    "ref_coords": [
+     5.74086866577524,
+     45.1846645882623
+    ],
+    "ref_distance": 16.8,
+    "ref_id": "628",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2022-06-02",
+    "tags_changed.capacity": "18 -> 12"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7363682,
+     45.1828339
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7266741287,
+    "osm_type": "node",
+    "ref_coords": [
+     5.73649285190722,
+     45.1829583745653
+    ],
+    "ref_distance": 17.0,
+    "ref_id": "838",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags.survey:date": "2022-06-02",
+    "tags_changed.capacity": "34 -> 30"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      5.7223923,
      45.1830638
     ],
@@ -8688,8 +9256,34 @@
   {
    "geometry": {
     "coordinates": [
-     5.734205,
-     45.1920779
+     5.7344653,
+     45.1708223
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 9542975355,
+    "osm_type": "node",
+    "ref_coords": [
+     5.73444014874722,
+     45.1706650945235
+    ],
+    "ref_distance": 17.6,
+    "ref_id": "910",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.covered": "no",
+    "tags_changed.capacity": "6 -> 8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.7342195,
+     45.1921109
     ],
     "type": "Point"
    },
@@ -8702,13 +9296,13 @@
      5.73398484640956,
      45.1921114137331
     ],
-    "ref_distance": 17.7,
+    "ref_distance": 18.4,
     "ref_id": "76",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
     "tags.survey:date": "2020-01-07",
-    "tags_changed.capacity": "10 -> 8"
+    "tags_changed.capacity": "16 -> 8"
    },
    "type": "Feature"
   },
@@ -8734,34 +9328,32 @@
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.covered": "no",
-    "tags_new.capacity": "6"
+    "tags_changed.capacity": "16 -> 6"
    },
    "type": "Feature"
   },
   {
    "geometry": {
     "coordinates": [
-     5.7218167,
-     45.1902004
+     5.7254652,
+     45.1663544
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 4504646390,
+    "osm_id": 10226223220,
     "osm_type": "node",
     "ref_coords": [
-     5.72198701597118,
-     45.1903167702087
+     5.72543598556764,
+     45.1665242796708
     ],
-    "ref_distance": 18.6,
-    "ref_id": "1118",
+    "ref_distance": 19.0,
+    "ref_id": "740",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
-    "tags.covered": "no",
-    "tags.survey:date": "2020-02-15",
-    "tags_changed.capacity": "6 -> 4"
+    "tags_changed.capacity": "8 -> 2"
    },
    "type": "Feature"
   },
@@ -8796,27 +9388,27 @@
   {
    "geometry": {
     "coordinates": [
-     5.722331,
-     45.1764528
+     5.7449471,
+     45.1794391
     ],
     "type": "Point"
    },
    "properties": {
     "action": "modify",
     "marker-color": "#0000ee",
-    "osm_id": 2409211747,
+    "osm_id": 10121462717,
     "osm_type": "node",
     "ref_coords": [
-     5.7225287090434,
-     45.1765562350079
+     5.74515739800935,
+     45.1795327003212
     ],
-    "ref_distance": 19.3,
-    "ref_id": "539",
+    "ref_distance": 19.5,
+    "ref_id": "657",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
-    "tags.check_date:capacity": "2021-03-29",
     "tags.covered": "no",
-    "tags_changed.capacity": "16 -> 6"
+    "tags.survey:date": "2022-10-22",
+    "tags_changed.capacity": "4 -> 8"
    },
    "type": "Feature"
   },
@@ -8858,7 +9450,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -332,
+    "osm_id": -352,
     "osm_type": "node",
     "ref_id": "1003",
     "tags.amenity": "bicycle_parking",
@@ -8878,7 +9470,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -333,
+    "osm_id": -353,
     "osm_type": "node",
     "ref_id": "1015",
     "tags.amenity": "bicycle_parking",
@@ -8898,7 +9490,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -334,
+    "osm_id": -354,
     "osm_type": "node",
     "ref_id": "1016",
     "tags.amenity": "bicycle_parking",
@@ -8918,29 +9510,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -335,
+    "osm_id": -355,
     "osm_type": "node",
     "ref_id": "1023",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71047794310679,
-     45.1818070565114
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -336,
-    "osm_type": "node",
-    "ref_id": "1027",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
@@ -8958,72 +9530,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -337,
+    "osm_id": -356,
     "osm_type": "node",
     "ref_id": "1036",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71562326550035,
-     45.181376124248
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -338,
-    "osm_type": "node",
-    "ref_id": "1039",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71164371683986,
-     45.1950980123252
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -339,
-    "osm_type": "node",
-    "ref_id": "1041",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "20"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71535500393667,
-     45.1809351444851
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -340,
-    "osm_type": "node",
-    "ref_id": "1046",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -9038,7 +9550,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -341,
+    "osm_id": -357,
     "osm_type": "node",
     "ref_id": "1049",
     "tags.amenity": "bicycle_parking",
@@ -9058,7 +9570,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -342,
+    "osm_id": -358,
     "osm_type": "node",
     "ref_id": "1055",
     "tags.amenity": "bicycle_parking",
@@ -9078,7 +9590,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -343,
+    "osm_id": -359,
     "osm_type": "node",
     "ref_id": "1062",
     "tags.amenity": "bicycle_parking",
@@ -9098,7 +9610,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -344,
+    "osm_id": -360,
     "osm_type": "node",
     "ref_id": "1070",
     "tags.amenity": "bicycle_parking",
@@ -9118,7 +9630,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -345,
+    "osm_id": -361,
     "osm_type": "node",
     "ref_id": "1076",
     "tags.amenity": "bicycle_parking",
@@ -9138,7 +9650,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -346,
+    "osm_id": -362,
     "osm_type": "node",
     "ref_id": "108",
     "tags.amenity": "bicycle_parking",
@@ -9158,7 +9670,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -347,
+    "osm_id": -363,
     "osm_type": "node",
     "ref_id": "1081",
     "tags.amenity": "bicycle_parking",
@@ -9178,7 +9690,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -348,
+    "osm_id": -364,
     "osm_type": "node",
     "ref_id": "1083",
     "tags.amenity": "bicycle_parking",
@@ -9198,7 +9710,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -349,
+    "osm_id": -365,
     "osm_type": "node",
     "ref_id": "1087",
     "tags.amenity": "bicycle_parking",
@@ -9218,7 +9730,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -350,
+    "osm_id": -366,
     "osm_type": "node",
     "ref_id": "1089",
     "tags.amenity": "bicycle_parking",
@@ -9238,7 +9750,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -351,
+    "osm_id": -367,
     "osm_type": "node",
     "ref_id": "1090",
     "tags.amenity": "bicycle_parking",
@@ -9258,7 +9770,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -352,
+    "osm_id": -368,
     "osm_type": "node",
     "ref_id": "1093",
     "tags.amenity": "bicycle_parking",
@@ -9278,7 +9790,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -353,
+    "osm_id": -369,
     "osm_type": "node",
     "ref_id": "1094",
     "tags.amenity": "bicycle_parking",
@@ -9298,7 +9810,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -354,
+    "osm_id": -370,
     "osm_type": "node",
     "ref_id": "1095",
     "tags.amenity": "bicycle_parking",
@@ -9318,7 +9830,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -355,
+    "osm_id": -371,
     "osm_type": "node",
     "ref_id": "1097",
     "tags.amenity": "bicycle_parking",
@@ -9338,7 +9850,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -356,
+    "osm_id": -372,
     "osm_type": "node",
     "ref_id": "1098",
     "tags.amenity": "bicycle_parking",
@@ -9358,7 +9870,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -357,
+    "osm_id": -373,
     "osm_type": "node",
     "ref_id": "1100",
     "tags.amenity": "bicycle_parking",
@@ -9378,7 +9890,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -358,
+    "osm_id": -374,
     "osm_type": "node",
     "ref_id": "1104",
     "tags.amenity": "bicycle_parking",
@@ -9398,7 +9910,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -359,
+    "osm_id": -375,
     "osm_type": "node",
     "ref_id": "1105",
     "tags.amenity": "bicycle_parking",
@@ -9418,7 +9930,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -360,
+    "osm_id": -376,
     "osm_type": "node",
     "ref_id": "1109",
     "tags.amenity": "bicycle_parking",
@@ -9438,7 +9950,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -361,
+    "osm_id": -377,
     "osm_type": "node",
     "ref_id": "1111",
     "tags.amenity": "bicycle_parking",
@@ -9458,7 +9970,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -362,
+    "osm_id": -378,
     "osm_type": "node",
     "ref_id": "1115",
     "tags.amenity": "bicycle_parking",
@@ -9478,32 +9990,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -363,
+    "osm_id": -379,
     "osm_type": "node",
     "ref_id": "112",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "10"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73644213791136,
-     45.1994696874177
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -364,
-    "osm_type": "node",
-    "ref_id": "1122",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
    },
    "type": "Feature"
   },
@@ -9518,7 +10010,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -365,
+    "osm_id": -380,
     "osm_type": "node",
     "ref_id": "1123",
     "tags.amenity": "bicycle_parking",
@@ -9538,7 +10030,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -366,
+    "osm_id": -381,
     "osm_type": "node",
     "ref_id": "1124",
     "tags.amenity": "bicycle_parking",
@@ -9558,7 +10050,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -367,
+    "osm_id": -382,
     "osm_type": "node",
     "ref_id": "1125",
     "tags.amenity": "bicycle_parking",
@@ -9578,32 +10070,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -368,
+    "osm_id": -383,
     "osm_type": "node",
     "ref_id": "1126",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73758665496474,
-     45.1708348921289
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -369,
-    "osm_type": "node",
-    "ref_id": "1127",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -9618,7 +10090,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -370,
+    "osm_id": -384,
     "osm_type": "node",
     "ref_id": "1128",
     "tags.amenity": "bicycle_parking",
@@ -9638,7 +10110,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -371,
+    "osm_id": -385,
     "osm_type": "node",
     "ref_id": "1131",
     "tags.amenity": "bicycle_parking",
@@ -9658,7 +10130,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -372,
+    "osm_id": -386,
     "osm_type": "node",
     "ref_id": "1132",
     "tags.amenity": "bicycle_parking",
@@ -9678,7 +10150,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -373,
+    "osm_id": -387,
     "osm_type": "node",
     "ref_id": "1133",
     "tags.amenity": "bicycle_parking",
@@ -9698,7 +10170,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -374,
+    "osm_id": -388,
     "osm_type": "node",
     "ref_id": "1134",
     "tags.amenity": "bicycle_parking",
@@ -9718,7 +10190,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -375,
+    "osm_id": -389,
     "osm_type": "node",
     "ref_id": "1137",
     "tags.amenity": "bicycle_parking",
@@ -9738,7 +10210,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -376,
+    "osm_id": -390,
     "osm_type": "node",
     "ref_id": "1138",
     "tags.amenity": "bicycle_parking",
@@ -9758,7 +10230,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -377,
+    "osm_id": -391,
     "osm_type": "node",
     "ref_id": "1139",
     "tags.amenity": "bicycle_parking",
@@ -9778,7 +10250,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -378,
+    "osm_id": -392,
     "osm_type": "node",
     "ref_id": "114",
     "tags.amenity": "bicycle_parking",
@@ -9798,7 +10270,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -379,
+    "osm_id": -393,
     "osm_type": "node",
     "ref_id": "1141",
     "tags.amenity": "bicycle_parking",
@@ -9818,7 +10290,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -380,
+    "osm_id": -394,
     "osm_type": "node",
     "ref_id": "115",
     "tags.amenity": "bicycle_parking",
@@ -9838,7 +10310,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -381,
+    "osm_id": -395,
     "osm_type": "node",
     "ref_id": "118",
     "tags.amenity": "bicycle_parking",
@@ -9858,7 +10330,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -382,
+    "osm_id": -396,
     "osm_type": "node",
     "ref_id": "121",
     "tags.amenity": "bicycle_parking",
@@ -9878,7 +10350,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -383,
+    "osm_id": -397,
     "osm_type": "node",
     "ref_id": "123",
     "tags.amenity": "bicycle_parking",
@@ -9898,7 +10370,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -384,
+    "osm_id": -398,
     "osm_type": "node",
     "ref_id": "127",
     "tags.amenity": "bicycle_parking",
@@ -9918,52 +10390,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -385,
+    "osm_id": -399,
     "osm_type": "node",
     "ref_id": "152",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71935161639598,
-     45.1883760196622
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -386,
-    "osm_type": "node",
-    "ref_id": "156",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71036668439597,
-     45.1802593108401
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -387,
-    "osm_type": "node",
-    "ref_id": "17",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "2"
    },
    "type": "Feature"
   },
@@ -9978,7 +10410,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -388,
+    "osm_id": -400,
     "osm_type": "node",
     "ref_id": "172",
     "tags.amenity": "bicycle_parking",
@@ -9998,7 +10430,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -389,
+    "osm_id": -401,
     "osm_type": "node",
     "ref_id": "175",
     "tags.amenity": "bicycle_parking",
@@ -10018,7 +10450,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -390,
+    "osm_id": -402,
     "osm_type": "node",
     "ref_id": "176",
     "tags.amenity": "bicycle_parking",
@@ -10038,7 +10470,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -391,
+    "osm_id": -403,
     "osm_type": "node",
     "ref_id": "177",
     "tags.amenity": "bicycle_parking",
@@ -10058,7 +10490,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -392,
+    "osm_id": -404,
     "osm_type": "node",
     "ref_id": "186",
     "tags.amenity": "bicycle_parking",
@@ -10078,7 +10510,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -393,
+    "osm_id": -405,
     "osm_type": "node",
     "ref_id": "187",
     "tags.amenity": "bicycle_parking",
@@ -10098,7 +10530,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -394,
+    "osm_id": -406,
     "osm_type": "node",
     "ref_id": "191",
     "tags.amenity": "bicycle_parking",
@@ -10118,32 +10550,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -395,
+    "osm_id": -407,
     "osm_type": "node",
     "ref_id": "2",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71213649761877,
-     45.1803352314502
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -396,
-    "osm_type": "node",
-    "ref_id": "20",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
    },
    "type": "Feature"
   },
@@ -10158,7 +10570,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -397,
+    "osm_id": -408,
     "osm_type": "node",
     "ref_id": "209",
     "tags.amenity": "bicycle_parking",
@@ -10178,7 +10590,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -398,
+    "osm_id": -409,
     "osm_type": "node",
     "ref_id": "210",
     "tags.amenity": "bicycle_parking",
@@ -10198,7 +10610,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -399,
+    "osm_id": -410,
     "osm_type": "node",
     "ref_id": "213",
     "tags.amenity": "bicycle_parking",
@@ -10218,7 +10630,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -400,
+    "osm_id": -411,
     "osm_type": "node",
     "ref_id": "226",
     "tags.amenity": "bicycle_parking",
@@ -10238,7 +10650,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -401,
+    "osm_id": -412,
     "osm_type": "node",
     "ref_id": "227",
     "tags.amenity": "bicycle_parking",
@@ -10258,7 +10670,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -402,
+    "osm_id": -413,
     "osm_type": "node",
     "ref_id": "228",
     "tags.amenity": "bicycle_parking",
@@ -10278,32 +10690,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -403,
+    "osm_id": -414,
     "osm_type": "node",
     "ref_id": "232",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71871707103304,
-     45.1964295336347
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -404,
-    "osm_type": "node",
-    "ref_id": "233",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -10318,7 +10710,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -405,
+    "osm_id": -415,
     "osm_type": "node",
     "ref_id": "234",
     "tags.amenity": "bicycle_parking",
@@ -10338,7 +10730,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -406,
+    "osm_id": -416,
     "osm_type": "node",
     "ref_id": "24",
     "tags.amenity": "bicycle_parking",
@@ -10358,7 +10750,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -407,
+    "osm_id": -417,
     "osm_type": "node",
     "ref_id": "250",
     "tags.amenity": "bicycle_parking",
@@ -10378,7 +10770,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -408,
+    "osm_id": -418,
     "osm_type": "node",
     "ref_id": "253",
     "tags.amenity": "bicycle_parking",
@@ -10398,7 +10790,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -409,
+    "osm_id": -419,
     "osm_type": "node",
     "ref_id": "259",
     "tags.amenity": "bicycle_parking",
@@ -10418,32 +10810,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -410,
+    "osm_id": -420,
     "osm_type": "node",
     "ref_id": "263",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73657627246533,
-     45.1905217421688
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -411,
-    "osm_type": "node",
-    "ref_id": "264",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
    },
    "type": "Feature"
   },
@@ -10458,7 +10830,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -412,
+    "osm_id": -421,
     "osm_type": "node",
     "ref_id": "282",
     "tags.amenity": "bicycle_parking",
@@ -10478,7 +10850,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -413,
+    "osm_id": -422,
     "osm_type": "node",
     "ref_id": "285",
     "tags.amenity": "bicycle_parking",
@@ -10498,7 +10870,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -414,
+    "osm_id": -423,
     "osm_type": "node",
     "ref_id": "289",
     "tags.amenity": "bicycle_parking",
@@ -10518,7 +10890,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -415,
+    "osm_id": -424,
     "osm_type": "node",
     "ref_id": "293",
     "tags.amenity": "bicycle_parking",
@@ -10538,7 +10910,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -416,
+    "osm_id": -425,
     "osm_type": "node",
     "ref_id": "295",
     "tags.amenity": "bicycle_parking",
@@ -10558,7 +10930,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -417,
+    "osm_id": -426,
     "osm_type": "node",
     "ref_id": "300",
     "tags.amenity": "bicycle_parking",
@@ -10578,7 +10950,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -418,
+    "osm_id": -427,
     "osm_type": "node",
     "ref_id": "301",
     "tags.amenity": "bicycle_parking",
@@ -10598,7 +10970,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -419,
+    "osm_id": -428,
     "osm_type": "node",
     "ref_id": "303",
     "tags.amenity": "bicycle_parking",
@@ -10618,7 +10990,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -420,
+    "osm_id": -429,
     "osm_type": "node",
     "ref_id": "307",
     "tags.amenity": "bicycle_parking",
@@ -10638,7 +11010,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -421,
+    "osm_id": -430,
     "osm_type": "node",
     "ref_id": "310",
     "tags.amenity": "bicycle_parking",
@@ -10658,32 +11030,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -422,
+    "osm_id": -431,
     "osm_type": "node",
     "ref_id": "311",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73650123111056,
-     45.1989193100551
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -423,
-    "osm_type": "node",
-    "ref_id": "312",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -10698,7 +11050,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -424,
+    "osm_id": -432,
     "osm_type": "node",
     "ref_id": "317",
     "tags.amenity": "bicycle_parking",
@@ -10718,7 +11070,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -425,
+    "osm_id": -433,
     "osm_type": "node",
     "ref_id": "320",
     "tags.amenity": "bicycle_parking",
@@ -10738,7 +11090,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -426,
+    "osm_id": -434,
     "osm_type": "node",
     "ref_id": "327",
     "tags.amenity": "bicycle_parking",
@@ -10758,7 +11110,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -427,
+    "osm_id": -435,
     "osm_type": "node",
     "ref_id": "330",
     "tags.amenity": "bicycle_parking",
@@ -10778,7 +11130,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -428,
+    "osm_id": -436,
     "osm_type": "node",
     "ref_id": "334",
     "tags.amenity": "bicycle_parking",
@@ -10798,29 +11150,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -429,
+    "osm_id": -437,
     "osm_type": "node",
     "ref_id": "342",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71668765187051,
-     45.181661848753
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -430,
-    "osm_type": "node",
-    "ref_id": "357",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
@@ -10838,29 +11170,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -431,
+    "osm_id": -438,
     "osm_type": "node",
     "ref_id": "368",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.70676839519238,
-     45.181386320137
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -432,
-    "osm_type": "node",
-    "ref_id": "370",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
@@ -10878,7 +11190,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -433,
+    "osm_id": -439,
     "osm_type": "node",
     "ref_id": "373",
     "tags.amenity": "bicycle_parking",
@@ -10898,7 +11210,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -434,
+    "osm_id": -440,
     "osm_type": "node",
     "ref_id": "390",
     "tags.amenity": "bicycle_parking",
@@ -10918,7 +11230,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -435,
+    "osm_id": -441,
     "osm_type": "node",
     "ref_id": "407",
     "tags.amenity": "bicycle_parking",
@@ -10938,32 +11250,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -436,
+    "osm_id": -442,
     "osm_type": "node",
     "ref_id": "412",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "18"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73762020721352,
-     45.1985650354758
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -437,
-    "osm_type": "node",
-    "ref_id": "420",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "10"
    },
    "type": "Feature"
   },
@@ -10978,7 +11270,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -438,
+    "osm_id": -443,
     "osm_type": "node",
     "ref_id": "425",
     "tags.amenity": "bicycle_parking",
@@ -10998,7 +11290,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -439,
+    "osm_id": -444,
     "osm_type": "node",
     "ref_id": "427",
     "tags.amenity": "bicycle_parking",
@@ -11018,7 +11310,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -440,
+    "osm_id": -445,
     "osm_type": "node",
     "ref_id": "432",
     "tags.amenity": "bicycle_parking",
@@ -11038,49 +11330,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -441,
+    "osm_id": -446,
     "osm_type": "node",
     "ref_id": "443",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73675405220294,
-     45.1983873397033
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -442,
-    "osm_type": "node",
-    "ref_id": "445",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73691453059519,
-     45.1961534953475
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -443,
-    "osm_type": "node",
-    "ref_id": "449",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
@@ -11098,7 +11350,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -444,
+    "osm_id": -447,
     "osm_type": "node",
     "ref_id": "450",
     "tags.amenity": "bicycle_parking",
@@ -11118,7 +11370,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -445,
+    "osm_id": -448,
     "osm_type": "node",
     "ref_id": "451",
     "tags.amenity": "bicycle_parking",
@@ -11138,32 +11390,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -446,
+    "osm_id": -449,
     "osm_type": "node",
     "ref_id": "452",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71144854420732,
-     45.1914382459131
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -447,
-    "osm_type": "node",
-    "ref_id": "454",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "20"
    },
    "type": "Feature"
   },
@@ -11178,7 +11410,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -448,
+    "osm_id": -450,
     "osm_type": "node",
     "ref_id": "455",
     "tags.amenity": "bicycle_parking",
@@ -11198,7 +11430,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -449,
+    "osm_id": -451,
     "osm_type": "node",
     "ref_id": "457",
     "tags.amenity": "bicycle_parking",
@@ -11218,7 +11450,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -450,
+    "osm_id": -452,
     "osm_type": "node",
     "ref_id": "458",
     "tags.amenity": "bicycle_parking",
@@ -11238,7 +11470,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -451,
+    "osm_id": -453,
     "osm_type": "node",
     "ref_id": "460",
     "tags.amenity": "bicycle_parking",
@@ -11258,7 +11490,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -452,
+    "osm_id": -454,
     "osm_type": "node",
     "ref_id": "461",
     "tags.amenity": "bicycle_parking",
@@ -11278,7 +11510,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -453,
+    "osm_id": -455,
     "osm_type": "node",
     "ref_id": "462",
     "tags.amenity": "bicycle_parking",
@@ -11298,7 +11530,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -454,
+    "osm_id": -456,
     "osm_type": "node",
     "ref_id": "463",
     "tags.amenity": "bicycle_parking",
@@ -11318,7 +11550,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -455,
+    "osm_id": -457,
     "osm_type": "node",
     "ref_id": "464",
     "tags.amenity": "bicycle_parking",
@@ -11338,7 +11570,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -456,
+    "osm_id": -458,
     "osm_type": "node",
     "ref_id": "466",
     "tags.amenity": "bicycle_parking",
@@ -11358,7 +11590,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -457,
+    "osm_id": -459,
     "osm_type": "node",
     "ref_id": "469",
     "tags.amenity": "bicycle_parking",
@@ -11378,7 +11610,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -458,
+    "osm_id": -460,
     "osm_type": "node",
     "ref_id": "474",
     "tags.amenity": "bicycle_parking",
@@ -11398,7 +11630,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -459,
+    "osm_id": -461,
     "osm_type": "node",
     "ref_id": "475",
     "tags.amenity": "bicycle_parking",
@@ -11418,7 +11650,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -460,
+    "osm_id": -462,
     "osm_type": "node",
     "ref_id": "480",
     "tags.amenity": "bicycle_parking",
@@ -11438,7 +11670,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -461,
+    "osm_id": -463,
     "osm_type": "node",
     "ref_id": "484",
     "tags.amenity": "bicycle_parking",
@@ -11458,7 +11690,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -462,
+    "osm_id": -464,
     "osm_type": "node",
     "ref_id": "487",
     "tags.amenity": "bicycle_parking",
@@ -11478,7 +11710,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -463,
+    "osm_id": -465,
     "osm_type": "node",
     "ref_id": "491",
     "tags.amenity": "bicycle_parking",
@@ -11498,7 +11730,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -464,
+    "osm_id": -466,
     "osm_type": "node",
     "ref_id": "493",
     "tags.amenity": "bicycle_parking",
@@ -11518,7 +11750,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -465,
+    "osm_id": -467,
     "osm_type": "node",
     "ref_id": "496",
     "tags.amenity": "bicycle_parking",
@@ -11538,32 +11770,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -466,
+    "osm_id": -468,
     "osm_type": "node",
     "ref_id": "497",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71507616345625,
-     45.1771776682138
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -467,
-    "osm_type": "node",
-    "ref_id": "499",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "2"
    },
    "type": "Feature"
   },
@@ -11578,7 +11790,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -468,
+    "osm_id": -469,
     "osm_type": "node",
     "ref_id": "501",
     "tags.amenity": "bicycle_parking",
@@ -11598,7 +11810,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -469,
+    "osm_id": -470,
     "osm_type": "node",
     "ref_id": "505",
     "tags.amenity": "bicycle_parking",
@@ -11618,7 +11830,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -470,
+    "osm_id": -471,
     "osm_type": "node",
     "ref_id": "509",
     "tags.amenity": "bicycle_parking",
@@ -11638,7 +11850,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -471,
+    "osm_id": -472,
     "osm_type": "node",
     "ref_id": "511",
     "tags.amenity": "bicycle_parking",
@@ -11658,7 +11870,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -472,
+    "osm_id": -473,
     "osm_type": "node",
     "ref_id": "514",
     "tags.amenity": "bicycle_parking",
@@ -11678,7 +11890,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -473,
+    "osm_id": -474,
     "osm_type": "node",
     "ref_id": "518",
     "tags.amenity": "bicycle_parking",
@@ -11698,7 +11910,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -474,
+    "osm_id": -475,
     "osm_type": "node",
     "ref_id": "519",
     "tags.amenity": "bicycle_parking",
@@ -11718,7 +11930,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -475,
+    "osm_id": -476,
     "osm_type": "node",
     "ref_id": "521",
     "tags.amenity": "bicycle_parking",
@@ -11738,7 +11950,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -476,
+    "osm_id": -477,
     "osm_type": "node",
     "ref_id": "522",
     "tags.amenity": "bicycle_parking",
@@ -11758,32 +11970,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -477,
+    "osm_id": -478,
     "osm_type": "node",
     "ref_id": "523",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "24"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7046152072472,
-     45.1711644894444
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -478,
-    "osm_type": "node",
-    "ref_id": "528",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -11890,46 +12082,6 @@
   {
    "geometry": {
     "coordinates": [
-     5.72042911473205,
-     45.1786308004859
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -484,
-    "osm_type": "node",
-    "ref_id": "537",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.72189308903192,
-     45.1765114708711
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -485,
-    "osm_type": "node",
-    "ref_id": "540",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "16"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      5.71800923119048,
      45.1736029249046
     ],
@@ -11938,7 +12090,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -486,
+    "osm_id": -484,
     "osm_type": "node",
     "ref_id": "542",
     "tags.amenity": "bicycle_parking",
@@ -11958,7 +12110,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -487,
+    "osm_id": -485,
     "osm_type": "node",
     "ref_id": "544",
     "tags.amenity": "bicycle_parking",
@@ -11978,7 +12130,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -488,
+    "osm_id": -486,
     "osm_type": "node",
     "ref_id": "546",
     "tags.amenity": "bicycle_parking",
@@ -11998,7 +12150,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -489,
+    "osm_id": -487,
     "osm_type": "node",
     "ref_id": "551",
     "tags.amenity": "bicycle_parking",
@@ -12018,7 +12170,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -490,
+    "osm_id": -488,
     "osm_type": "node",
     "ref_id": "552",
     "tags.amenity": "bicycle_parking",
@@ -12038,7 +12190,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -491,
+    "osm_id": -489,
     "osm_type": "node",
     "ref_id": "554",
     "tags.amenity": "bicycle_parking",
@@ -12050,37 +12202,17 @@
   {
    "geometry": {
     "coordinates": [
-     5.72359826650921,
-     45.1799460615946
+     5.73637704807933,
+     45.1770876595125
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -492,
+    "osm_id": -490,
     "osm_type": "node",
-    "ref_id": "556",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.736138215597,
-     45.1771262543533
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -493,
-    "osm_type": "node",
-    "ref_id": "586",
+    "ref_id": "587",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
@@ -12098,7 +12230,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -494,
+    "osm_id": -491,
     "osm_type": "node",
     "ref_id": "597",
     "tags.amenity": "bicycle_parking",
@@ -12118,52 +12250,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -495,
+    "osm_id": -492,
     "osm_type": "node",
     "ref_id": "598",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73801158862644,
-     45.1702743261554
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -496,
-    "osm_type": "node",
-    "ref_id": "599",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73800929874954,
-     45.1701073435172
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -497,
-    "osm_type": "node",
-    "ref_id": "600",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "8"
    },
    "type": "Feature"
   },
@@ -12178,32 +12270,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -498,
+    "osm_id": -493,
     "osm_type": "node",
     "ref_id": "601",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7395973875307,
-     45.1706733200294
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -499,
-    "osm_type": "node",
-    "ref_id": "603",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -12218,72 +12290,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -500,
+    "osm_id": -494,
     "osm_type": "node",
     "ref_id": "604",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73880712388898,
-     45.1712190965839
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -501,
-    "osm_type": "node",
-    "ref_id": "606",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73884492688011,
-     45.171150122822
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -502,
-    "osm_type": "node",
-    "ref_id": "607",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7387773035108,
-     45.1719119999053
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -503,
-    "osm_type": "node",
-    "ref_id": "609",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "8"
    },
    "type": "Feature"
   },
@@ -12298,7 +12310,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -504,
+    "osm_id": -495,
     "osm_type": "node",
     "ref_id": "610",
     "tags.amenity": "bicycle_parking",
@@ -12318,7 +12330,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -505,
+    "osm_id": -496,
     "osm_type": "node",
     "ref_id": "611",
     "tags.amenity": "bicycle_parking",
@@ -12330,20 +12342,20 @@
   {
    "geometry": {
     "coordinates": [
-     5.73461490149428,
-     45.1737668242383
+     5.7285370859655,
+     45.1720307964638
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -506,
+    "osm_id": -497,
     "osm_type": "node",
-    "ref_id": "613",
+    "ref_id": "612",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
-    "tags.capacity": "12"
+    "tags.capacity": "8"
    },
    "type": "Feature"
   },
@@ -12358,7 +12370,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -507,
+    "osm_id": -498,
     "osm_type": "node",
     "ref_id": "622",
     "tags.amenity": "bicycle_parking",
@@ -12378,7 +12390,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -508,
+    "osm_id": -499,
     "osm_type": "node",
     "ref_id": "623",
     "tags.amenity": "bicycle_parking",
@@ -12398,7 +12410,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -509,
+    "osm_id": -500,
     "osm_type": "node",
     "ref_id": "627",
     "tags.amenity": "bicycle_parking",
@@ -12418,7 +12430,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -510,
+    "osm_id": -501,
     "osm_type": "node",
     "ref_id": "629",
     "tags.amenity": "bicycle_parking",
@@ -12438,7 +12450,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -511,
+    "osm_id": -502,
     "osm_type": "node",
     "ref_id": "630",
     "tags.amenity": "bicycle_parking",
@@ -12458,7 +12470,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -512,
+    "osm_id": -503,
     "osm_type": "node",
     "ref_id": "631",
     "tags.amenity": "bicycle_parking",
@@ -12478,32 +12490,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -513,
+    "osm_id": -504,
     "osm_type": "node",
     "ref_id": "634",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71908509605219,
-     45.1876861950274
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -514,
-    "osm_type": "node",
-    "ref_id": "635",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -12518,7 +12510,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -515,
+    "osm_id": -505,
     "osm_type": "node",
     "ref_id": "637",
     "tags.amenity": "bicycle_parking",
@@ -12538,7 +12530,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -516,
+    "osm_id": -506,
     "osm_type": "node",
     "ref_id": "64",
     "tags.amenity": "bicycle_parking",
@@ -12558,7 +12550,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -517,
+    "osm_id": -507,
     "osm_type": "node",
     "ref_id": "649",
     "tags.amenity": "bicycle_parking",
@@ -12578,49 +12570,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -518,
+    "osm_id": -508,
     "osm_type": "node",
     "ref_id": "65",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.74515739800935,
-     45.1795327003212
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -519,
-    "osm_type": "node",
-    "ref_id": "657",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "8"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.74487235121084,
-     45.1788668804948
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -520,
-    "osm_type": "node",
-    "ref_id": "659",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
@@ -12638,7 +12590,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -521,
+    "osm_id": -509,
     "osm_type": "node",
     "ref_id": "664",
     "tags.amenity": "bicycle_parking",
@@ -12658,52 +12610,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -522,
+    "osm_id": -510,
     "osm_type": "node",
     "ref_id": "666",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "10"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73982257381699,
-     45.1792726402738
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -523,
-    "osm_type": "node",
-    "ref_id": "668",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.74088892336699,
-     45.1781100948828
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -524,
-    "osm_type": "node",
-    "ref_id": "670",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -12718,7 +12630,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -525,
+    "osm_id": -511,
     "osm_type": "node",
     "ref_id": "678",
     "tags.amenity": "bicycle_parking",
@@ -12738,69 +12650,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -526,
+    "osm_id": -512,
     "osm_type": "node",
     "ref_id": "68",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "8"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73983485673126,
-     45.1704911536002
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -527,
-    "osm_type": "node",
-    "ref_id": "680",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.74015996500578,
-     45.1702490875984
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -528,
-    "osm_type": "node",
-    "ref_id": "681",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.74386547653483,
-     45.1718714808435
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -529,
-    "osm_type": "node",
-    "ref_id": "682",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "8"
@@ -12818,7 +12670,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -530,
+    "osm_id": -513,
     "osm_type": "node",
     "ref_id": "683",
     "tags.amenity": "bicycle_parking",
@@ -12838,7 +12690,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -531,
+    "osm_id": -514,
     "osm_type": "node",
     "ref_id": "684",
     "tags.amenity": "bicycle_parking",
@@ -12858,7 +12710,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -532,
+    "osm_id": -515,
     "osm_type": "node",
     "ref_id": "685",
     "tags.amenity": "bicycle_parking",
@@ -12878,7 +12730,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -533,
+    "osm_id": -516,
     "osm_type": "node",
     "ref_id": "686",
     "tags.amenity": "bicycle_parking",
@@ -12898,7 +12750,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -534,
+    "osm_id": -517,
     "osm_type": "node",
     "ref_id": "687",
     "tags.amenity": "bicycle_parking",
@@ -12918,7 +12770,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -535,
+    "osm_id": -518,
     "osm_type": "node",
     "ref_id": "688",
     "tags.amenity": "bicycle_parking",
@@ -12938,7 +12790,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -536,
+    "osm_id": -519,
     "osm_type": "node",
     "ref_id": "69",
     "tags.amenity": "bicycle_parking",
@@ -12958,7 +12810,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -537,
+    "osm_id": -520,
     "osm_type": "node",
     "ref_id": "690",
     "tags.amenity": "bicycle_parking",
@@ -12978,7 +12830,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -538,
+    "osm_id": -521,
     "osm_type": "node",
     "ref_id": "691",
     "tags.amenity": "bicycle_parking",
@@ -12998,7 +12850,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -539,
+    "osm_id": -522,
     "osm_type": "node",
     "ref_id": "692",
     "tags.amenity": "bicycle_parking",
@@ -13018,7 +12870,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -540,
+    "osm_id": -523,
     "osm_type": "node",
     "ref_id": "694",
     "tags.amenity": "bicycle_parking",
@@ -13038,7 +12890,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -541,
+    "osm_id": -524,
     "osm_type": "node",
     "ref_id": "695",
     "tags.amenity": "bicycle_parking",
@@ -13058,7 +12910,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -542,
+    "osm_id": -525,
     "osm_type": "node",
     "ref_id": "696",
     "tags.amenity": "bicycle_parking",
@@ -13078,7 +12930,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -543,
+    "osm_id": -526,
     "osm_type": "node",
     "ref_id": "698",
     "tags.amenity": "bicycle_parking",
@@ -13098,7 +12950,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -544,
+    "osm_id": -527,
     "osm_type": "node",
     "ref_id": "699",
     "tags.amenity": "bicycle_parking",
@@ -13118,7 +12970,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -545,
+    "osm_id": -528,
     "osm_type": "node",
     "ref_id": "70",
     "tags.amenity": "bicycle_parking",
@@ -13138,7 +12990,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -546,
+    "osm_id": -529,
     "osm_type": "node",
     "ref_id": "700",
     "tags.amenity": "bicycle_parking",
@@ -13158,7 +13010,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -547,
+    "osm_id": -530,
     "osm_type": "node",
     "ref_id": "705",
     "tags.amenity": "bicycle_parking",
@@ -13178,7 +13030,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -548,
+    "osm_id": -531,
     "osm_type": "node",
     "ref_id": "708",
     "tags.amenity": "bicycle_parking",
@@ -13198,7 +13050,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -549,
+    "osm_id": -532,
     "osm_type": "node",
     "ref_id": "710",
     "tags.amenity": "bicycle_parking",
@@ -13218,32 +13070,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -550,
+    "osm_id": -533,
     "osm_type": "node",
     "ref_id": "711",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "10"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73747511338971,
-     45.1615118140862
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -551,
-    "osm_type": "node",
-    "ref_id": "712",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
    },
    "type": "Feature"
   },
@@ -13258,7 +13090,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -552,
+    "osm_id": -534,
     "osm_type": "node",
     "ref_id": "713",
     "tags.amenity": "bicycle_parking",
@@ -13278,7 +13110,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -553,
+    "osm_id": -535,
     "osm_type": "node",
     "ref_id": "714",
     "tags.amenity": "bicycle_parking",
@@ -13298,7 +13130,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -554,
+    "osm_id": -536,
     "osm_type": "node",
     "ref_id": "715",
     "tags.amenity": "bicycle_parking",
@@ -13318,7 +13150,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -555,
+    "osm_id": -537,
     "osm_type": "node",
     "ref_id": "716",
     "tags.amenity": "bicycle_parking",
@@ -13338,7 +13170,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -556,
+    "osm_id": -538,
     "osm_type": "node",
     "ref_id": "718",
     "tags.amenity": "bicycle_parking",
@@ -13358,7 +13190,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -557,
+    "osm_id": -539,
     "osm_type": "node",
     "ref_id": "719",
     "tags.amenity": "bicycle_parking",
@@ -13378,7 +13210,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -558,
+    "osm_id": -540,
     "osm_type": "node",
     "ref_id": "721",
     "tags.amenity": "bicycle_parking",
@@ -13398,7 +13230,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -559,
+    "osm_id": -541,
     "osm_type": "node",
     "ref_id": "722",
     "tags.amenity": "bicycle_parking",
@@ -13418,7 +13250,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -560,
+    "osm_id": -542,
     "osm_type": "node",
     "ref_id": "723",
     "tags.amenity": "bicycle_parking",
@@ -13438,7 +13270,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -561,
+    "osm_id": -543,
     "osm_type": "node",
     "ref_id": "724",
     "tags.amenity": "bicycle_parking",
@@ -13458,7 +13290,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -562,
+    "osm_id": -544,
     "osm_type": "node",
     "ref_id": "725",
     "tags.amenity": "bicycle_parking",
@@ -13478,29 +13310,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -563,
+    "osm_id": -545,
     "osm_type": "node",
     "ref_id": "726",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.72539413496068,
-     45.165470540998
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -564,
-    "osm_type": "node",
-    "ref_id": "729",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
@@ -13518,7 +13330,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -565,
+    "osm_id": -546,
     "osm_type": "node",
     "ref_id": "73",
     "tags.amenity": "bicycle_parking",
@@ -13538,7 +13350,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -566,
+    "osm_id": -547,
     "osm_type": "node",
     "ref_id": "730",
     "tags.amenity": "bicycle_parking",
@@ -13558,7 +13370,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -567,
+    "osm_id": -548,
     "osm_type": "node",
     "ref_id": "732",
     "tags.amenity": "bicycle_parking",
@@ -13578,7 +13390,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -568,
+    "osm_id": -549,
     "osm_type": "node",
     "ref_id": "733",
     "tags.amenity": "bicycle_parking",
@@ -13598,7 +13410,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -569,
+    "osm_id": -550,
     "osm_type": "node",
     "ref_id": "734",
     "tags.amenity": "bicycle_parking",
@@ -13618,7 +13430,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -570,
+    "osm_id": -551,
     "osm_type": "node",
     "ref_id": "735",
     "tags.amenity": "bicycle_parking",
@@ -13638,7 +13450,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -571,
+    "osm_id": -552,
     "osm_type": "node",
     "ref_id": "736",
     "tags.amenity": "bicycle_parking",
@@ -13650,37 +13462,17 @@
   {
    "geometry": {
     "coordinates": [
-     5.72441837566528,
-     45.1665065610737
+     5.72453216289892,
+     45.1663947333899
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -572,
+    "osm_id": -553,
     "osm_type": "node",
-    "ref_id": "738",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "2"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.72535395795917,
-     45.166420791369
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -573,
-    "osm_type": "node",
-    "ref_id": "741",
+    "ref_id": "739",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "2"
@@ -13698,7 +13490,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -574,
+    "osm_id": -554,
     "osm_type": "node",
     "ref_id": "742",
     "tags.amenity": "bicycle_parking",
@@ -13718,29 +13510,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -575,
+    "osm_id": -555,
     "osm_type": "node",
     "ref_id": "743",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.72834420897601,
-     45.1656936828999
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -576,
-    "osm_type": "node",
-    "ref_id": "747",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
@@ -13758,7 +13530,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -577,
+    "osm_id": -556,
     "osm_type": "node",
     "ref_id": "75",
     "tags.amenity": "bicycle_parking",
@@ -13778,7 +13550,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -578,
+    "osm_id": -557,
     "osm_type": "node",
     "ref_id": "751",
     "tags.amenity": "bicycle_parking",
@@ -13798,7 +13570,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -579,
+    "osm_id": -558,
     "osm_type": "node",
     "ref_id": "752",
     "tags.amenity": "bicycle_parking",
@@ -13818,7 +13590,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -580,
+    "osm_id": -559,
     "osm_type": "node",
     "ref_id": "753",
     "tags.amenity": "bicycle_parking",
@@ -13838,7 +13610,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -581,
+    "osm_id": -560,
     "osm_type": "node",
     "ref_id": "754",
     "tags.amenity": "bicycle_parking",
@@ -13858,7 +13630,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -582,
+    "osm_id": -561,
     "osm_type": "node",
     "ref_id": "757",
     "tags.amenity": "bicycle_parking",
@@ -13878,7 +13650,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -583,
+    "osm_id": -562,
     "osm_type": "node",
     "ref_id": "759",
     "tags.amenity": "bicycle_parking",
@@ -13898,7 +13670,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -584,
+    "osm_id": -563,
     "osm_type": "node",
     "ref_id": "761",
     "tags.amenity": "bicycle_parking",
@@ -13918,7 +13690,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -585,
+    "osm_id": -564,
     "osm_type": "node",
     "ref_id": "764",
     "tags.amenity": "bicycle_parking",
@@ -13938,7 +13710,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -586,
+    "osm_id": -565,
     "osm_type": "node",
     "ref_id": "765",
     "tags.amenity": "bicycle_parking",
@@ -13958,32 +13730,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -587,
+    "osm_id": -566,
     "osm_type": "node",
     "ref_id": "766",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73874186521934,
-     45.1887665607138
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -588,
-    "osm_type": "node",
-    "ref_id": "770",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "14"
    },
    "type": "Feature"
   },
@@ -13998,7 +13750,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -589,
+    "osm_id": -567,
     "osm_type": "node",
     "ref_id": "771",
     "tags.amenity": "bicycle_parking",
@@ -14018,7 +13770,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -590,
+    "osm_id": -568,
     "osm_type": "node",
     "ref_id": "773",
     "tags.amenity": "bicycle_parking",
@@ -14038,7 +13790,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -591,
+    "osm_id": -569,
     "osm_type": "node",
     "ref_id": "777",
     "tags.amenity": "bicycle_parking",
@@ -14058,7 +13810,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -592,
+    "osm_id": -570,
     "osm_type": "node",
     "ref_id": "778",
     "tags.amenity": "bicycle_parking",
@@ -14078,32 +13830,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -593,
+    "osm_id": -571,
     "osm_type": "node",
     "ref_id": "78",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.74491339377589,
-     45.1794053320254
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -594,
-    "osm_type": "node",
-    "ref_id": "780",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "8"
    },
    "type": "Feature"
   },
@@ -14118,7 +13850,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -595,
+    "osm_id": -572,
     "osm_type": "node",
     "ref_id": "783",
     "tags.amenity": "bicycle_parking",
@@ -14130,17 +13862,17 @@
   {
    "geometry": {
     "coordinates": [
-     5.73312965602084,
-     45.1916642294788
+     5.73305478216782,
+     45.1916717674507
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -596,
+    "osm_id": -573,
     "osm_type": "node",
-    "ref_id": "785",
+    "ref_id": "786",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "2"
@@ -14158,7 +13890,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -597,
+    "osm_id": -574,
     "osm_type": "node",
     "ref_id": "793",
     "tags.amenity": "bicycle_parking",
@@ -14178,7 +13910,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -598,
+    "osm_id": -575,
     "osm_type": "node",
     "ref_id": "794",
     "tags.amenity": "bicycle_parking",
@@ -14198,7 +13930,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -599,
+    "osm_id": -576,
     "osm_type": "node",
     "ref_id": "803",
     "tags.amenity": "bicycle_parking",
@@ -14218,7 +13950,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -600,
+    "osm_id": -577,
     "osm_type": "node",
     "ref_id": "804",
     "tags.amenity": "bicycle_parking",
@@ -14238,7 +13970,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -601,
+    "osm_id": -578,
     "osm_type": "node",
     "ref_id": "805",
     "tags.amenity": "bicycle_parking",
@@ -14258,29 +13990,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -602,
+    "osm_id": -579,
     "osm_type": "node",
     "ref_id": "806",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.74436510951659,
-     45.1880446410984
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -603,
-    "osm_type": "node",
-    "ref_id": "807",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
@@ -14298,32 +14010,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -604,
+    "osm_id": -580,
     "osm_type": "node",
     "ref_id": "809",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73143088628541,
-     45.1924659674602
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -605,
-    "osm_type": "node",
-    "ref_id": "81",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "10"
    },
    "type": "Feature"
   },
@@ -14338,7 +14030,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -606,
+    "osm_id": -581,
     "osm_type": "node",
     "ref_id": "810",
     "tags.amenity": "bicycle_parking",
@@ -14358,7 +14050,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -607,
+    "osm_id": -582,
     "osm_type": "node",
     "ref_id": "811",
     "tags.amenity": "bicycle_parking",
@@ -14378,7 +14070,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -608,
+    "osm_id": -583,
     "osm_type": "node",
     "ref_id": "812",
     "tags.amenity": "bicycle_parking",
@@ -14398,32 +14090,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -609,
+    "osm_id": -584,
     "osm_type": "node",
     "ref_id": "816",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "10"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7065836392379,
-     45.1907282257288
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -610,
-    "osm_type": "node",
-    "ref_id": "820",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -14438,29 +14110,9 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -611,
+    "osm_id": -585,
     "osm_type": "node",
     "ref_id": "826",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73844320500765,
-     45.1621397644577
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -612,
-    "osm_type": "node",
-    "ref_id": "835",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
@@ -14478,7 +14130,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -613,
+    "osm_id": -586,
     "osm_type": "node",
     "ref_id": "837",
     "tags.amenity": "bicycle_parking",
@@ -14498,12 +14150,32 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -614,
+    "osm_id": -587,
     "osm_type": "node",
     "ref_id": "839",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.73140225907193,
+     45.1924046342337
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -588,
+    "osm_type": "node",
+    "ref_id": "851",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.capacity": "10"
    },
    "type": "Feature"
   },
@@ -14518,7 +14190,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -615,
+    "osm_id": -589,
     "osm_type": "node",
     "ref_id": "854",
     "tags.amenity": "bicycle_parking",
@@ -14538,7 +14210,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -616,
+    "osm_id": -590,
     "osm_type": "node",
     "ref_id": "855",
     "tags.amenity": "bicycle_parking",
@@ -14558,7 +14230,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -617,
+    "osm_id": -591,
     "osm_type": "node",
     "ref_id": "856",
     "tags.amenity": "bicycle_parking",
@@ -14578,7 +14250,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -618,
+    "osm_id": -592,
     "osm_type": "node",
     "ref_id": "857",
     "tags.amenity": "bicycle_parking",
@@ -14598,32 +14270,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -619,
+    "osm_id": -593,
     "osm_type": "node",
     "ref_id": "861",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "8"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.7337674161832,
-     45.1947012988441
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -620,
-    "osm_type": "node",
-    "ref_id": "866",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "6"
    },
    "type": "Feature"
   },
@@ -14638,7 +14290,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -621,
+    "osm_id": -594,
     "osm_type": "node",
     "ref_id": "878",
     "tags.amenity": "bicycle_parking",
@@ -14658,7 +14310,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -622,
+    "osm_id": -595,
     "osm_type": "node",
     "ref_id": "88",
     "tags.amenity": "bicycle_parking",
@@ -14678,32 +14330,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -623,
+    "osm_id": -596,
     "osm_type": "node",
     "ref_id": "883",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "8"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.72950629466093,
-     45.1915052400149
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -624,
-    "osm_type": "node",
-    "ref_id": "89",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
    },
    "type": "Feature"
   },
@@ -14718,9 +14350,29 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -625,
+    "osm_id": -597,
     "osm_type": "node",
     "ref_id": "897",
+    "tags.amenity": "bicycle_parking",
+    "tags.bicycle_parking": "stands",
+    "tags.capacity": "4"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.72954320312043,
+     45.1915745854654
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -598,
+    "osm_type": "node",
+    "ref_id": "90",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "4"
@@ -14738,7 +14390,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -626,
+    "osm_id": -599,
     "osm_type": "node",
     "ref_id": "904",
     "tags.amenity": "bicycle_parking",
@@ -14758,7 +14410,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -627,
+    "osm_id": -600,
     "osm_type": "node",
     "ref_id": "905",
     "tags.amenity": "bicycle_parking",
@@ -14778,7 +14430,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -628,
+    "osm_id": -601,
     "osm_type": "node",
     "ref_id": "906",
     "tags.amenity": "bicycle_parking",
@@ -14798,7 +14450,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -629,
+    "osm_id": -602,
     "osm_type": "node",
     "ref_id": "908",
     "tags.amenity": "bicycle_parking",
@@ -14818,32 +14470,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -630,
+    "osm_id": -603,
     "osm_type": "node",
     "ref_id": "909",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "2"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.73444014874722,
-     45.1706650945235
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -631,
-    "osm_type": "node",
-    "ref_id": "910",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "8"
    },
    "type": "Feature"
   },
@@ -14858,32 +14490,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -632,
+    "osm_id": -604,
     "osm_type": "node",
     "ref_id": "917",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "8"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.71429159093589,
-     45.1773258885647
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -633,
-    "osm_type": "node",
-    "ref_id": "918",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
    },
    "type": "Feature"
   },
@@ -14898,7 +14510,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -634,
+    "osm_id": -605,
     "osm_type": "node",
     "ref_id": "924",
     "tags.amenity": "bicycle_parking",
@@ -14918,7 +14530,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -635,
+    "osm_id": -606,
     "osm_type": "node",
     "ref_id": "929",
     "tags.amenity": "bicycle_parking",
@@ -14938,7 +14550,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -636,
+    "osm_id": -607,
     "osm_type": "node",
     "ref_id": "94",
     "tags.amenity": "bicycle_parking",
@@ -14958,7 +14570,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -637,
+    "osm_id": -608,
     "osm_type": "node",
     "ref_id": "95",
     "tags.amenity": "bicycle_parking",
@@ -14978,7 +14590,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -638,
+    "osm_id": -609,
     "osm_type": "node",
     "ref_id": "956",
     "tags.amenity": "bicycle_parking",
@@ -14998,7 +14610,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -639,
+    "osm_id": -610,
     "osm_type": "node",
     "ref_id": "957",
     "tags.amenity": "bicycle_parking",
@@ -15018,7 +14630,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -640,
+    "osm_id": -611,
     "osm_type": "node",
     "ref_id": "959",
     "tags.amenity": "bicycle_parking",
@@ -15038,32 +14650,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -641,
+    "osm_id": -612,
     "osm_type": "node",
     "ref_id": "960",
     "tags.amenity": "bicycle_parking",
     "tags.bicycle_parking": "stands",
     "tags.capacity": "6"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     5.72553238401635,
-     45.1821992519501
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -642,
-    "osm_type": "node",
-    "ref_id": "970",
-    "tags.amenity": "bicycle_parking",
-    "tags.bicycle_parking": "stands",
-    "tags.capacity": "4"
    },
    "type": "Feature"
   },
@@ -15078,7 +14670,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -643,
+    "osm_id": -613,
     "osm_type": "node",
     "ref_id": "972",
     "tags.amenity": "bicycle_parking",
@@ -15098,7 +14690,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -644,
+    "osm_id": -614,
     "osm_type": "node",
     "ref_id": "974",
     "tags.amenity": "bicycle_parking",
@@ -15118,7 +14710,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -645,
+    "osm_id": -615,
     "osm_type": "node",
     "ref_id": "977",
     "tags.amenity": "bicycle_parking",
@@ -15138,7 +14730,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -646,
+    "osm_id": -616,
     "osm_type": "node",
     "ref_id": "988",
     "tags.amenity": "bicycle_parking",
@@ -15158,7 +14750,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -647,
+    "osm_id": -617,
     "osm_type": "node",
     "ref_id": "99",
     "tags.amenity": "bicycle_parking",
@@ -15178,7 +14770,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -648,
+    "osm_id": -618,
     "osm_type": "node",
     "ref_id": "993",
     "tags.amenity": "bicycle_parking",
@@ -15198,7 +14790,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -649,
+    "osm_id": -619,
     "osm_type": "node",
     "ref_id": "999",
     "tags.amenity": "bicycle_parking",
