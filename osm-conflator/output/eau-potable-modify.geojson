@@ -1,0 +1,713 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.7252892,
+          45.1643703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 10226203662,
+        "osm_type": "node",
+        "ref_coords": [
+          5.725289,
+          45.164369
+        ],
+        "ref_distance": 0.1,
+        "ref_id": "YzMjE",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7430442,
+          45.1743345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2347218901,
+        "osm_type": "node",
+        "ref_coords": [
+          5.74304,
+          45.174336
+        ],
+        "ref_distance": 0.4,
+        "ref_id": "Q2ODQ",
+        "tags.amenity": "drinking_water",
+        "tags.check_date": "2022-05-01",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7114717,
+          45.1732662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 9800675517,
+        "osm_type": "node",
+        "ref_coords": [
+          5.711467,
+          45.173267
+        ],
+        "ref_distance": 0.4,
+        "ref_id": "U5Mjc",
+        "tags.amenity": "drinking_water",
+        "tags.survey:date": "2022-06-06",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7144655,
+          45.1871177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 8726239163,
+        "osm_type": "node",
+        "ref_coords": [
+          5.714461,
+          45.187121
+        ],
+        "ref_distance": 0.5,
+        "ref_id": "kzNTA",
+        "tags.amenity": "drinking_water",
+        "tags.bottle": "yes",
+        "tags.fee": "no",
+        "tags.fountain": "drinking",
+        "tags.operator": "Ville de Grenoble",
+        "tags.wheelchair": "yes",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7048761,
+          45.1882598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2495586838,
+        "osm_type": "node",
+        "ref_coords": [
+          5.704874,
+          45.188255
+        ],
+        "ref_distance": 0.6,
+        "ref_id": "M4NDA",
+        "tags.amenity": "drinking_water",
+        "tags.check_date": "2021-08-20",
+        "tags.fountain": "drinking",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7224813,
+          45.1632853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 10173062826,
+        "osm_type": "node",
+        "ref_coords": [
+          5.722476,
+          45.16328
+        ],
+        "ref_distance": 0.7,
+        "ref_id": "E0MjU",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7481391,
+          45.1757275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 10789796013,
+        "osm_type": "node",
+        "ref_coords": [
+          5.74815,
+          45.175729
+        ],
+        "ref_distance": 0.9,
+        "ref_id": "c3NTY",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7415656,
+          45.1784774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3920458299,
+        "osm_type": "node",
+        "ref_coords": [
+          5.741574,
+          45.178472
+        ],
+        "ref_distance": 0.9,
+        "ref_id": "QzMjM",
+        "tags.amenity": "drinking_water",
+        "tags.source": "survey",
+        "tags.survey:date": "2022-10-22",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7348385,
+          45.1702342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 9943098188,
+        "osm_type": "node",
+        "ref_coords": [
+          5.734825,
+          45.170229
+        ],
+        "ref_distance": 1.2,
+        "ref_id": "E3NTc",
+        "tags.amenity": "drinking_water",
+        "tags.survey:date": "2022-08-09",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7410256,
+          45.1752086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3832492982,
+        "osm_type": "node",
+        "ref_coords": [
+          5.741042,
+          45.175207
+        ],
+        "ref_distance": 1.3,
+        "ref_id": "M3ODE",
+        "tags.amenity": "drinking_water",
+        "tags.check_date": "2022-10-31",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7370392,
+          45.1659896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 9961662337,
+        "osm_type": "node",
+        "ref_coords": [
+          5.737052,
+          45.165982
+        ],
+        "ref_distance": 1.3,
+        "ref_id": "M3Njg",
+        "tags.amenity": "drinking_water",
+        "tags.survey:date": "2022-08-18",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7323568,
+          45.1606919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 10092601628,
+        "osm_type": "node",
+        "ref_coords": [
+          5.732363,
+          45.160703
+        ],
+        "ref_distance": 1.3,
+        "ref_id": "EyMDc",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7140751,
+          45.2002249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6566157632,
+        "osm_type": "node",
+        "ref_coords": [
+          5.714089,
+          45.200232
+        ],
+        "ref_distance": 1.3,
+        "ref_id": "E1OTg",
+        "tags.amenity": "drinking_water",
+        "tags.source": "survey",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7369239,
+          45.1962015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 7844305797,
+        "osm_type": "node",
+        "ref_coords": [
+          5.736931,
+          45.196217
+        ],
+        "ref_distance": 1.8,
+        "ref_id": "ExNDM",
+        "tags.access": "yes",
+        "tags.amenity": "drinking_water",
+        "tags.bottle": "yes",
+        "tags.fee": "no",
+        "tags.wheelchair": "yes",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7490843,
+          45.1709793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 9955801866,
+        "osm_type": "node",
+        "ref_coords": [
+          5.749103,
+          45.170989
+        ],
+        "ref_distance": 1.8,
+        "ref_id": "EyNDg",
+        "tags.amenity": "drinking_water",
+        "tags.survey:date": "2022-08-15",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7272358,
+          45.187789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 10140493417,
+        "osm_type": "node",
+        "ref_coords": [
+          5.727223,
+          45.187775
+        ],
+        "ref_distance": 1.9,
+        "ref_id": "UxMzE",
+        "tags.amenity": "drinking_water",
+        "tags.fountain": "drinking",
+        "tags.survey:date": "2022-10-30",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7134908,
+          45.1724209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 12118690990,
+        "osm_type": "node",
+        "ref_coords": [
+          5.713498,
+          45.172395
+        ],
+        "ref_distance": 2.9,
+        "ref_id": "A5MzA",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7434249,
+          45.1693003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 10754426182,
+        "osm_type": "node",
+        "ref_coords": [
+          5.743425,
+          45.169271
+        ],
+        "ref_distance": 3.3,
+        "ref_id": "QzNTU",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7414213,
+          45.1985866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 11775526899,
+        "osm_type": "node",
+        "ref_coords": [
+          5.741468,
+          45.198584
+        ],
+        "ref_distance": 3.7,
+        "ref_id": "Q2NTg",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7173769,
+          45.1744052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 8644369319,
+        "osm_type": "node",
+        "ref_coords": [
+          5.717408,
+          45.174436
+        ],
+        "ref_distance": 4.2,
+        "ref_id": "kwMDM",
+        "tags.amenity": "drinking_water",
+        "tags.fountain": "drinking",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7348546,
+          45.1644754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 11763964752,
+        "osm_type": "node",
+        "ref_coords": [
+          5.734895,
+          45.164443
+        ],
+        "ref_distance": 4.8,
+        "ref_id": "Y1Mzg",
+        "tags.access": "public",
+        "tags.amenity": "drinking_water",
+        "tags.bottle": "yes",
+        "tags.covered": "no",
+        "tags.fee": "no",
+        "tags.indoor": "no",
+        "tags.operator": "Ville de Grenoble",
+        "tags.wheelchair": "limited",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7280203,
+          45.1601703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6834193285,
+        "osm_type": "node",
+        "ref_coords": [
+          5.727961,
+          45.16014
+        ],
+        "ref_distance": 5.7,
+        "ref_id": "U4MTk",
+        "tags.amenity": "drinking_water",
+        "tags.check_date": "2023-02-03",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7358344,
+          45.1950824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 11800327468,
+        "osm_type": "node",
+        "ref_coords": [
+          5.735886,
+          45.195039
+        ],
+        "ref_distance": 6.3,
+        "ref_id": "U2Mzk",
+        "tags.access": "yes",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7186518,
+          45.1623394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 9734162131,
+        "osm_type": "node",
+        "ref_coords": [
+          5.718565,
+          45.162344
+        ],
+        "ref_distance": 6.8,
+        "ref_id": "A1Mzg",
+        "tags.access": "yes",
+        "tags.amenity": "drinking_water",
+        "tags.bottle": "yes",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7240873,
+          45.1730569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6681702690,
+        "osm_type": "node",
+        "ref_coords": [
+          5.724177,
+          45.173029
+        ],
+        "ref_distance": 7.7,
+        "ref_id": "Y0MzA",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7242881,
+          45.1767714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6501532687,
+        "osm_type": "node",
+        "ref_coords": [
+          5.724198,
+          45.176741
+        ],
+        "ref_distance": 7.8,
+        "ref_id": "I4NzY",
+        "tags.amenity": "drinking_water",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7399553,
+          45.192728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2322091327,
+        "osm_type": "node",
+        "ref_coords": [
+          5.739817,
+          45.192761
+        ],
+        "ref_distance": 11.5,
+        "ref_id": "A4NDM",
+        "tags.amenity": "drinking_water",
+        "tags.check_date": "2021-10-02",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7348587,
+          45.1731719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 773538927,
+        "osm_type": "node",
+        "ref_coords": [
+          5.734859,
+          45.173066
+        ],
+        "ref_distance": 11.8,
+        "ref_id": "Y2MDQ",
+        "tags.amenity": "drinking_water",
+        "tags.check_date": "2022-04-27",
+        "tags_new.man_made": "water_tap"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

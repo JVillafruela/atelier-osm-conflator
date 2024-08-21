@@ -1,0 +1,1164 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.738146,
+          45.186139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -29,
+        "osm_type": "node",
+        "ref_id": "A0MjI",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.706059,
+          45.172957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -30,
+        "osm_type": "node",
+        "ref_id": "A1Nzk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.714148,
+          45.182908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -31,
+        "osm_type": "node",
+        "ref_id": "AzODY",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.742364,
+          45.180138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -32,
+        "osm_type": "node",
+        "ref_id": "E1Mzk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.732104,
+          45.198592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -33,
+        "osm_type": "node",
+        "ref_id": "E2NzA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.733833,
+          45.191801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -34,
+        "osm_type": "node",
+        "ref_id": "E5ODE",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.73988,
+          45.171251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -35,
+        "osm_type": "node",
+        "ref_id": "EzNTk-2",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.737893,
+          45.195919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -36,
+        "osm_type": "node",
+        "ref_id": "I0NjY",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.744287,
+          45.195365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -37,
+        "osm_type": "node",
+        "ref_id": "I4MDg",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.73389,
+          45.16389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -38,
+        "osm_type": "node",
+        "ref_id": "I5NzE",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.733438,
+          45.165424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -39,
+        "osm_type": "node",
+        "ref_id": "IwMDA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.744282,
+          45.192779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -40,
+        "osm_type": "node",
+        "ref_id": "IwOTA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.745224,
+          45.195603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -41,
+        "osm_type": "node",
+        "ref_id": "M1NzE",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.742448,
+          45.173293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -42,
+        "osm_type": "node",
+        "ref_id": "M3MDM",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.743028,
+          45.168262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -43,
+        "osm_type": "node",
+        "ref_id": "M3Nzc",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.74656,
+          45.195229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -44,
+        "osm_type": "node",
+        "ref_id": "M3OTY",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.748356,
+          45.18052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -45,
+        "osm_type": "node",
+        "ref_id": "M4Mzg",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.736287,
+          45.187219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -46,
+        "osm_type": "node",
+        "ref_id": "M5OTY",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.737582,
+          45.162494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -47,
+        "osm_type": "node",
+        "ref_id": "MxMzY",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.726562,
+          45.190365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -48,
+        "osm_type": "node",
+        "ref_id": "MxOTk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.704356,
+          45.170139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -49,
+        "osm_type": "node",
+        "ref_id": "MyNDA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.722763,
+          45.169296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -50,
+        "osm_type": "node",
+        "ref_id": "MzMDk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.746159,
+          45.194388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -51,
+        "osm_type": "node",
+        "ref_id": "MzODU",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.743781,
+          45.19432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -52,
+        "osm_type": "node",
+        "ref_id": "Q2MDE",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.749778,
+          45.177272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -53,
+        "osm_type": "node",
+        "ref_id": "Q2NTQ",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.737084,
+          45.194818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -54,
+        "osm_type": "node",
+        "ref_id": "Q2Nzc",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.740065,
+          45.193797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -55,
+        "osm_type": "node",
+        "ref_id": "U2ODE",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.735261,
+          45.157345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -56,
+        "osm_type": "node",
+        "ref_id": "U3NzA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.744289,
+          45.193664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -57,
+        "osm_type": "node",
+        "ref_id": "U4ODI",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.745817,
+          45.194996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -58,
+        "osm_type": "node",
+        "ref_id": "U5MDU",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.72754,
+          45.184773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -59,
+        "osm_type": "node",
+        "ref_id": "U5Mjk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.706477,
+          45.177143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -60,
+        "osm_type": "node",
+        "ref_id": "U5NzA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.73004,
+          45.189923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -61,
+        "osm_type": "node",
+        "ref_id": "U5OTY",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.729541,
+          45.176776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -62,
+        "osm_type": "node",
+        "ref_id": "UxMDQ",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.703759,
+          45.171342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -63,
+        "osm_type": "node",
+        "ref_id": "UzNDE",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.74099,
+          45.19322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -64,
+        "osm_type": "node",
+        "ref_id": "UzOTQ",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.70273,
+          45.170516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -65,
+        "osm_type": "node",
+        "ref_id": "Y1OTI",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.733614,
+          45.183759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -66,
+        "osm_type": "node",
+        "ref_id": "YwNjM",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7487,
+          45.171722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -67,
+        "osm_type": "node",
+        "ref_id": "YxNjM",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.749606,
+          45.176293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -68,
+        "osm_type": "node",
+        "ref_id": "YzMDQ",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.733841,
+          45.167735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -69,
+        "osm_type": "node",
+        "ref_id": "c0Mzk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.740614,
+          45.195193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -70,
+        "osm_type": "node",
+        "ref_id": "c2MTU",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.748824,
+          45.179029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -71,
+        "osm_type": "node",
+        "ref_id": "c3Njk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.723353,
+          45.19214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -72,
+        "osm_type": "node",
+        "ref_id": "c3ODc",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.738438,
+          45.195483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -73,
+        "osm_type": "node",
+        "ref_id": "cyNjk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.745691,
+          45.193444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -74,
+        "osm_type": "node",
+        "ref_id": "g0NDc",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.738615,
+          45.193251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -75,
+        "osm_type": "node",
+        "ref_id": "g1MTI",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.712827,
+          45.187605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -76,
+        "osm_type": "node",
+        "ref_id": "g2ODA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.738431,
+          45.160812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -77,
+        "osm_type": "node",
+        "ref_id": "g5MzM",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.731061,
+          45.190389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -78,
+        "osm_type": "node",
+        "ref_id": "gyMTA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.734112,
+          45.162179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -79,
+        "osm_type": "node",
+        "ref_id": "gzNzY",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.710863,
+          45.199383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -80,
+        "osm_type": "node",
+        "ref_id": "k0MjA",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.744866,
+          45.193016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -81,
+        "osm_type": "node",
+        "ref_id": "k1Mzk",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.744606,
+          45.182965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -82,
+        "osm_type": "node",
+        "ref_id": "k1ODI",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.740997,
+          45.196155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -83,
+        "osm_type": "node",
+        "ref_id": "k2MzM",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.731786,
+          45.162643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -84,
+        "osm_type": "node",
+        "ref_id": "k4OTE",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.721685,
+          45.178318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -85,
+        "osm_type": "node",
+        "ref_id": "k5MzQ",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.741811,
+          45.195632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -86,
+        "osm_type": "node",
+        "ref_id": "k5ODg",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.728948,
+          45.183456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -87,
+        "osm_type": "node",
+        "ref_id": "kxNDY",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.743742,
+          45.169914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -88,
+        "osm_type": "node",
+        "ref_id": "kxNzU",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.741274,
+          45.19389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -89,
+        "osm_type": "node",
+        "ref_id": "kyNjQ",
+        "tags.amenity": "drinking_water",
+        "tags.man_made": "water_tap"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

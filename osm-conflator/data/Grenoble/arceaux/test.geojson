@@ -1,41 +1,24 @@
 {
-    "name": "Arceaux_EPSG4326",
     "type": "FeatureCollection",
-    "features": [{
+    "features": [
+        {
             "type": "Feature",
+            "properties": {
+                "mob_arce_id": 46,
+                "geo_point_2d": [
+                    5.72616761182579,
+                    45.1865894781128
+                ],
+                "mob_arce_nb": 1,
+                "mob_arce_typ": "nouveau mod\u00e8le",
+                "mob_arce_datecre": 20010101000000
+            },
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.72616761182579, 45.1865894781128]
-            },
-            "properties": {
-                "MOB_ARCE_ID": 46,
-                "MOB_ARCE_NB": 1,
-                "MOB_ARCE_TYP": "nouveau modèle",
-                "MOB_ARCE_DATECRE": "20010101000000"
-            }
-        }, {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [5.72778228524969, 45.1873270966455]
-            },
-            "properties": {
-                "MOB_ARCE_ID": 47,
-                "MOB_ARCE_NB": 2,
-                "MOB_ARCE_TYP": "nouveau modèle",
-                "MOB_ARCE_DATECRE": "20060101000000"
-            }
-        }, {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [5.72553238401635, 45.1821992519501]
-            },
-            "properties": {
-                "MOB_ARCE_ID": 970,
-                "MOB_ARCE_NB": 2,
-                "MOB_ARCE_TYP": "nouveau modèle",
-                "MOB_ARCE_DATECRE": "20100101000000"
+                "coordinates": [
+                    5.72616761182579,
+                    45.1865894781128
+                ]
             }
         }
     ]
